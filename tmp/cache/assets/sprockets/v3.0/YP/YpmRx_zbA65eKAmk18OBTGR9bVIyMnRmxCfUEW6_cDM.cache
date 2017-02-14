@@ -1,0 +1,59 @@
+{:uriI"'file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/string_decoder/package.json?type=application/json&id=0061090c9446258b5a2711ea10bbb2c7d1dc69073ac825712b9226375e6ba71b:ET:load_pathI"app/assets/stylesheets;T:filenameI"Æapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/string_decoder/package.json;T:	nameI"ªicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/string_decoder/package;T:logical_pathI"¯icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/string_decoder/package.json;T:content_typeI"application/json;T:sourceI"X{
+  "name": "string_decoder",
+  "version": "0.10.31",
+  "description": "The string_decoder module from Node core",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.8"
+  },
+  "scripts": {
+    "test": "tap test/simple/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rvagg/string_decoder.git"
+  },
+  "homepage": "https://github.com/rvagg/string_decoder",
+  "keywords": [
+    "string",
+    "decoder",
+    "browser",
+    "browserify"
+  ],
+  "license": "MIT",
+  "gitHead": "d46d4fd87cf1d06e031c23f1ba170ca7d4ade9a0",
+  "bugs": {
+    "url": "https://github.com/rvagg/string_decoder/issues"
+  },
+  "_id": "string_decoder@0.10.31",
+  "_shasum": "62e203bc41766c6c28c9fc84301dab1c5310fa94",
+  "_from": "string_decoder@>=0.10.0 <0.11.0",
+  "_npmVersion": "1.4.23",
+  "_npmUser": {
+    "name": "rvagg",
+    "email": "rod@vagg.org"
+  },
+  "maintainers": [
+    {
+      "name": "substack",
+      "email": "mail@substack.net"
+    },
+    {
+      "name": "rvagg",
+      "email": "rod@vagg.org"
+    }
+  ],
+  "dist": {
+    "shasum": "62e203bc41766c6c28c9fc84301dab1c5310fa94",
+    "tarball": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.31.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.31.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ôfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/string_decoder/package.json;TTF:charsetI"
+utf-8;F:digest"%Vüö–J ?"{¿	k$*æNÎ’vÒäC›@BÑ›:lengthiX:dependencies_digest"%–8ñ=ÊäIÁ[Ç‰6ï+ðò(ëj!É8¹)­[Ž`:idI"E0061090c9446258b5a2711ea10bbb2c7d1dc69073ac825712b9226375e6ba71b;F:
+mtimel+Ä*X

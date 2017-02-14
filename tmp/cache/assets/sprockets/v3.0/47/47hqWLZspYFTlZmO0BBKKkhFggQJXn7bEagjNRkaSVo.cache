@@ -1,0 +1,16 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2eot/node_modules/ttf2eot/node_modules/argparse/node_modules/underscore.string/component.json?type=application/json&id=0591d42b69a934b01f3263c1411d3e5fc21f93301f868e00cc82ddae707d89ee:ET:load_pathI"app/assets/stylesheets;T:filenameI"®app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2eot/node_modules/ttf2eot/node_modules/argparse/node_modules/underscore.string/component.json;T:	nameI"’icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2eot/node_modules/ttf2eot/node_modules/argparse/node_modules/underscore.string/component;T:logical_pathI"—icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2eot/node_modules/ttf2eot/node_modules/argparse/node_modules/underscore.string/component.json;T:content_typeI"application/json;T:sourceI"Y{
+  "name": "underscore.string",
+  "repo": "epeli/underscore.string",
+  "description": "String manipulation extensions for Underscore.js javascript library",
+  "version": "2.4.0",
+  "keywords": ["underscore", "string"],
+  "dependencies": {},
+  "development": {},
+  "main": "lib/underscore.string.js",
+  "scripts": ["lib/underscore.string.js"]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¼file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2eot/node_modules/ttf2eot/node_modules/argparse/node_modules/underscore.string/component.json;TTF:charsetI"
+utf-8;F:digest"%¼F8˜GÕB°ÀÃRÊ»‚©ÿó¡d'Ã{–ahT:lengthiY:dependencies_digest"%NfÁêJìµjû²6'e>*"RTºC‚ïéŒ¤.ß:idI"E0591d42b69a934b01f3263c1411d3e5fc21f93301f868e00cc82ddae707d89ee;F:
+mtimel+JJgT

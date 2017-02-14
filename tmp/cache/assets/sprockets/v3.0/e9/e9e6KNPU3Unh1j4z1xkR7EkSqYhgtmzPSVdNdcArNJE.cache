@@ -1,0 +1,100 @@
+{:uriI"ùfile://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/package.json?type=application/json&id=a5e0085d4140299dc70137c2d644e437c790658adbfa4a638f1fd7854883e864:ET:load_pathI"app/assets/stylesheets;T:filenameI"˜app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/package.json;T:	nameI"|icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/package;T:logical_pathI"icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/package.json;T:content_typeI"application/json;T:sourceI"E	{
+  "name": "lodash.restparam",
+  "version": "3.6.1",
+  "description": "The modern build of lodashâ€™s `_.restParam` as a module.",
+  "homepage": "https://lodash.com/",
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "keywords": [
+    "lodash",
+    "lodash-modularized",
+    "stdlib",
+    "util"
+  ],
+  "author": {
+    "name": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/"
+  },
+  "contributors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    {
+      "name": "Benjamin Tan",
+      "email": "demoneaux@gmail.com",
+      "url": "https://d10.github.io/"
+    },
+    {
+      "name": "Blaine Bublitz",
+      "email": "blaine@iceddev.com",
+      "url": "http://www.iceddev.com/"
+    },
+    {
+      "name": "Kit Cambridge",
+      "email": "github@kitcambridge.be",
+      "url": "http://kitcambridge.be/"
+    },
+    {
+      "name": "Mathias Bynens",
+      "email": "mathias@qiwi.be",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "bugs": {
+    "url": "https://github.com/lodash/lodash/issues"
+  },
+  "_id": "lodash.restparam@3.6.1",
+  "_shasum": "936a4e309ef330a7645ed4145986c85ae5b20805",
+  "_from": "lodash.restparam@>=3.0.0 <4.0.0",
+  "_npmVersion": "2.7.6",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "jdalton",
+    "email": "john.david.dalton@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jdalton",
+      "email": "john.david.dalton@gmail.com"
+    },
+    {
+      "name": "d10",
+      "email": "demoneaux@gmail.com"
+    },
+    {
+      "name": "kitcambridge",
+      "email": "github@kitcambridge.be"
+    },
+    {
+      "name": "mathias",
+      "email": "mathias@qiwi.be"
+    },
+    {
+      "name": "phated",
+      "email": "blaine@iceddev.com"
+    }
+  ],
+  "dist": {
+    "shasum": "936a4e309ef330a7645ed4145986c85ae5b20805",
+    "tarball": "https://registry.npmjs.org/lodash.restparam/-/lodash.restparam-3.6.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lodash.restparam/-/lodash.restparam-3.6.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¦file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.restparam/package.json;TTF:charsetI"
+utf-8;F:digest"%*±ÚƒøNÈ@ça­Wç„só–iy¥¼…A7câó$:lengthiE	:dependencies_digest"%aGr'/ÞÐVS(²,«˜C
+øÁ2OŸ_»ŸVY™³:idI"Ea5e0085d4140299dc70137c2d644e437c790658adbfa4a638f1fd7854883e864;F:
+mtimel+?Ä*X

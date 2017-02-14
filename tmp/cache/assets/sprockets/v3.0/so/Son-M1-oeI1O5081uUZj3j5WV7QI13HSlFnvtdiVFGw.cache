@@ -1,0 +1,74 @@
+{:uriI"Ìfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/v8flags/node_modules/user-home/package.json?type=application/json&id=d691c6b9d89816c7684a81db3ba3e144d7d406f382cd02f14f8e6401325064d7:ET:load_pathI"app/assets/stylesheets;T:filenameI"papp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/v8flags/node_modules/user-home/package.json;T:	nameI"Ticon-font/node_modules/gulp/node_modules/v8flags/node_modules/user-home/package;T:logical_pathI"Yicon-font/node_modules/gulp/node_modules/v8flags/node_modules/user-home/package.json;T:content_typeI"application/json;T:sourceI"+{
+  "name": "user-home",
+  "version": "1.1.1",
+  "description": "Get the path to the user home directory",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/user-home.git"
+  },
+  "bin": {
+    "user-home": "cli.js"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli",
+    "bin",
+    "user",
+    "home",
+    "homedir",
+    "dir",
+    "directory",
+    "folder",
+    "path"
+  ],
+  "devDependencies": {
+    "ava": "0.0.3"
+  },
+  "gitHead": "cf6ba885d3e6bf625fb3c15ad0334fa623968481",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/user-home/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/user-home",
+  "_id": "user-home@1.1.1",
+  "_shasum": "2b5be23a32b63a7c9deb8d0f28d485724a3df190",
+  "_from": "user-home@>=1.1.1 <2.0.0",
+  "_npmVersion": "2.1.16",
+  "_nodeVersion": "0.10.32",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "2b5be23a32b63a7c9deb8d0f28d485724a3df190",
+    "tarball": "https://registry.npmjs.org/user-home/-/user-home-1.1.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/user-home/-/user-home-1.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"~file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/v8flags/node_modules/user-home/package.json;TTF:charsetI"
+utf-8;F:digest"%xðTèT¢jŒÏZ½Ï!uáT8-ãŒDÃ/ÆÍ(}:lengthi+:dependencies_digest"%ƒ’)Ñ3µA74¸6M`öÛÅÔŽœÎ¯Jáv†6UŠ:idI"Ed691c6b9d89816c7684a81db3ba3e144d7d406f382cd02f14f8e6401325064d7;F:
+mtimel+oÃ*X

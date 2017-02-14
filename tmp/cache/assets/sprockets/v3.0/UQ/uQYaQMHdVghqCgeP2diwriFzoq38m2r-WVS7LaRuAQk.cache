@@ -1,0 +1,81 @@
+{:uriI",file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/package.json?type=application/json&id=8efe29305a1a66f269ac56fdd33c6a177b99c8185b9dd09e73867f546b173ca0:ET:load_pathI"app/assets/stylesheets;T:filenameI"Ëapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/package.json;T:	nameI"¯icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/package;T:logical_pathI"´icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/package.json;T:content_typeI"application/json;T:sourceI"Ó{
+  "name": "load-json-file",
+  "version": "1.1.0",
+  "description": "Read and parse a JSON file",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/load-json-file.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "json",
+    "read",
+    "parse",
+    "file",
+    "fs",
+    "graceful",
+    "load"
+  ],
+  "dependencies": {
+    "graceful-fs": "^4.1.2",
+    "parse-json": "^2.2.0",
+    "pify": "^2.0.0",
+    "pinkie-promise": "^2.0.0",
+    "strip-bom": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "xo": {
+    "ignores": [
+      "test.js"
+    ]
+  },
+  "gitHead": "115157a417380d3160da418d4ff25bb33b0051eb",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/load-json-file/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/load-json-file",
+  "_id": "load-json-file@1.1.0",
+  "_shasum": "956905708d58b4bab4c2261b04f59f31c99374c0",
+  "_from": "load-json-file@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "956905708d58b4bab4c2261b04f59f31c99374c0",
+    "tarball": "https://registry.npmjs.org/load-json-file/-/load-json-file-1.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/load-json-file/-/load-json-file-1.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ùfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/package.json;TTF:charsetI"
+utf-8;F:digest"%0_³İO7ƒ û]}õËNĞÇy“yşV7ÃÀ³Ø‚ˆ¡:lengthiÓ:dependencies_digest"%…Şâ‰×~t/ìß>1%`cªÁÒU4AÎ‰Jvü:idI"E8efe29305a1a66f269ac56fdd33c6a177b99c8185b9dd09e73867f546b173ca0;F:
+mtimel+uÃ*X

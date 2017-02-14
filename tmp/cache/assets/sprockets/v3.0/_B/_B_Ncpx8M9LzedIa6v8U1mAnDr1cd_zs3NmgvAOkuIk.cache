@@ -1,0 +1,40 @@
+{:uriI""file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/coffee-script.json?type=application/json&id=757986ceeebc7293f8b6ff8fae0b2936439eac3f631d295e6684d445155178e2:ET:load_pathI"app/assets/stylesheets;T:filenameI"Áapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/coffee-script.json;T:	nameI"¥icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/coffee-script;T:logical_pathI"ªicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/coffee-script.json;T:content_typeI"application/json;T:sourceI"º{
+  "name":         "coffee-script",
+  "description":  "Unfancy JavaScript",
+  "keywords":     ["javascript", "language", "coffeescript", "compiler"],
+  "author":       "Jeremy Ashkenas",
+  "version":      "1.6.2",
+  "licenses":     [{
+    "type":       "MIT",
+    "url":        "https://raw.github.com/jashkenas/coffee-script/master/LICENSE"
+  }],
+  "engines":      {
+    "node":       ">=0.8.0"
+  },
+  "directories" : {
+    "lib" : "./lib/coffee-script"
+  },
+  "main" : "./lib/coffee-script/coffee-script",
+  "bin":          {
+    "coffee":     "./bin/coffee",
+    "cake":       "./bin/cake"
+  },
+  "scripts": {
+    "test": "node ./bin/cake test"
+  },
+  "homepage":     "http://coffeescript.org",
+  "bugs":         "https://github.com/jashkenas/coffee-script/issues",
+  "repository":   {
+    "type": "git",
+    "url": "git://github.com/jashkenas/coffee-script.git"
+  },
+  "devDependencies": {
+    "uglify-js":  "~2.2",
+    "jison":      ">=0.2.0"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ïfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/coffee-script.json;TTF:charsetI"
+utf-8;F:digest"%ñˆ¶.CÎ]ğ»ñ¤£šÚSÊº^®
+~!•qäsêÆîã:lengthiº:dependencies_digest"%cı¥"É1_û©ÈVÅ£ùKÛ¾Q1Îk½ŸdòPÛ¿GÀ:idI"E757986ceeebc7293f8b6ff8fae0b2936439eac3f631d295e6684d445155178e2;F:
+mtimel+’%OT

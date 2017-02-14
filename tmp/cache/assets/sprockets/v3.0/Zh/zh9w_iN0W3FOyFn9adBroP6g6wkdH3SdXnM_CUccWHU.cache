@@ -1,0 +1,81 @@
+{:uriI"Xfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json?type=application/json&id=11d742ae041c893fb53225d1cbe8109004e0bc279dc759d4a2ab261affa1b79f:ET:load_pathI"app/assets/stylesheets;T:filenameI"÷app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json;T:	nameI"Ûicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/string-width/node_modules/is-fullwidth-code-point/package;T:logical_pathI"àicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json;T:content_typeI"application/json;T:sourceI"P{
+  "name": "is-fullwidth-code-point",
+  "version": "1.0.0",
+  "description": "Check if the character represented by a given Unicode code point is fullwidth",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-fullwidth-code-point.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "fullwidth",
+    "full-width",
+    "full",
+    "width",
+    "unicode",
+    "character",
+    "char",
+    "string",
+    "str",
+    "codepoint",
+    "code",
+    "point",
+    "is",
+    "detect",
+    "check"
+  ],
+  "dependencies": {
+    "number-is-nan": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "0.0.4",
+    "code-point-at": "^1.0.0"
+  },
+  "gitHead": "f2152d357f41f82785436d428e4f8ede143b7548",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/is-fullwidth-code-point/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/is-fullwidth-code-point",
+  "_id": "is-fullwidth-code-point@1.0.0",
+  "_shasum": "ef9e31386f031a7f0d643af82fde50c457ef00cb",
+  "_from": "is-fullwidth-code-point@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.11.2",
+  "_nodeVersion": "0.12.5",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "ef9e31386f031a7f0d643af82fde50c457ef00cb",
+    "tarball": "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/is-fullwidth-code-point/-/is-fullwidth-code-point-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/string-width/node_modules/is-fullwidth-code-point/package.json;TTF:charsetI"
+utf-8;F:digest"%jQÆ”.Á¡}SÞI,AJ‰.ófÖ<aÈ‘.õð$«*:lengthiP:dependencies_digest"%””ô‹KŒoÀî+>¨Ž{_¢à
+6ATŽ/¨b7Œ›:idI"E11d742ae041c893fb53225d1cbe8109004e0bc279dc759d4a2ab261affa1b79f;F:
+mtimel+Ä*X

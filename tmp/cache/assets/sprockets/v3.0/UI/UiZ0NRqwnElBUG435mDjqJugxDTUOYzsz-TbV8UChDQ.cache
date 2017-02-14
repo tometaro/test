@@ -1,0 +1,70 @@
+{:uriI"Hfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/package.json?type=application/json&id=a57dd59c39d486d996b1aa1f050401332f454a6640639008ade00bd7325c6dd7:ET:load_pathI"app/assets/stylesheets;T:filenameI"çapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/package.json;T:	nameI"Ëicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/package;T:logical_pathI"Ðicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/package.json;T:content_typeI"application/json;T:sourceI"÷{
+  "author": {
+    "name": "Mark Cavage",
+    "email": "mcavage@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "David Gwynne",
+      "email": "loki@animata.net"
+    },
+    {
+      "name": "Yunong Xiao",
+      "email": "yunong@joyent.com"
+    },
+    {
+      "name": "Alex Wilson",
+      "email": "alex.wilson@joyent.com"
+    }
+  ],
+  "name": "asn1",
+  "description": "Contains parsers and serializers for ASN.1 (currently BER only)",
+  "version": "0.2.3",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcavage/node-asn1.git"
+  },
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "0.4.8"
+  },
+  "scripts": {
+    "test": "tap ./tst"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcavage/node-asn1/issues"
+  },
+  "homepage": "https://github.com/mcavage/node-asn1",
+  "_id": "asn1@0.2.3",
+  "_shasum": "dac8787713c9966849fc8180777ebe9c1ddf3b86",
+  "_resolved": "https://registry.npmjs.org/asn1/-/asn1-0.2.3.tgz",
+  "_from": "asn1@>=0.2.3 <0.3.0",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "pfmooney",
+    "email": "patrick.f.mooney@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "mcavage",
+      "email": "mcavage@gmail.com"
+    },
+    {
+      "name": "pfmooney",
+      "email": "patrick.f.mooney@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "dac8787713c9966849fc8180777ebe9c1ddf3b86",
+    "tarball": "https://registry.npmjs.org/asn1/-/asn1-0.2.3.tgz"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"õfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/http-signature/node_modules/sshpk/node_modules/asn1/package.json;TTF:charsetI"
+utf-8;F:digest"%g[å;ËG·“cSˆµºB*qûØb±~í×iP°Þè:lengthi÷:dependencies_digest"%Ê:úh¦l‚¼ãqMï0D|yÛªï±jæ¸(PÓ¹:idI"Ea57dd59c39d486d996b1aa1f050401332f454a6640639008ade00bd7325c6dd7;F:
+mtimel+Ä*X

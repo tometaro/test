@@ -1,0 +1,52 @@
+{:uriI"Áfile://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/clean-sketch/package.json?type=application/json&id=1e3c7995661b182ba503170c3b453795825583b748f87377879fbd748b36cf01:ET:load_pathI"app/assets/stylesheets;T:filenameI"eapp/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/clean-sketch/package.json;T:	nameI"Iicon-font/node_modules/gulp-sketch/node_modules/clean-sketch/package;T:logical_pathI"Nicon-font/node_modules/gulp-sketch/node_modules/clean-sketch/package.json;T:content_typeI"application/json;T:sourceI"µ{
+  "name": "clean-sketch",
+  "version": "1.0.1",
+  "description": "Cleanup Sketch SVG files",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overblog/clean-sketch.git"
+  },
+  "author": {
+    "name": "Overblog"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "svg",
+    "sketch"
+  ],
+  "gitHead": "3c8b4cbfa85a4a7c0a366f9dffff77ce25be2640",
+  "bugs": {
+    "url": "https://github.com/overblog/clean-sketch/issues"
+  },
+  "homepage": "https://github.com/overblog/clean-sketch",
+  "_id": "clean-sketch@1.0.1",
+  "scripts": {},
+  "_shasum": "8bce810263eba39d52b71b07058fc5e419a36e23",
+  "_from": "clean-sketch@>=1.0.1 <2.0.0",
+  "_npmVersion": "1.4.26",
+  "_npmUser": {
+    "name": "ooflorent",
+    "email": "florent.cailhol@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "ooflorent",
+      "email": "florent.cailhol@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "8bce810263eba39d52b71b07058fc5e419a36e23",
+    "tarball": "https://registry.npmjs.org/clean-sketch/-/clean-sketch-1.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/clean-sketch/-/clean-sketch-1.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"sfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/clean-sketch/package.json;TTF:charsetI"
+utf-8;F:digest"%¾ÎÁìr²E"j~dé{µâ:åa;#&a’<¯f¶5w:lengthiµ:dependencies_digest"%âø˜Ø’ü©§ê)¿£V-ÕêïVï)é–(}©õ£:idI"E1e3c7995661b182ba503170c3b453795825583b748f87377879fbd748b36cf01;F:
+mtimel+>Ä*X

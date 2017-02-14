@@ -1,0 +1,24 @@
+{:uriI"Lfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/neatequal/node_modules/varstream/node_modules/readable-stream/node_modules/isarray/component.json?type=application/json&id=aa2e4f7add42286b59f702302d8566234dc29d7b965b7e4072a9ae9f96684838:ET:load_pathI"app/assets/stylesheets;T:filenameI"Îapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/neatequal/node_modules/varstream/node_modules/readable-stream/node_modules/isarray/component.json;T:	nameI"œicon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/neatequal/node_modules/varstream/node_modules/readable-stream/node_modules/isarray/component;T:logical_pathI"‘icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/neatequal/node_modules/varstream/node_modules/readable-stream/node_modules/isarray/component.json;T:content_typeI"application/json;T:sourceI"÷{
+  "name" : "isarray",
+  "description" : "Array#isArray for older browsers",
+  "version" : "0.0.1",
+  "repository" : "juliangruber/isarray",
+  "homepage": "https://github.com/juliangruber/isarray",
+  "main" : "index.js",
+  "scripts" : [
+    "index.js"
+  ],
+  "dependencies" : {},
+  "keywords": ["browser","isarray","array"],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"˘file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/neatequal/node_modules/varstream/node_modules/readable-stream/node_modules/isarray/component.json;TTF:charsetI"
+utf-8;F:digest"%˘ÂÔïÿËˆZ]Õ: 8Â°4aÌïM¨=êå9◊1:lengthi÷:dependencies_digest"%gà['B3í°•é+⁄Z÷qkÆÁAxœπﬁáÁç™Â˘ñ¿:idI"Eaa2e4f7add42286b59f702302d8566234dc29d7b965b7e4072a9ae9f96684838;F:
+mtimel+Cö£Q

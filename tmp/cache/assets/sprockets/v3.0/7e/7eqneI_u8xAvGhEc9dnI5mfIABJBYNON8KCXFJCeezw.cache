@@ -1,0 +1,60 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/bcrypt.json?type=application/json&id=ef2e379c420ab019fa8f2085d8849f6363882b18f1fd3a86dc6f63f5b9c1e782:ET:load_pathI"app/assets/stylesheets;T:filenameI"ºapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/bcrypt.json;T:	nameI"žicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/bcrypt;T:logical_pathI"£icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/bcrypt.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "bcrypt",
+  "description": "A bcrypt library for NodeJS.",
+  "keywords": [
+    "bcrypt",
+    "password",
+    "auth",
+    "authentication",
+    "encryption",
+    "crypt",
+    "crypto"
+  ],
+  "main": "./bcrypt",
+  "version": "0.7.5",
+  "author": "Nick Campbell (http://github.com/ncb000gt)",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ncb000gt/node.bcrypt.js.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "bugs": {
+    "url": "http://github.com/ncb000gt/node.bcrypt.js/issues"
+  },
+  "scripts": {
+    "test": "node-gyp configure build && nodeunit test"
+  },
+  "dependencies": {
+    "bindings": "1.0.0"
+  },
+  "devDependencies": {
+    "nodeunit": ">=0.6.4"
+  },
+  "contributors": [
+    "Antonio Salazar Cardozo <savedfastcool@gmail.com> (https://github.com/Shadowfiend)",
+    "Van Nguyen <the.gol.effect@gmail.com> (https://github.com/thegoleffect)",
+    "David Trejo <david@dtrejo.com> (https://github.com/dtrejo)",
+    "Ben Glow <glen.low@pixelglow.com> (https://github.com/pixelglow)",
+    "NewITFarmer.com <> (https://github.com/newitfarmer)",
+    "Alfred Westerveld <alfredwesterveld@gmail.com> (https://github.com/alfredwesterveld)",
+    "Vincent CÃ´tÃ©-Roy <vincentcr@gmail.com> (https://github.com/vincentcr)",
+    "Lloyd Hilaiel <lloyd@hilaiel.com> (https://github.com/lloyd)",
+    "Roman Shtylman <shtylman@gmail.com> (https://github.com/shtylman)",
+    "Vadim Graboys <dimva13@gmail.com> (https://github.com/vadimg)",
+    "Ben Noorduis <> (https://github.com/bnoordhuis)",
+    "Nate Rajlich <nathan@tootallnate.net> (https://github.com/tootallnate)",
+    "Sean McArthur <sean.monstar@gmail.com> (https://github.com/seanmonstar)",
+    "Fanie Oosthuysen <fanie.oosthuysen@gmail.com> (https://github.com/weareu)"
+  ]
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Èfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/bcrypt.json;TTF:charsetI"
+utf-8;F:digest"%Ù_e=äHG|Ù:ƒxÎÖšþõZzù­[}D/úŽ&eÖ:lengthi:dependencies_digest"%ÔEšú…/šƒ-+â}#	™–7øµè°¸¥×9:1e:idI"Eef2e379c420ab019fa8f2085d8849f6363882b18f1fd3a86dc6f63f5b9c1e782;F:
+mtimel+’%OT

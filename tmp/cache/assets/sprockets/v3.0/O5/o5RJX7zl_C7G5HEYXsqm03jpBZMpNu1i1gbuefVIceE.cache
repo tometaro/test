@@ -1,0 +1,77 @@
+{:uriI"/file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/is-absolute/node_modules/is-relative/node_modules/is-unc-path/package.json?type=application/json&id=50f16834f8392f4d4f75b2495a3a17ddabc7054b66944ace3e8931164725c6fa:ET:load_pathI"app/assets/stylesheets;T:filenameI"Îapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/is-absolute/node_modules/is-relative/node_modules/is-unc-path/package.json;T:	nameI"²icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/is-absolute/node_modules/is-relative/node_modules/is-unc-path/package;T:logical_pathI"·icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/is-absolute/node_modules/is-relative/node_modules/is-unc-path/package.json;T:content_typeI"application/json;T:sourceI"Y{
+  "name": "is-unc-path",
+  "description": "Returns true if a filepath is a windows UNC file path.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jonschlinkert/is-unc-path",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/is-unc-path.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-unc-path/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "absolute",
+    "expression",
+    "file",
+    "filepath",
+    "match",
+    "matching",
+    "path",
+    "regex",
+    "regexp",
+    "regular",
+    "unc",
+    "win",
+    "windows"
+  ],
+  "dependencies": {
+    "unc-path-regex": "^0.1.0"
+  },
+  "_id": "is-unc-path@0.1.1",
+  "_shasum": "ab2533d77ad733561124c3dc0f5cd8b90054c86b",
+  "_from": "is-unc-path@>=0.1.1 <0.2.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "ab2533d77ad733561124c3dc0f5cd8b90054c86b",
+    "tarball": "https://registry.npmjs.org/is-unc-path/-/is-unc-path-0.1.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/is-unc-path/-/is-unc-path-0.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Üfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/is-absolute/node_modules/is-relative/node_modules/is-unc-path/package.json;TTF:charsetI"
+utf-8;F:digest"%ÛÃþsv@½äÚ#/¥qdG.[§ûÚÖ_ûÇè)R:lengthiY:dependencies_digest"%üg¢¸Où]ÈKI¼¦+^„‚ô|æ„µ+ŽN:idI"E50f16834f8392f4d4f75b2495a3a17ddabc7054b66944ace3e8931164725c6fa;F:
+mtimel+tÃ*X

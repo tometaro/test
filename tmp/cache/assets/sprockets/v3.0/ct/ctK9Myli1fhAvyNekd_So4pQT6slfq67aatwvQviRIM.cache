@@ -1,0 +1,80 @@
+{:uriI"Ífile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/tildify/node_modules/os-homedir/package.json?type=application/json&id=7f70a7c78fb5d190e157df4d552a5a98fa2ec028ad43f35cd30f3456510e9df8:ET:load_pathI"app/assets/stylesheets;T:filenameI"qapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/tildify/node_modules/os-homedir/package.json;T:	nameI"Uicon-font/node_modules/gulp/node_modules/tildify/node_modules/os-homedir/package;T:logical_pathI"Zicon-font/node_modules/gulp/node_modules/tildify/node_modules/os-homedir/package.json;T:content_typeI"application/json;T:sourceI"ù{
+  "name": "os-homedir",
+  "version": "1.0.2",
+  "description": "Node.js 4 `os.homedir()` ponyfill",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/os-homedir.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "builtin",
+    "core",
+    "ponyfill",
+    "polyfill",
+    "shim",
+    "os",
+    "homedir",
+    "home",
+    "dir",
+    "directory",
+    "folder",
+    "user",
+    "path"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "path-exists": "^2.0.0",
+    "xo": "^0.16.0"
+  },
+  "gitHead": "b1b0ae70a5965fef7005ff6509a5dd1a78c95e36",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/os-homedir/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/os-homedir#readme",
+  "_id": "os-homedir@1.0.2",
+  "_shasum": "ffbc4988336e0e833de0c168c7ef152121aa7fb3",
+  "_from": "os-homedir@>=1.0.0 <2.0.0",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.6.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "ffbc4988336e0e833de0c168c7ef152121aa7fb3",
+    "tarball": "https://registry.npmjs.org/os-homedir/-/os-homedir-1.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/os-homedir-1.0.2.tgz_1475211519628_0.7873868853785098"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/os-homedir/-/os-homedir-1.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/tildify/node_modules/os-homedir/package.json;TTF:charsetI"
+utf-8;F:digest"%éOXÜ©?wLònÙåxN‰Ñ[6˜Ôìdjtã…U9š¼:lengthiù:dependencies_digest"%oS·†ycW+©¯x±¼{Gà!êÞßðükš‡ì5#:idI"E7f70a7c78fb5d190e157df4d552a5a98fa2ec028ad43f35cd30f3456510e9df8;F:
+mtimel+oÃ*X

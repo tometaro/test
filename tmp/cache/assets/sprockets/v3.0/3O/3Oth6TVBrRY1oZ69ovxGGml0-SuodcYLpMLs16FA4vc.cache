@@ -1,0 +1,33 @@
+{:uriI">file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/read-package-json.json?type=application/json&id=41b0a5b99fa1e4e7e00913c7fb5795ecd1c44ddbf4d59f2884189e3a1a232bc6:ET:load_pathI"app/assets/stylesheets;T:filenameI"›app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/read-package-json.json;T:	nameI"¡icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/read-package-json;T:logical_pathI"∆icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/read-package-json.json;T:content_typeI"application/json;T:sourceI"§{
+  "name": "read-package-json",
+  "version": "0.1.1",
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "description": "The thing npm uses to read package.json files with semantics and defaults and validation",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/read-package-json.git"
+  },
+  "license": "MIT",
+  "main": "read-json.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {
+    "glob": "~3.1.9",
+    "lru-cache": "~1.1.0",
+    "semver": "~1.0.14",
+    "slide": "~1.1.3"
+  },
+  "devDependencies": {
+    "tap": "~0.2.5"
+  },
+  "optionalDependencies": {
+    "npmlog": "0",
+    "graceful-fs": "~1.1.8"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Îfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/read-package-json.json;TTF:charsetI"
+utf-8;F:digest"% Ω]1ñ%Nä^∆œ:¥’)X≠J:>›Q &ts3è$:lengthi§:dependencies_digest"%≠◊*«J‘∞èR;Íx3éŸ∑%ì5˘(6◊màr¬∑:idI"E41b0a5b99fa1e4e7e00913c7fb5795ecd1c44ddbf4d59f2884189e3a1a232bc6;F:
+mtimel+Oâ2V

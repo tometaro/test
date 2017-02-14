@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/earlyaccess/roundedmplus1c.css);
+@import "component/variables";
+
+body {
+  font-family: "Rounded Mplus 1c";
+  letter-spacing: 0.1em;
+  line-height: 2.0;
+
+
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 28px;
+    margin-bottom: 60px;
+    text-align: center;
+    color: $White;
+
+  }
+
+  p,li,dt,dd,a {
+    font-size: 14px;
+    color: $White;
+  }
+  a {
+    text-decoration: none;
+  }
+}
+
+@import "component/section";
+@import "component/articleList";
+@import "component/tab";
+@import "component/header";
+@import "icon-font/dist/css/symbols.css";
+@import "component/accordion";

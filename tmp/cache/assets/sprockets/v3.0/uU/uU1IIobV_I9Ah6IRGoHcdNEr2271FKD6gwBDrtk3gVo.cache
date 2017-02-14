@@ -1,0 +1,75 @@
+{:uriI"zfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/node_modules/number-is-nan/package.json?type=application/json&id=195fc6d140f7a87de0653f921e3e3aaa38c8608371b7822d5614f32cd75112a1:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/node_modules/number-is-nan/package.json;T:	nameI"ýicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/node_modules/number-is-nan/package;T:logical_pathI"icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/node_modules/number-is-nan/package.json;T:content_typeI"application/json;T:sourceI"«{
+  "name": "number-is-nan",
+  "version": "1.0.1",
+  "description": "ES2015 Number.isNaN() ponyfill",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/number-is-nan.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "es2015",
+    "ecmascript",
+    "ponyfill",
+    "polyfill",
+    "shim",
+    "number",
+    "is",
+    "nan",
+    "not"
+  ],
+  "devDependencies": {
+    "ava": "*"
+  },
+  "gitHead": "ed9cdac3f428cc929b61bb230da42c87477af4b9",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/number-is-nan/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/number-is-nan#readme",
+  "_id": "number-is-nan@1.0.1",
+  "_shasum": "097b602b53422a522c1afb8790318336941a011d",
+  "_from": "number-is-nan@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.15.9",
+  "_nodeVersion": "4.5.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "097b602b53422a522c1afb8790318336941a011d",
+    "tarball": "https://registry.npmjs.org/number-is-nan/-/number-is-nan-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/number-is-nan-1.0.1.tgz_1475212313367_0.9480371843092144"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/number-is-nan/-/number-is-nan-1.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"'file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/node_modules/number-is-nan/package.json;TTF:charsetI"
+utf-8;F:digest"%_I¦¦û³X$86ª6Ö3ß]Cà¶ùkžæÏE¨H\Å:lengthi«:dependencies_digest"%]Ïþ–‰›J7m¨ÊýßÌ¿âyß€)XõÃNð¤ËË:idI"E195fc6d140f7a87de0653f921e3e3aaa38c8608371b7822d5614f32cd75112a1;F:
+mtimel+
+Ä*X

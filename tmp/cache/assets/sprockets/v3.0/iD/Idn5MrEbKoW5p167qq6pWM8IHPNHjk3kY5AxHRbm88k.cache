@@ -1,0 +1,29 @@
+{:uriI"Xfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/pattern.json?type=application/json&id=cf60c6412731584c103d76520925f62b2d0bac4dc650bfa12b38b3e097896d8d:ET:load_pathI"app/assets/stylesheets;T:filenameI"÷app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/pattern.json;T:	nameI"Ûicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/pattern;T:logical_pathI"àicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/pattern.json;T:content_typeI"application/json;T:sourceI"F[
+    {
+        "description": "pattern validation",
+        "schema": {"pattern": "^a*$"},
+        "tests": [
+            {
+                "description": "a matching pattern is valid",
+                "data": "aaa",
+                "valid": true
+            },
+            {
+                "description": "a non-matching pattern is invalid",
+                "data": "abc",
+                "valid": false
+            },
+            {
+                "description": "ignores non-strings",
+                "data": true,
+                "valid": true
+            }
+        ]
+    }
+]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/pattern.json;TTF:charsetI"
+utf-8;F:digest"%j|'š„ı7”6>
+#ûZ¹êt´W©º§9Ü¤:lengthiF:dependencies_digest"%ï¬yĞs_¿ZÎ¦¿ót5Ëff]€Bä:é.Kq©f:idI"Ecf60c6412731584c103d76520925f62b2d0bac4dc650bfa12b38b3e097896d8d;F:
+mtimel+•yU

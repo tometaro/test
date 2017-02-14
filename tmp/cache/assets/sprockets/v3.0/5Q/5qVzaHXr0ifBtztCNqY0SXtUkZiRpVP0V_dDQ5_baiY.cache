@@ -1,0 +1,79 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/node_modules/lodash._root/package.json?type=application/json&id=faa263beef0fa7425133d488295791e70767206623d0a8c4d427a7c418608892:ET:load_pathI"app/assets/stylesheets;T:filenameI"±app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/node_modules/lodash._root/package.json;T:	nameI"•icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/node_modules/lodash._root/package;T:logical_pathI"šicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/node_modules/lodash._root/package.json;T:content_typeI"application/json;T:sourceI"ï{
+  "name": "lodash._root",
+  "version": "3.0.1",
+  "description": "The internal lodash function `root` exported as a module.",
+  "homepage": "https://lodash.com/",
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "author": {
+    "name": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/"
+  },
+  "contributors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    {
+      "name": "Blaine Bublitz",
+      "email": "blaine@iceddev.com",
+      "url": "https://github.com/phated"
+    },
+    {
+      "name": "Mathias Bynens",
+      "email": "mathias@qiwi.be",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "bugs": {
+    "url": "https://github.com/lodash/lodash/issues"
+  },
+  "_id": "lodash._root@3.0.1",
+  "_shasum": "fba1c4524c19ee9a5f8136b4609f017cf4ded692",
+  "_from": "lodash._root@>=3.0.0 <4.0.0",
+  "_npmVersion": "2.14.18",
+  "_nodeVersion": "5.5.0",
+  "_npmUser": {
+    "name": "jdalton",
+    "email": "john.david.dalton@gmail.com"
+  },
+  "dist": {
+    "shasum": "fba1c4524c19ee9a5f8136b4609f017cf4ded692",
+    "tarball": "https://registry.npmjs.org/lodash._root/-/lodash._root-3.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jdalton",
+      "email": "john.david.dalton@gmail.com"
+    },
+    {
+      "name": "mathias",
+      "email": "mathias@qiwi.be"
+    },
+    {
+      "name": "phated",
+      "email": "blaine.bublitz@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-6-west.internal.npmjs.com",
+    "tmp": "tmp/lodash._root-3.0.1.tgz_1455615057559_0.24128212919458747"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lodash._root/-/lodash._root-3.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¿file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.escape/node_modules/lodash._root/package.json;TTF:charsetI"
+utf-8;F:digest"%uIGoó[“¾p;®Piµ¡M·ïâ™«–¸ó†4;:lengthiï:dependencies_digest"%ÝÏ¸–‡³¡&P¶Þqm,9O¯ÖÁ®èb(l—À–Å:idI"Efaa263beef0fa7425133d488295791e70767206623d0a8c4d427a7c418608892;F:
+mtimel+Ä*X

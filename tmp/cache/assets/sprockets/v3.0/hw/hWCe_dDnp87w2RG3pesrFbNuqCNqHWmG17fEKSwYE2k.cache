@@ -1,0 +1,60 @@
+{:uriI"êfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/package.json?type=application/json&id=91182d566371f6a876b9d9f04d54d4d124e00b76b565c7cdab7104f7cda58bab:ET:load_pathI"app/assets/stylesheets;T:filenameI"‰app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/package.json;T:	nameI"ricon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/package;T:logical_pathI"wicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/package.json;T:content_typeI"application/json;T:sourceI"Ž{
+  "name": "unique-stream",
+  "version": "1.0.0",
+  "description": "node.js through stream that emits a unique stream of objects based on criteria",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugeneware/unique-stream.git"
+  },
+  "keywords": [
+    "unique",
+    "stream",
+    "unique-stream",
+    "streaming",
+    "streams"
+  ],
+  "author": {
+    "name": "Eugene Ware",
+    "email": "eugene@noblesamurai.com"
+  },
+  "license": "BSD",
+  "devDependencies": {
+    "chai": "~1.7.2",
+    "mocha": "^1.18.2",
+    "after": "~0.8.1"
+  },
+  "bugs": {
+    "url": "https://github.com/eugeneware/unique-stream/issues"
+  },
+  "homepage": "https://github.com/eugeneware/unique-stream",
+  "_id": "unique-stream@1.0.0",
+  "dist": {
+    "shasum": "d59a4a75427447d9aa6c91e70263f8d26a4b104b",
+    "tarball": "https://registry.npmjs.org/unique-stream/-/unique-stream-1.0.0.tgz"
+  },
+  "_from": "unique-stream@>=1.0.0 <2.0.0",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "eugeneware",
+    "email": "eugene@noblesamurai.com"
+  },
+  "maintainers": [
+    {
+      "name": "eugeneware",
+      "email": "eugene@noblesamurai.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "d59a4a75427447d9aa6c91e70263f8d26a4b104b",
+  "_resolved": "https://registry.npmjs.org/unique-stream/-/unique-stream-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"—file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/unique-stream/package.json;TTF:charsetI"
+utf-8;F:digest"%¡^K»¶HœSÈäB‡ÉðüúzœŸ‚^3V£4³Ü[:lengthiŽ:dependencies_digest"%O(n›~äqòïv¨À¢$Ú2%Æö ¾h¢À¡2(å:idI"E91182d566371f6a876b9d9f04d54d4d124e00b76b565c7cdab7104f7cda58bab;F:
+mtimel+qÃ*X

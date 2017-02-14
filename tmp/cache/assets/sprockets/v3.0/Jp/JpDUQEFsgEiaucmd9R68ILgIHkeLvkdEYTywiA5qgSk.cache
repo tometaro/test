@@ -1,0 +1,76 @@
+{:uriI"¢file://app/assets/stylesheets/icon-font/node_modules/lodash/package.json?type=application/json&id=586a2e1644545fad76f9d1180d161f3fbf90ee95551dea542145484c095caf9f:ET:load_pathI"app/assets/stylesheets;T:filenameI"Fapp/assets/stylesheets/icon-font/node_modules/lodash/package.json;T:	nameI"*icon-font/node_modules/lodash/package;T:logical_pathI"/icon-font/node_modules/lodash/package.json;T:content_typeI"application/json;T:sourceI"&{
+  "name": "lodash",
+  "version": "4.17.1",
+  "description": "Lodash modular utilities.",
+  "keywords": [
+    "modules",
+    "stdlib",
+    "util"
+  ],
+  "homepage": "https://lodash.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "main": "lodash.js",
+  "author": {
+    "name": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/"
+  },
+  "contributors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    {
+      "name": "Mathias Bynens",
+      "email": "mathias@qiwi.be",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "bugs": {
+    "url": "https://github.com/lodash/lodash/issues"
+  },
+  "_id": "lodash@4.17.1",
+  "_shasum": "e75eaf17a34730c6491d9956f4d81f3a044f01bf",
+  "_from": "lodash@latest",
+  "_npmVersion": "2.15.11",
+  "_nodeVersion": "7.1.0",
+  "_npmUser": {
+    "name": "jdalton",
+    "email": "john.david.dalton@gmail.com"
+  },
+  "dist": {
+    "shasum": "e75eaf17a34730c6491d9956f4d81f3a044f01bf",
+    "tarball": "https://registry.npmjs.org/lodash/-/lodash-4.17.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jdalton",
+      "email": "john.david.dalton@gmail.com"
+    },
+    {
+      "name": "mathias",
+      "email": "mathias@qiwi.be"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/lodash-4.17.1.tgz_1479193405702_0.2180279449094087"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Tfile-digest://app/assets/stylesheets/icon-font/node_modules/lodash/package.json;TTF:charsetI"
+utf-8;F:digest"%Ç_|[±x«â°—±ﬁﬁkZëà5£F^B÷8FÀÆ:lengthi&:dependencies_digest"%V‡]‘çŸ∫÷úìÕ,ÏWªDµç¬Ä∂xÍv]zÔ±:idI"E586a2e1644545fad76f9d1180d161f3fbf90ee95551dea542145484c095caf9f;F:
+mtimel+Ö≈*X

@@ -1,0 +1,34 @@
+{:uriI"®file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/appveyor.yml?type=text/yaml&id=21f53d4d106904abde4242d7aa91e81fa88d93c07df9698bb94b4a6f15a6ca79:ET:load_pathI"app/assets/stylesheets;T:filenameI"Yapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/appveyor.yml;T:	nameI">icon-font/node_modules/gulp/node_modules/liftoff/appveyor;T:logical_pathI"Bicon-font/node_modules/gulp/node_modules/liftoff/appveyor.yml;T:content_typeI"text/yaml;T:sourceI"l# http://www.appveyor.com/docs/appveyor-yml
+# http://www.appveyor.com/docs/lang/nodejs-iojs
+
+environment:
+  matrix:
+    # node.js
+    - nodejs_version: "0.10"
+    - nodejs_version: "0.12"
+    - nodejs_version: "4"
+    - nodejs_version: "5"
+    - nodejs_version: "6"
+
+install:
+  - IF %nodejs_version% EQU 0.10 npm -g install npm@2
+  - IF %nodejs_version% EQU 0.10 set PATH=%APPDATA%\npm;%PATH%
+  - ps: Install-Product node $env:nodejs_version
+  - npm install
+
+test_script:
+  - node --version
+  - npm --version
+  # power shell
+  - ps: "npm test"
+  # standard command line
+  - cmd: npm test
+
+build: off
+
+version: "{build}"
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/yaml&file_type=text/yaml;TTI"gfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/appveyor.yml;TTF:charsetI"
+utf-8;F:digest"%÷¬Æè¬fí#n5žé¦ßN2}O€^@[9Þ5‡§^“:lengthil:dependencies_digest"%¾‰ì²<W=îlUîÁXkKÁâH…önšÖ³ë¦:idI"E21f53d4d106904abde4242d7aa91e81fa88d93c07df9698bb94b4a6f15a6ca79;F:
+mtimel+‚w–W

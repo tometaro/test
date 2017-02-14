@@ -1,0 +1,88 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/parse-glob/node_modules/glob-base/package.json?type=application/json&id=7254cac48cbc831c2f7bb0df31847e58ecd2713795172afd4196bb2f2a59f75c:ET:load_pathI"app/assets/stylesheets;T:filenameI"´app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/parse-glob/node_modules/glob-base/package.json;T:	nameI"˜icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/parse-glob/node_modules/glob-base/package;T:logical_pathI"icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/parse-glob/node_modules/glob-base/package.json;T:content_typeI"application/json;T:sourceI"…{
+  "name": "glob-base",
+  "description": "Returns an object with the (non-glob) base path and the actual pattern.",
+  "version": "0.3.0",
+  "homepage": "https://github.com/jonschlinkert/glob-base",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/glob-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/glob-base/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/glob-base/blob/master/LICENSE"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "glob-parent": "^2.0.0",
+    "is-glob": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "^5.1.0"
+  },
+  "keywords": [
+    "base",
+    "directory",
+    "dirname",
+    "expression",
+    "glob",
+    "parent",
+    "path",
+    "pattern",
+    "regex",
+    "regular",
+    "root"
+  ],
+  "gitHead": "adbc0ab07ec8a85f76ffd1b54dd41cdb9d1d0b83",
+  "_id": "glob-base@0.3.0",
+  "_shasum": "dbb164f6221b1c0b1ccf82aea328b497df0ea3c4",
+  "_from": "glob-base@>=0.3.0 <0.4.0",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "es128",
+    "email": "elan.shanker+npm@gmail.com"
+  },
+  "dist": {
+    "shasum": "dbb164f6221b1c0b1ccf82aea328b497df0ea3c4",
+    "tarball": "https://registry.npmjs.org/glob-base/-/glob-base-0.3.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "doowb",
+      "email": "brian.woodward@gmail.com"
+    },
+    {
+      "name": "es128",
+      "email": "elan.shanker+npm@gmail.com"
+    },
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/glob-base/-/glob-base-0.3.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Âfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/parse-glob/node_modules/glob-base/package.json;TTF:charsetI"
+utf-8;F:digest"%C]¢¯D0xôu¼PZ£¿Ã@K§òkKûóÜ%_®´:lengthi…:dependencies_digest"%ÀkIc¢5y7ò£ô8Û~³Ø~Ñ²­ïCÐ÷Ù|m„:idI"E7254cac48cbc831c2f7bb0df31847e58ecd2713795172afd4196bb2f2a59f75c;F:
+mtimel+tÃ*X

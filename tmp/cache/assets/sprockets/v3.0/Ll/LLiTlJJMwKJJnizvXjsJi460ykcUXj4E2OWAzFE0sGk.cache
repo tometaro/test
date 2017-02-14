@@ -1,0 +1,92 @@
+{:uriI"ÿfile://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json?type=application/json&id=f638b7a622c6451ea8430636cf716dead3ae2619ec69071e52b3c1d4a153ba16:ET:load_pathI"app/assets/stylesheets;T:filenameI"žapp/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json;T:	nameI"‚icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package;T:logical_pathI"‡icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json;T:content_typeI"application/json;T:sourceI"\{
+  "name": "ansi-regex",
+  "version": "2.0.0",
+  "description": "Regular expression for matching ANSI escape codes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/ansi-regex.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    {
+      "name": "jbnicolai",
+      "email": "jappelman@xebia.com"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha test/test.js",
+    "view-supported": "node test/viewCodes.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ansi",
+    "styles",
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "cli",
+    "string",
+    "tty",
+    "escape",
+    "formatting",
+    "rgb",
+    "256",
+    "shell",
+    "xterm",
+    "command-line",
+    "text",
+    "regex",
+    "regexp",
+    "re",
+    "match",
+    "test",
+    "find",
+    "pattern"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "gitHead": "57c3f2941a73079fa8b081e02a522e3d29913e2f",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/ansi-regex/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/ansi-regex",
+  "_id": "ansi-regex@2.0.0",
+  "_shasum": "c5061b6e0ef8a81775e50f5d66151bf6bf371107",
+  "_from": "ansi-regex@>=2.0.0 <3.0.0",
+  "_npmVersion": "2.11.2",
+  "_nodeVersion": "0.12.5",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "c5061b6e0ef8a81775e50f5d66151bf6bf371107",
+    "tarball": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-2.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¬file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json;TTF:charsetI"
+utf-8;F:digest"%slg¯8šdö¦,ã+•mD¥_÷êXºGX‘§:lengthi\:dependencies_digest"%9%°£UÐÓn)Uw³	ñ-M+ï
+—¤ÔxãNv_:idI"Ef638b7a622c6451ea8430636cf716dead3ae2619ec69071e52b3c1d4a153ba16;F:
+mtimel+@Ä*X

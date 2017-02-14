@@ -1,0 +1,51 @@
+{:uriI"Vfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/items.json?type=application/json&id=8ccb862b2b68c5fb790fb009368b4efa7142028d641ecaa9cfc1f03ca54e48ef:ET:load_pathI"app/assets/stylesheets;T:filenameI"õapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/items.json;T:	nameI"Ùicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/items;T:logical_pathI"Şicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/items.json;T:content_typeI"application/json;T:sourceI"p[
+    {
+        "description": "a schema given for items",
+        "schema": {
+            "items": {"type": "integer"}
+        },
+        "tests": [
+            {
+                "description": "valid items",
+                "data": [ 1, 2, 3 ],
+                "valid": true
+            },
+            {
+                "description": "wrong type of items",
+                "data": [1, "x"],
+                "valid": false
+            },
+            {
+                "description": "ignores non-arrays",
+                "data": {"foo" : "bar"},
+                "valid": true
+            }
+        ]
+    },
+    {
+        "description": "an array of schemas for items",
+        "schema": {
+            "items": [
+                {"type": "integer"},
+                {"type": "string"}
+            ]
+        },
+        "tests": [
+            {
+                "description": "correct types",
+                "data": [ 1, "foo" ],
+                "valid": true
+            },
+            {
+                "description": "wrong types",
+                "data": [ "foo", 1 ],
+                "valid": false
+            }
+        ]
+    }
+]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/items.json;TTF:charsetI"
+utf-8;F:digest"%Ö˜µ=7pa6E>ĞÆ]ÒI$ÁÙ‡J×%Ulõş:lengthip:dependencies_digest"%„Åk$u‡üYTø	¸úW‘Ñ@JÑgİ—­^'öslx5h:idI"E8ccb862b2b68c5fb790fb009368b4efa7142028d641ecaa9cfc1f03ca54e48ef;F:
+mtimel+•yU

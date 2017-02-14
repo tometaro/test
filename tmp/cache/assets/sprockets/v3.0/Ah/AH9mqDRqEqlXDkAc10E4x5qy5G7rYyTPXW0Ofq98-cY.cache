@@ -1,0 +1,101 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/is-windows/package.json?type=application/json&id=fea60ac3fc43374f5927db3529bf56c7d87895c008e338fb2e3cfd9e58a8ce86:ET:load_pathI"app/assets/stylesheets;T:filenameI"ºapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/is-windows/package.json;T:	nameI"žicon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/is-windows/package;T:logical_pathI"£icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/is-windows/package.json;T:content_typeI"application/json;T:sourceI"8{
+  "name": "is-windows",
+  "description": "Returns true if the platform is windwows.",
+  "version": "0.2.0",
+  "homepage": "https://github.com/jonschlinkert/is-windows",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/is-windows.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-windows/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.9",
+    "mocha": "*"
+  },
+  "keywords": [
+    "check",
+    "is",
+    "is-windows",
+    "nix",
+    "platform",
+    "process",
+    "unix",
+    "win",
+    "win32",
+    "windows"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "is-absolute",
+        "is-glob",
+        "is-relative",
+        "isobject",
+        "window-size"
+      ]
+    },
+    "lint": {
+      "reflinks": true
+    },
+    "reflinks": [
+      "verb"
+    ]
+  },
+  "gitHead": "79167eabd3da5438439ac9c60ff1ef3ced8c148d",
+  "_id": "is-windows@0.2.0",
+  "_shasum": "de1aa6d63ea29dd248737b69f1ff8b8002d2108c",
+  "_from": "is-windows@>=0.2.0 <0.3.0",
+  "_npmVersion": "3.8.9",
+  "_nodeVersion": "6.2.0",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "de1aa6d63ea29dd248737b69f1ff8b8002d2108c",
+    "tarball": "https://registry.npmjs.org/is-windows/-/is-windows-0.2.0.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/is-windows-0.2.0.tgz_1465117629609_0.3620154741220176"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/is-windows/-/is-windows-0.2.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Èfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/is-windows/package.json;TTF:charsetI"
+utf-8;F:digest"%ÁsóPƒˆ’¾ÑBóP3ŠÊi^gßfpÃ!>ù›Ž6:lengthi8:dependencies_digest"%¤^?¶÷ºé› ¢›l©V›áøº–û~€¡³Ÿ³A*¹:idI"Efea60ac3fc43374f5927db3529bf56c7d87895c008e338fb2e3cfd9e58a8ce86;F:
+mtimel+sÃ*X

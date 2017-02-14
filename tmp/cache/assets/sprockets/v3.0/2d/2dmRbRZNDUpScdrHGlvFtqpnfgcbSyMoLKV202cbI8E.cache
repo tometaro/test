@@ -1,0 +1,100 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/object.omit/node_modules/for-own/package.json?type=application/json&id=7404a741e4d40dda22ba021b7864dd152ab8918d941a6c0f4265a6221a78de72:ET:load_pathI"app/assets/stylesheets;T:filenameI"³app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/object.omit/node_modules/for-own/package.json;T:	nameI"—icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/object.omit/node_modules/for-own/package;T:logical_pathI"œicon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/object.omit/node_modules/for-own/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "for-own",
+  "description": "Iterate over the own enumerable properties of an object, and return an object with properties that evaluate to true from the callback. Exit early by returning `false`. JavaScript/Node.js.",
+  "version": "0.1.4",
+  "homepage": "https://github.com/jonschlinkert/for-own",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/for-own.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/for-own/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "for-in": "^0.1.5"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.7",
+    "mocha": "^2.4.5"
+  },
+  "keywords": [
+    "for-in",
+    "for-own",
+    "has",
+    "has-own",
+    "hasOwn",
+    "key",
+    "keys",
+    "object",
+    "own",
+    "value"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "475607dc923dcc399c1bfdbecc0df4b957eb3779",
+  "_id": "for-own@0.1.4",
+  "_shasum": "0149b41a39088c7515f51ebe1c1386d45f935072",
+  "_from": "for-own@>=0.1.4 <0.2.0",
+  "_npmVersion": "3.6.0",
+  "_nodeVersion": "5.5.0",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    },
+    {
+      "name": "doowb",
+      "email": "brian.woodward@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "0149b41a39088c7515f51ebe1c1386d45f935072",
+    "tarball": "https://registry.npmjs.org/for-own/-/for-own-0.1.4.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/for-own-0.1.4.tgz_1459091314670_0.658134751021862"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/for-own/-/for-own-0.1.4.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Áfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/object.omit/node_modules/for-own/package.json;TTF:charsetI"
+utf-8;F:digest"%]EÐÐqlÆ/8Å'ŠZßy«“û=Ä¼ÎWp»í´U:lengthi:dependencies_digest"%wqç.aÀ	nP^/Ü†Òó¨â¿ã'	žDÐ=dª¡‚:idI"E7404a741e4d40dda22ba021b7864dd152ab8918d941a6c0f4265a6221a78de72;F:
+mtimel+tÃ*X

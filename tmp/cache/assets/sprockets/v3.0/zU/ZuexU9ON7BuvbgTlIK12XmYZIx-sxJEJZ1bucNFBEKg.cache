@@ -1,0 +1,76 @@
+{:uriI"bfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/package.json?type=application/json&id=cc3eac63f7674697356e24fa877ef6456629a14bc8e7667cac50464aa1fb1e80:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/package.json;T:	nameI"åicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/package;T:logical_pathI"êicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/package.json;T:content_typeI"application/json;T:sourceI"’{
+  "name": "builtin-modules",
+  "version": "1.1.1",
+  "description": "List of the Node.js builtin modules",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/builtin-modules.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava",
+    "make": "node make.js"
+  },
+  "files": [
+    "index.js",
+    "static.js",
+    "builtin-modules.json"
+  ],
+  "keywords": [
+    "builtin",
+    "built-in",
+    "builtins",
+    "node",
+    "modules",
+    "core",
+    "bundled",
+    "list",
+    "array",
+    "names"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "gitHead": "0ea253452b1d8cb3a70d16464f909dbc0bc370fe",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/builtin-modules/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/builtin-modules#readme",
+  "_id": "builtin-modules@1.1.1",
+  "_shasum": "270f076c5a72c02f5b65a47df94c5fe3a278892f",
+  "_from": "builtin-modules@>=1.0.0 <2.0.0",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.3.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "270f076c5a72c02f5b65a47df94c5fe3a278892f",
+    "tarball": "https://registry.npmjs.org/builtin-modules/-/builtin-modules-1.1.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/builtin-modules/-/builtin-modules-1.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/package.json;TTF:charsetI"
+utf-8;F:digest"%PFuc6èíÁ°iŒbm³°ˆžWÊGÐ,Jú:lengthi’:dependencies_digest"%f§ »µÉÌI¢º´òöª*ÏAUŸŽþÏh:idI"Ecc3eac63f7674697356e24fa877ef6456629a14bc8e7667cac50464aa1fb1e80;F:
+mtimel+
+Ä*X

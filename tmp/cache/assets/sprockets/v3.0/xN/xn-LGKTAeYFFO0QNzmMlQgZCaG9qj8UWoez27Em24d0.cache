@@ -1,0 +1,62 @@
+{:uriI"òfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/bindings/package.json?type=application/json&id=a5fad482026ae448698367b3b88f030aca30a018f1484e55a11203097cf2ab00:ET:load_pathI"app/assets/stylesheets;T:filenameI"‘app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/bindings/package.json;T:	nameI"zicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/bindings/package;T:logical_pathI"icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/bindings/package.json;T:content_typeI"application/json;T:sourceI"˜{
+  "name": "bindings",
+  "description": "Helper module for loading your native module's .node file",
+  "keywords": [
+    "native",
+    "addon",
+    "bindings",
+    "gyp",
+    "waf",
+    "c",
+    "c++"
+  ],
+  "version": "1.2.1",
+  "author": {
+    "name": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://tootallnate.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/node-bindings.git"
+  },
+  "main": "./bindings.js",
+  "bugs": {
+    "url": "https://github.com/TooTallNate/node-bindings/issues"
+  },
+  "homepage": "https://github.com/TooTallNate/node-bindings",
+  "license": "MIT",
+  "gitHead": "e404152ee27f8478ccbc7122ee051246e8e5ec02",
+  "_id": "bindings@1.2.1",
+  "scripts": {},
+  "_shasum": "14ad6113812d2d37d72e67b4cacb4bb726505f11",
+  "_from": "bindings@>=1.2.1 <2.0.0",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "tootallnate",
+    "email": "nathan@tootallnate.net"
+  },
+  "maintainers": [
+    {
+      "name": "TooTallNate",
+      "email": "nathan@tootallnate.net"
+    },
+    {
+      "name": "tootallnate",
+      "email": "nathan@tootallnate.net"
+    }
+  ],
+  "dist": {
+    "shasum": "14ad6113812d2d37d72e67b4cacb4bb726505f11",
+    "tarball": "https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/bindings/-/bindings-1.2.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ÿfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/bindings/package.json;TTF:charsetI"
+utf-8;F:digest"%©?Øœÿ¨ÿÄuÖ¼ˆæÿš·2õ©™î¶da:lengthi˜:dependencies_digest"%×]£Æáúãø¸IS]wïèP7ù?!¨Pw•I¼z
+:idI"Ea5fad482026ae448698367b3b88f030aca30a018f1484e55a11203097cf2ab00;F:
+mtimel+Ä*X

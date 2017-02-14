@@ -1,0 +1,68 @@
+{:uriI"çfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/package.json?type=application/json&id=15b2dd324f72da62fee8a9154ef10ab49bbd29469215e74537ed76ddcb6b01f0:ET:load_pathI"app/assets/stylesheets;T:filenameI"†app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/package.json;T:	nameI"oicon-font/node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/package;T:logical_pathI"ticon-font/node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/package.json;T:content_typeI"application/json;T:sourceI"^{
+  "name": "once",
+  "version": "1.3.3",
+  "description": "Run a function exactly one time",
+  "main": "once.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "wrappy": "1"
+  },
+  "devDependencies": {
+    "tap": "^1.2.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "files": [
+    "once.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/once.git"
+  },
+  "keywords": [
+    "once",
+    "function",
+    "one",
+    "single"
+  ],
+  "author": {
+    "name": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/"
+  },
+  "license": "ISC",
+  "gitHead": "2ad558657e17fafd24803217ba854762842e4178",
+  "bugs": {
+    "url": "https://github.com/isaacs/once/issues"
+  },
+  "homepage": "https://github.com/isaacs/once#readme",
+  "_id": "once@1.3.3",
+  "_shasum": "b2e261557ce4c314ec8304f3fa82663e4297ca20",
+  "_from": "once@>=1.3.0 <1.4.0",
+  "_npmVersion": "3.3.2",
+  "_nodeVersion": "4.0.0",
+  "_npmUser": {
+    "name": "isaacs",
+    "email": "i@izs.me"
+  },
+  "dist": {
+    "shasum": "b2e261557ce4c314ec8304f3fa82663e4297ca20",
+    "tarball": "https://registry.npmjs.org/once/-/once-1.3.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "isaacs",
+      "email": "i@izs.me"
+    }
+  ],
+  "_resolved": "https://registry.npmjs.org/once/-/once-1.3.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"”file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/orchestrator/node_modules/end-of-stream/node_modules/once/package.json;TTF:charsetI"
+utf-8;F:digest"%Aù:Q3Ü³-C‘AXqoá#ïmŽ´c)–”Å_V˜‰Ø4:lengthi^:dependencies_digest"%?%8ž@ieÂÙdÓ>]2•7ªÀ˜ð—Åñbó!:idI"E15b2dd324f72da62fee8a9154ef10ab49bbd29469215e74537ed76ddcb6b01f0;F:
+mtimel+pÃ*X

@@ -1,0 +1,63 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/package.json?type=application/json&id=78de03f225a3ed743d65f71f9570bd719228b168b9dfb9c3d40ad9871de700c5:ET:load_pathI"app/assets/stylesheets;T:filenameI"­app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/package.json;T:	nameI"‘icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/package;T:logical_pathI"–icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/package.json;T:content_typeI"application/json;T:sourceI"§{
+  "author": {
+    "name": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me"
+  },
+  "name": "minimatch",
+  "description": "a glob matcher in javascript",
+  "version": "0.2.14",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/minimatch.git"
+  },
+  "main": "minimatch.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "lru-cache": "2",
+    "sigmund": "~1.0.0"
+  },
+  "devDependencies": {
+    "tap": ""
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://github.com/isaacs/minimatch/raw/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/isaacs/minimatch/issues"
+  },
+  "homepage": "https://github.com/isaacs/minimatch",
+  "_id": "minimatch@0.2.14",
+  "dist": {
+    "shasum": "c74e780574f63c6f9a090e90efbe6ef53a6a756a",
+    "tarball": "https://registry.npmjs.org/minimatch/-/minimatch-0.2.14.tgz"
+  },
+  "_from": "minimatch@>=0.2.11 <0.3.0",
+  "_npmVersion": "1.3.17",
+  "_npmUser": {
+    "name": "isaacs",
+    "email": "i@izs.me"
+  },
+  "maintainers": [
+    {
+      "name": "isaacs",
+      "email": "i@izs.me"
+    }
+  ],
+  "deprecated": "Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue",
+  "directories": {},
+  "_shasum": "c74e780574f63c6f9a090e90efbe6ef53a6a756a",
+  "_resolved": "https://registry.npmjs.org/minimatch/-/minimatch-0.2.14.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"»file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/package.json;TTF:charsetI"
+utf-8;F:digest"%®o".²½K(å¿Ã†FŽÑÔ˜.~1qÍÖ)b6$:lengthi§:dependencies_digest"%+øÆ””`z½Ò$³no²Û¢ u©Ò7b‘=¾bè\L:idI"E78de03f225a3ed743d65f71f9570bd719228b168b9dfb9c3d40ad9871de700c5;F:
+mtimel+uÃ*X

@@ -1,0 +1,82 @@
+{:uriI"ëfile://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/rimraf/node_modules/glob/node_modules/path-is-absolute/package.json?type=application/json&id=0251e7ad9337e6275a4841dead4e58b1db0d5679e1416f0efba84947dcec6f08:ET:load_pathI"app/assets/stylesheets;T:filenameI"Šapp/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/rimraf/node_modules/glob/node_modules/path-is-absolute/package.json;T:	nameI"sicon-font/node_modules/gulp-sketch/node_modules/rimraf/node_modules/glob/node_modules/path-is-absolute/package;T:logical_pathI"xicon-font/node_modules/gulp-sketch/node_modules/rimraf/node_modules/glob/node_modules/path-is-absolute/package.json;T:content_typeI"application/json;T:sourceI"Z{
+  "name": "path-is-absolute",
+  "version": "1.0.1",
+  "description": "Node.js 0.12 path.isAbsolute() ponyfill",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/path-is-absolute.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "path",
+    "paths",
+    "file",
+    "dir",
+    "absolute",
+    "isabsolute",
+    "is-absolute",
+    "built-in",
+    "util",
+    "utils",
+    "core",
+    "ponyfill",
+    "polyfill",
+    "shim",
+    "is",
+    "detect",
+    "check"
+  ],
+  "devDependencies": {
+    "xo": "^0.16.0"
+  },
+  "gitHead": "edc91d348b21dac2ab65ea2fbec2868e2eff5eb6",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/path-is-absolute/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/path-is-absolute#readme",
+  "_id": "path-is-absolute@1.0.1",
+  "_shasum": "174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f",
+  "_from": "path-is-absolute@>=1.0.0 <2.0.0",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.6.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f",
+    "tarball": "https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/path-is-absolute-1.0.1.tgz_1475210523565_0.9876507974695414"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"˜file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/rimraf/node_modules/glob/node_modules/path-is-absolute/package.json;TTF:charsetI"
+utf-8;F:digest"%Ÿð I	+_l¸çì’âëŽÃgÛ¬Ö(£p‡G¨:lengthiZ:dependencies_digest"%÷U66,Ž ]Ã™žû€*ÆK¦¶%ú¤wI¶‘úÌ®tð:idI"E0251e7ad9337e6275a4841dead4e58b1db0d5679e1416f0efba84947dcec6f08;F:
+mtimel+?Ä*X

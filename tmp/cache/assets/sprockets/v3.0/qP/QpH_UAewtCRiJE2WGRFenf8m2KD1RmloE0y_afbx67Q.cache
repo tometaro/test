@@ -1,0 +1,71 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/package.json?type=application/json&id=f7de060b9d575bd26aecc82d76498793ac7d55f1a579b5e2782caba7c6492d0e:ET:load_pathI"app/assets/stylesheets;T:filenameI"¸app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/package.json;T:	nameI"œicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/package;T:logical_pathI"¡icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "indent-string",
+  "version": "2.1.0",
+  "description": "Indent each line in a string",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/indent-string.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "indent",
+    "string",
+    "str",
+    "pad",
+    "align",
+    "line",
+    "text"
+  ],
+  "dependencies": {
+    "repeating": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "gitHead": "649f7560df23a8fd8ea330bead5d7d0058efc6b6",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/indent-string/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/indent-string#readme",
+  "_id": "indent-string@2.1.0",
+  "_shasum": "8e2d48348742121b4a8218b7a137e9a52049dc80",
+  "_from": "indent-string@>=2.1.0 <3.0.0",
+  "_npmVersion": "2.13.3",
+  "_nodeVersion": "3.0.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "8e2d48348742121b4a8218b7a137e9a52049dc80",
+    "tarball": "https://registry.npmjs.org/indent-string/-/indent-string-2.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/indent-string/-/indent-string-2.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Æfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/package.json;TTF:charsetI"
+utf-8;F:digest"%µÝ”Uõ\–j"ÛƒÙÏxk²¾¯ŠÃÏ%~KÄ«k,ä:lengthi:dependencies_digest"%+=73Æ­*=êéFA…9©ÿò€`y×IõëN.—ö«:idI"Ef7de060b9d575bd26aecc82d76498793ac7d55f1a579b5e2782caba7c6492d0e;F:
+mtimel+Ä*X

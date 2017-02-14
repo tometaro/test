@@ -1,0 +1,13 @@
+.section {
+  background-color: $BlueGrey-800;
+  padding: 100px 0;
+
+  &:nth-child(even){
+    background-color:$BlueGrey-700;
+  }
+
+  &__inner {
+    margin: 0 auto;
+    width: 1000px;
+  }
+}

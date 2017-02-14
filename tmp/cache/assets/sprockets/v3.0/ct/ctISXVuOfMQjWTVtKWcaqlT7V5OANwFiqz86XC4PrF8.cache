@@ -1,0 +1,61 @@
+{:uriI"äfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/node_modules/natives/package.json?type=application/json&id=cf058cd3281444e9c328dbda0436d04e0241cb32da4ff3abe3a773f0ef6a3c1f:ET:load_pathI"app/assets/stylesheets;T:filenameI"ƒapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/node_modules/natives/package.json;T:	nameI"licon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/node_modules/natives/package;T:logical_pathI"qicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/node_modules/natives/package.json;T:content_typeI"application/json;T:sourceI"®{
+  "name": "natives",
+  "version": "1.1.0",
+  "description": "Do stuff with Node.js's native JavaScript modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js --100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaacs/natives.git"
+  },
+  "author": {
+    "name": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaacs/natives/issues"
+  },
+  "homepage": "https://github.com/isaacs/natives#readme",
+  "devDependencies": {
+    "tap": "^7.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "gitHead": "dc1297cdce008350b679dbb86be5bf5bbf8cacbf",
+  "_id": "natives@1.1.0",
+  "_shasum": "e9ff841418a6b2ec7a495e939984f78f163e6e31",
+  "_from": "natives@>=1.1.0 <2.0.0",
+  "_npmVersion": "3.10.7",
+  "_nodeVersion": "6.5.0",
+  "_npmUser": {
+    "name": "isaacs",
+    "email": "i@izs.me"
+  },
+  "dist": {
+    "shasum": "e9ff841418a6b2ec7a495e939984f78f163e6e31",
+    "tarball": "https://registry.npmjs.org/natives/-/natives-1.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "isaacs",
+      "email": "i@izs.me"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/natives-1.1.0.tgz_1472583645072_0.9239758928306401"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/natives/-/natives-1.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"‘file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/graceful-fs/node_modules/natives/package.json;TTF:charsetI"
+utf-8;F:digest"%g=Ôn·hC7©¦†$hOCŽðÎ’¥^TÇ,'«vµ£:lengthi®:dependencies_digest"%*OŽË½§Gÿ*%ä>ÔT–}¿¸n\Sxg‘¼ø#Ev6:idI"Ecf058cd3281444e9c328dbda0436d04e0241cb32da4ff3abe3a773f0ef6a3c1f;F:
+mtimel+qÃ*X

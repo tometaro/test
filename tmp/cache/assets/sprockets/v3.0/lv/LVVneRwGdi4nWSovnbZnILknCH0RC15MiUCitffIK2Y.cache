@@ -1,0 +1,76 @@
+{:uriI"0file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/has-color/package.json?type=application/json&id=52f28df5c08db80f94177b76391c86da37a4c352dc7ff83995fbedf0b2a730aa:ET:load_pathI"app/assets/stylesheets;T:filenameI"Ïapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/has-color/package.json;T:	nameI"³icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/has-color/package;T:logical_pathI"¸icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/has-color/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "has-color",
+  "version": "0.1.7",
+  "description": "Detect whether a terminal supports color",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sindresorhus/has-color.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "cli",
+    "ansi",
+    "styles",
+    "tty",
+    "rgb",
+    "256",
+    "shell",
+    "xterm",
+    "command-line",
+    "support",
+    "capability",
+    "detect"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/has-color/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/has-color",
+  "_id": "has-color@0.1.7",
+  "dist": {
+    "shasum": "67144a5260c34fc3cca677d041daf52fe7b78b2f",
+    "tarball": "https://registry.npmjs.org/has-color/-/has-color-0.1.7.tgz"
+  },
+  "_from": "has-color@>=0.1.7 <0.2.0",
+  "_npmVersion": "1.4.6",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "67144a5260c34fc3cca677d041daf52fe7b78b2f",
+  "_resolved": "https://registry.npmjs.org/has-color/-/has-color-0.1.7.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ýfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/gauge/node_modules/has-color/package.json;TTF:charsetI"
+utf-8;F:digest"%Ÿ¨=@‘úYhAÎj¾t¦p~5˜bå‡U$³ÅØ‚®/ß:lengthi:dependencies_digest"%DÖµ?ª‹5ª,Áüc &swô*{@e¹íj:idI"E52f28df5c08db80f94177b76391c86da37a4c352dc7ff83995fbedf0b2a730aa;F:
+mtimel+Ä*X

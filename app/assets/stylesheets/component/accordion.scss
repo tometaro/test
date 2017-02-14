@@ -1,0 +1,22 @@
+.accordion {
+    dt,dd {
+        height:50px;
+        line-height:50px;
+        text-align:center;
+        border-bottom: $BlueGrey-700 1px solid;
+    }
+
+    dt {
+        display:block;
+        background: $BlueGrey-600;
+        cursor:pointer;
+    }
+
+    dd  {
+        background: $BlueGrey-500;
+        display:none;
+
+    }
+
+}
+

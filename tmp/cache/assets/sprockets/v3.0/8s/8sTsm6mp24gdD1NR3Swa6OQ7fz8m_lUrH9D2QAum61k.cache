@@ -1,0 +1,64 @@
+{:uriI"Úfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/package.json?type=application/json&id=2d1ac2c1ecc2e0d40cfbed60cee4866e0e23ad835193dd131609dc47a67dc507:ET:load_pathI"app/assets/stylesheets;T:filenameI"~app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/package.json;T:	nameI"bicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/package;T:logical_pathI"gicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/package.json;T:content_typeI"application/json;T:sourceI"W{
+  "name": "ttf2woff",
+  "version": "1.3.0",
+  "description": "Convert TTF font to WOFF",
+  "keywords": [
+    "font",
+    "ttf",
+    "woff",
+    "convertor"
+  ],
+  "homepage": "https://github.com/nodeca/ttf2woff",
+  "author": {
+    "name": "Viktor Semykin",
+    "email": "thesame.ml@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/fontello/ttf2woff/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/fontello/ttf2eot/raw/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "argparse": "~ 0.1.15",
+    "pako": "~ 0.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fontello/ttf2woff.git"
+  },
+  "main": "./index.js",
+  "bin": {
+    "ttf2woff": "./ttf2woff.js"
+  },
+  "_id": "ttf2woff@1.3.0",
+  "_shasum": "76a27a6f30ea037a9ed64c9ff43ec7ed461e6d2a",
+  "_from": "ttf2woff@>=1.3.0 <2.0.0",
+  "_resolved": "https://registry.npmjs.org/ttf2woff/-/ttf2woff-1.3.0.tgz",
+  "scripts": {},
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "vitaly",
+    "email": "vitaly@rcdesign.ru"
+  },
+  "maintainers": [
+    {
+      "name": "vitaly",
+      "email": "vitaly@rcdesign.ru"
+    }
+  ],
+  "dist": {
+    "shasum": "76a27a6f30ea037a9ed64c9ff43ec7ed461e6d2a",
+    "tarball": "https://registry.npmjs.org/ttf2woff/-/ttf2woff-1.3.0.tgz"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"‡file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/package.json;TTF:charsetI"
+utf-8;F:digest"%àÏ³‡úî†sø>ævP×Aø4€Ù»?áÇ:lengthiW:dependencies_digest"%GKÄ¡ÄG6uRý,Êcµi,È%Õþõ‡ÂT&¹Ÿþ$û:idI"E2d1ac2c1ecc2e0d40cfbed60cee4866e0e23ad835193dd131609dc47a67dc507;F:
+mtimel+Ä*X

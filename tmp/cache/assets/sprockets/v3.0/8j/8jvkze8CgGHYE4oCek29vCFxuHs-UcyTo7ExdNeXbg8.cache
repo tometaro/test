@@ -1,0 +1,63 @@
+{:uriI"Øfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2eot/node_modules/ttf2eot/package.json?type=application/json&id=c1574cbdb3b0bd3d9228406dca909338165734c7d25be90087f10d4d2b9fd90f:ET:load_pathI"app/assets/stylesheets;T:filenameI"|app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2eot/node_modules/ttf2eot/package.json;T:	nameI"`icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2eot/node_modules/ttf2eot/package;T:logical_pathI"eicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2eot/node_modules/ttf2eot/package.json;T:content_typeI"application/json;T:sourceI"2{
+  "name": "ttf2eot",
+  "version": "1.3.0",
+  "description": "Convert TTF font to EOT",
+  "keywords": [
+    "font",
+    "ttf",
+    "eot",
+    "convertor"
+  ],
+  "homepage": "https://github.com/nodeca/ttf2eot",
+  "author": {
+    "name": "Viktor Semykin",
+    "email": "thesame.ml@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/fontello/ttf2eot/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/fontello/ttf2eot/raw/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "argparse": "~0.1.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fontello/ttf2eot.git"
+  },
+  "main": "./index.js",
+  "bin": {
+    "ttf2eot": "./ttf2eot.js"
+  },
+  "_id": "ttf2eot@1.3.0",
+  "dist": {
+    "shasum": "94671eacfa5ad7799cd6f9f5b6030f513b032ac2",
+    "tarball": "https://registry.npmjs.org/ttf2eot/-/ttf2eot-1.3.0.tgz"
+  },
+  "_from": "ttf2eot@>=1.3.0 <2.0.0",
+  "_resolved": "https://registry.npmjs.org/ttf2eot/-/ttf2eot-1.3.0.tgz",
+  "scripts": {},
+  "_npmVersion": "1.2.32",
+  "_npmUser": {
+    "name": "vitaly",
+    "email": "vitaly@rcdesign.ru"
+  },
+  "maintainers": [
+    {
+      "name": "vitaly",
+      "email": "vitaly@rcdesign.ru"
+    }
+  ],
+  "directories": {},
+  "_shasum": "94671eacfa5ad7799cd6f9f5b6030f513b032ac2",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"…file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2eot/node_modules/ttf2eot/package.json;TTF:charsetI"
+utf-8;F:digest"%û[”…Êœ=÷<™·¸èå«W¾ùxn¶ÄŽoß=:lengthi2:dependencies_digest"%ã‚Q´‚ÛJîÞq’Á`ö.ûUðê NÂË7KcDÉAg:idI"Ec1574cbdb3b0bd3d9228406dca909338165734c7d25be90087f10d4d2b9fd90f;F:
+mtimel+Ä*X

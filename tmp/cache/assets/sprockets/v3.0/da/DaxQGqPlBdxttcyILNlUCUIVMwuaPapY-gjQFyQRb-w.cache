@@ -1,0 +1,86 @@
+{:uriI"ùfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/package.json?type=application/json&id=c7a6b879d2c0ca2367a8de5a869a6aa2851b48e1ef764f92f0f1c33958642902:ET:load_pathI"app/assets/stylesheets;T:filenameI"˜app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/package.json;T:	nameI"|icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/package;T:logical_pathI"icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/package.json;T:content_typeI"application/json;T:sourceI"e{
+  "name": "lodash.templatesettings",
+  "version": "3.1.1",
+  "description": "The lodash method `_.templateSettings` exported as a module.",
+  "homepage": "https://lodash.com/",
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "keywords": [
+    "lodash",
+    "lodash-modularized",
+    "stdlib",
+    "util",
+    "templatesettings"
+  ],
+  "author": {
+    "name": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/"
+  },
+  "contributors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    {
+      "name": "Blaine Bublitz",
+      "email": "blaine@iceddev.com",
+      "url": "https://github.com/phated"
+    },
+    {
+      "name": "Mathias Bynens",
+      "email": "mathias@qiwi.be",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "dependencies": {
+    "lodash._reinterpolate": "^3.0.0",
+    "lodash.escape": "^3.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/lodash/lodash/issues"
+  },
+  "_id": "lodash.templatesettings@3.1.1",
+  "_shasum": "fb307844753b66b9f1afa54e262c745307dba8e5",
+  "_from": "lodash.templatesettings@>=3.0.0 <4.0.0",
+  "_npmVersion": "2.14.15",
+  "_nodeVersion": "5.4.0",
+  "_npmUser": {
+    "name": "jdalton",
+    "email": "john.david.dalton@gmail.com"
+  },
+  "dist": {
+    "shasum": "fb307844753b66b9f1afa54e262c745307dba8e5",
+    "tarball": "https://registry.npmjs.org/lodash.templatesettings/-/lodash.templatesettings-3.1.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jdalton",
+      "email": "john.david.dalton@gmail.com"
+    },
+    {
+      "name": "mathias",
+      "email": "mathias@qiwi.be"
+    },
+    {
+      "name": "phated",
+      "email": "blaine@iceddev.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lodash.templatesettings/-/lodash.templatesettings-3.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¦file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash.templatesettings/package.json;TTF:charsetI"
+utf-8;F:digest"%r˜àázÉàa®K¶€º…Zz4E4a÷S“:lengthie:dependencies_digest"%*wô¶ÓÂ¾>Ïšc½òWJSÙ¾òdâğ×¸\_ş©:idI"Ec7a6b879d2c0ca2367a8de5a869a6aa2851b48e1ef764f92f0f1c33958642902;F:
+mtimel+qÃ*X

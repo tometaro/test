@@ -1,0 +1,74 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/regex-cache/node_modules/is-primitive/package.json?type=application/json&id=9e916fcb8009b3b9f33327ec901b9631ed82d24ac1758be867d87930e48d4a1d:ET:load_pathI"app/assets/stylesheets;T:filenameI"¸app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/regex-cache/node_modules/is-primitive/package.json;T:	nameI"œicon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/regex-cache/node_modules/is-primitive/package;T:logical_pathI"¡icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/regex-cache/node_modules/is-primitive/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "is-primitive",
+  "description": "Returns `true` if the value is a primitive. ",
+  "version": "2.0.0",
+  "homepage": "https://github.com/jonschlinkert/is-primitive",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/is-primitive.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-primitive/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/is-primitive/blob/master/LICENSE"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "^4.0.4"
+  },
+  "keywords": [
+    "boolean",
+    "check",
+    "number",
+    "primitive",
+    "string",
+    "symbol",
+    "type",
+    "typeof",
+    "util"
+  ],
+  "gitHead": "c512b7c95fb049aa9b1f039ddc0670611b66cce2",
+  "_id": "is-primitive@2.0.0",
+  "_shasum": "207bab91638499c07b2adf240a41a87210034575",
+  "_from": "is-primitive@>=2.0.0 <3.0.0",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "207bab91638499c07b2adf240a41a87210034575",
+    "tarball": "https://registry.npmjs.org/is-primitive/-/is-primitive-2.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/is-primitive/-/is-primitive-2.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Æfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/regex-cache/node_modules/is-primitive/package.json;TTF:charsetI"
+utf-8;F:digest"%Ç>…QÌSô*¶jT¼:Š½woHÕìºé#‚\%:lengthi:dependencies_digest"%Xç^EM\û[Lø±ÌİÒõ6!xª<:ãüÛ¨Ø™*:idI"E9e916fcb8009b3b9f33327ec901b9631ed82d24ac1758be867d87930e48d4a1d;F:
+mtimel+tÃ*X

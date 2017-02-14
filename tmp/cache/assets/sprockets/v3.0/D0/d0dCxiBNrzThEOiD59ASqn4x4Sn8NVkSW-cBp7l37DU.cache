@@ -1,0 +1,26 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/demo/angular.html?type=text/html&id=9fa42f090d66c9c0c69ccb76e3bde5c408ed63b9c3985f6c4f8b22b3d006b3a6:ET:load_pathI"app/assets/stylesheets;T:filenameI"™app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/demo/angular.html;T:	nameI"éicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/demo/angular;T:logical_pathI"ìicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/demo/angular.html;T:content_typeI"text/html;T:sourceI"≤<!doctype html>
+<html ng-app="app">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-rc.3/angular.min.js"></script>
+    <script src="../src/sprintf.js"></script>
+    <script src="../src/angular-sprintf.js"></script>
+</head>
+<body>
+    <pre>{{ "%+010d"|sprintf:-123 }}</pre>
+    <pre>{{ "%+010d"|vsprintf:[-123] }}</pre>
+    <pre>{{ "%+010d"|fmt:-123 }}</pre>
+    <pre>{{ "%+010d"|vfmt:[-123] }}</pre>
+    <pre>{{ "I've got %2$d apples and %1$d oranges."|fmt:4:2 }}</pre>
+    <pre>{{ "I've got %(apples)d apples and %(oranges)d oranges."|fmt:{apples: 2, oranges: 4} }}</pre>
+
+    <script>
+        angular.module("app", ["sprintf"])
+    </script>
+</body>
+</html>
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"2processors:type=text/html&file_type=text/html;TTI"∏file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/demo/angular.html;TTF:charsetI"
+utf-8;F:digest"%Ω^∂A6˝,Er™H!y%ºR~Ê)gÈÿåm¨Üy:lengthi≤:dependencies_digest"%¯ ]CXJ!	◊∑Åo˘Øﬂ©4ÃW2EJ
+¨∞M:idI"E9fa42f090d66c9c0c69ccb76e3bde5c408ed63b9c3985f6c4f8b22b3d006b3a6;F:
+mtimel+ﬂ«üU

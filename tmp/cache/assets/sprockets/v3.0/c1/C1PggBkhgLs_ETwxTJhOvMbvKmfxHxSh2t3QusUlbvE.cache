@@ -1,0 +1,69 @@
+{:uriI"+file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/hawk/node_modules/boom/package.json?type=application/json&id=582a1ad615b521ea2f5af22ae2fbf9b9f03ad1f496ff6e6d70bc40909ccfc775:ET:load_pathI"app/assets/stylesheets;T:filenameI"Êapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/hawk/node_modules/boom/package.json;T:	nameI"®icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/hawk/node_modules/boom/package;T:logical_pathI"³icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/hawk/node_modules/boom/package.json;T:content_typeI"application/json;T:sourceI"Ø{
+  "name": "boom",
+  "description": "HTTP-friendly error objects",
+  "version": "2.10.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hapijs/boom.git"
+  },
+  "main": "lib/index.js",
+  "keywords": [
+    "error",
+    "http"
+  ],
+  "engines": {
+    "node": ">=0.10.40"
+  },
+  "dependencies": {
+    "hoek": "2.x.x"
+  },
+  "devDependencies": {
+    "code": "1.x.x",
+    "lab": "7.x.x"
+  },
+  "scripts": {
+    "test": "lab -a code -t 100 -L",
+    "test-cov-html": "lab -a code -r html -o coverage.html -L"
+  },
+  "license": "BSD-3-Clause",
+  "gitHead": "ff1a662a86b39426cdd18f4441b112d307a34a6f",
+  "bugs": {
+    "url": "https://github.com/hapijs/boom/issues"
+  },
+  "homepage": "https://github.com/hapijs/boom#readme",
+  "_id": "boom@2.10.1",
+  "_shasum": "39c8918ceff5799f83f9492a848f625add0c766f",
+  "_from": "boom@>=2.0.0 <3.0.0",
+  "_npmVersion": "2.11.1",
+  "_nodeVersion": "0.10.40",
+  "_npmUser": {
+    "name": "arb",
+    "email": "arbretz@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "hueniverse",
+      "email": "eran@hueniverse.com"
+    },
+    {
+      "name": "wyatt",
+      "email": "wpreul@gmail.com"
+    },
+    {
+      "name": "arb",
+      "email": "arbretz@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "39c8918ceff5799f83f9492a848f625add0c766f",
+    "tarball": "https://registry.npmjs.org/boom/-/boom-2.10.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/boom/-/boom-2.10.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Øfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/hawk/node_modules/boom/package.json;TTF:charsetI"
+utf-8;F:digest"%éœøì¢q}Éûû¼zdÁC	mó¼ªÏ•†M•5:lengthiØ:dependencies_digest"%ä>ËíÆÿöÃŒRÃNH¨¢¡p­í‰†”QûÊ˜:idI"E582a1ad615b521ea2f5af22ae2fbf9b9f03ad1f496ff6e6d70bc40909ccfc775;F:
+mtimel+Ä*X

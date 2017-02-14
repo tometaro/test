@@ -1,0 +1,24 @@
+{:uriI"Žfile://app/assets/stylesheets/icon-font/package.json?type=application/json&id=3f802700286185513d01ffdb13dc11399b56ea9a96d1c32fe0f5d3a7deb475ab:ET:load_pathI"app/assets/stylesheets;T:filenameI"2app/assets/stylesheets/icon-font/package.json;T:	nameI"icon-font/package;T:logical_pathI"icon-font/package.json;T:content_typeI"application/json;T:sourceI"’{
+  "name": "icon-font",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-consolidate": "^0.2.0",
+    "gulp-iconfont": "^8.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sketch": "^1.0.3",
+    "lodash": "^4.17.1"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"@file-digest://app/assets/stylesheets/icon-font/package.json;TTF:charsetI"
+utf-8;F:digest"%ÖàŒt«µ—\y+<ÑT5QlX<ŸãÎ‘ÓÚ&<zÌ:lengthi’:dependencies_digest"%H¼××!‡ì.,¢=ßÜô&w‘!pXš¥Êƒç–îª:idI"E3f802700286185513d01ffdb13dc11399b56ea9a96d1c32fe0f5d3a7deb475ab;F:
+mtimel+¡Å*X

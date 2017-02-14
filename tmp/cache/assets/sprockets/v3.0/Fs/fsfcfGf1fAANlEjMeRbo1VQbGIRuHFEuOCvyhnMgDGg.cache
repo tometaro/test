@@ -1,0 +1,37 @@
+{:uriI"\file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/definitions.json?type=application/json&id=ca8fac2b608faf8199060c9429e3c70c75ecad7039329283b44584b15604cbc5:ET:load_pathI"app/assets/stylesheets;T:filenameI"˚app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/definitions.json;T:	nameI"ﬂicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/definitions;T:logical_pathI"‰icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/definitions.json;T:content_typeI"application/json;T:sourceI"V[
+    {
+        "description": "valid definition",
+        "schema": {"$ref": "http://json-schema.org/draft-04/schema#"},
+        "tests": [
+            {
+                "description": "valid definition schema",
+                "data": {
+                    "definitions": {
+                        "foo": {"type": "integer"}
+                    }
+                },
+                "valid": true
+            }
+        ]
+    },
+    {
+        "description": "invalid definition",
+        "schema": {"$ref": "http://json-schema.org/draft-04/schema#"},
+        "tests": [
+            {
+                "description": "invalid definition schema",
+                "data": {
+                    "definitions": {
+                        "foo": {"type": 1}
+                    }
+                },
+                "valid": false
+            }
+        ]
+    }
+]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"	file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/definitions.json;TTF:charsetI"
+utf-8;F:digest"%©»XEcÑ4qôâ÷ßã≠Ó3ŸI±r1x`˛0ú¬:lengthiV:dependencies_digest"%G^íÇ 5∫éù\õ;Fdxà\º!gCòÅD6¸¢:idI"Eca8fac2b608faf8199060c9429e3c70c75ecad7039329283b44584b15604cbc5;F:
+mtimel+ïyU

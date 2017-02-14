@@ -1,0 +1,77 @@
+{:uriI"îfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/package.json?type=application/json&id=03bf6fbb341684864a9bd9dcbfb6feb3b47104b059db396bb64aedb1af86ea8c:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/package.json;T:	nameI"vicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/package;T:logical_pathI"{icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/package.json;T:content_typeI"application/json;T:sourceI"¿{
+  "name": "argparse",
+  "description": "Very powerful CLI arguments parser. Native port of argparse - python's options parsing library",
+  "version": "1.0.9",
+  "keywords": [
+    "cli",
+    "parser",
+    "argparse",
+    "option",
+    "args"
+  ],
+  "contributors": [
+    {
+      "name": "Eugene Shkuropat"
+    },
+    {
+      "name": "Paul Jacobson"
+    }
+  ],
+  "files": [
+    "index.js",
+    "lib/"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodeca/argparse.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "sprintf-js": "~1.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^2.13.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.0",
+    "ndoc": "^5.0.1"
+  },
+  "gitHead": "acb39f2d726b90d2eadf9e6574a938d6250ad248",
+  "bugs": {
+    "url": "https://github.com/nodeca/argparse/issues"
+  },
+  "homepage": "https://github.com/nodeca/argparse#readme",
+  "_id": "argparse@1.0.9",
+  "_shasum": "73d83bc263f86e97f8cc4f6bae1b0e90a7d22c86",
+  "_from": "argparse@>=1.0.6 <2.0.0",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.5.0",
+  "_npmUser": {
+    "name": "vitaly",
+    "email": "vitaly@rcdesign.ru"
+  },
+  "maintainers": [
+    {
+      "name": "vitaly",
+      "email": "vitaly@rcdesign.ru"
+    }
+  ],
+  "dist": {
+    "shasum": "73d83bc263f86e97f8cc4f6bae1b0e90a7d22c86",
+    "tarball": "https://registry.npmjs.org/argparse/-/argparse-1.0.9.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/argparse-1.0.9.tgz_1475177461025_0.33920647646300495"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/argparse/-/argparse-1.0.9.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"›file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/package.json;TTF:charsetI"
+utf-8;F:digest"%ØÃãeVj²†>æ}´âÑÜ‚æñ¾GQÊ,ná.äÍ}p:lengthi¿:dependencies_digest"%FWşÃWÔà-SÁY÷3¶­æ-5á;­=xˆ:idI"E03bf6fbb341684864a9bd9dcbfb6feb3b47104b059db396bb64aedb1af86ea8c;F:
+mtimel+Ä*X

@@ -1,0 +1,78 @@
+{:uriI"ùfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/package.json?type=application/json&id=d67046707d954311d3d970626e6a930340bf2e7d61fa7ebe20936c11b9202c1e:ET:load_pathI"app/assets/stylesheets;T:filenameI"˜app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/package.json;T:	nameI"|icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/package;T:logical_pathI"icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "decamelize",
+  "version": "1.2.0",
+  "description": "Convert a camelized string into a lowercased one with a custom separator: unicornRainbow â†’ unicorn_rainbow",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/decamelize.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "decamelize",
+    "decamelcase",
+    "camelcase",
+    "lowercase",
+    "case",
+    "dash",
+    "hyphen",
+    "string",
+    "str",
+    "text",
+    "convert"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "gitHead": "95980ab6fb44c40eaca7792bdf93aff7c210c805",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/decamelize/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/decamelize#readme",
+  "_id": "decamelize@1.2.0",
+  "_shasum": "f6534d15148269b20352e7bee26f501f9a191290",
+  "_from": "decamelize@>=1.1.2 <2.0.0",
+  "_npmVersion": "3.8.0",
+  "_nodeVersion": "4.3.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "f6534d15148269b20352e7bee26f501f9a191290",
+    "tarball": "https://registry.npmjs.org/decamelize/-/decamelize-1.2.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/decamelize-1.2.0.tgz_1457167749082_0.9810893186368048"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/decamelize/-/decamelize-1.2.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¦file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/decamelize/package.json;TTF:charsetI"
+utf-8;F:digest"%§«€RÆ«|Úû3âGÂê/s™&tíùÃ"þ|:lengthi:dependencies_digest"%›ä—¾à†^Æûðbæ•óa
+¬áh³—n#{²ß:idI"Ed67046707d954311d3d970626e6a930340bf2e7d61fa7ebe20936c11b9202c1e;F:
+mtimel+sÃ*X

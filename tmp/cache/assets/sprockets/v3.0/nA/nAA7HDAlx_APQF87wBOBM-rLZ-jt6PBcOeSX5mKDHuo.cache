@@ -1,0 +1,71 @@
+{:uriI"Rfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/package.json?type=application/json&id=8ec076f444a587a9e7de094d4e6df4b50182f0aa22f0b3149f16e64fe6698776:ET:load_pathI"app/assets/stylesheets;T:filenameI"ñapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/package.json;T:	nameI"Õicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/package;T:logical_pathI"Úicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/package.json;T:content_typeI"application/json;T:sourceI"·{
+  "name": "spdx-correct",
+  "description": "correct invalid SPDX identifiers",
+  "version": "1.0.2",
+  "author": {
+    "name": "Kyle E. Mitchell",
+    "email": "kyle@kemitchell.com",
+    "url": "https://kemitchell.com"
+  },
+  "dependencies": {
+    "spdx-license-ids": "^1.0.2"
+  },
+  "devDependencies": {
+    "defence-cli": "^1.0.1",
+    "replace-require-self": "^1.0.0",
+    "spdx-expression-parse": "^1.0.0",
+    "tape": "~4.0.0"
+  },
+  "keywords": [
+    "SPDX",
+    "law",
+    "legal",
+    "license",
+    "metadata"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kemitchell/spdx-correct.js.git"
+  },
+  "scripts": {
+    "test": "defence README.md | replace-require-self | node && tape *.test.js"
+  },
+  "gitHead": "8430a3ad521e1455208db33faafcb79c7b074236",
+  "bugs": {
+    "url": "https://github.com/kemitchell/spdx-correct.js/issues"
+  },
+  "homepage": "https://github.com/kemitchell/spdx-correct.js#readme",
+  "_id": "spdx-correct@1.0.2",
+  "_shasum": "4b3073d933ff51f3912f03ac5519498a4150db40",
+  "_from": "spdx-correct@>=1.0.0 <1.1.0",
+  "_npmVersion": "3.3.6",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "kemitchell",
+    "email": "kyle@kemitchell.com"
+  },
+  "dist": {
+    "shasum": "4b3073d933ff51f3912f03ac5519498a4150db40",
+    "tarball": "https://registry.npmjs.org/spdx-correct/-/spdx-correct-1.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "kemitchell",
+      "email": "kyle@kemitchell.com"
+    },
+    {
+      "name": "othiym23",
+      "email": "ogd@aoaioxxysz.net"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/spdx-correct/-/spdx-correct-1.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ÿfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/validate-npm-package-license/node_modules/spdx-correct/package.json;TTF:charsetI"
+utf-8;F:digest"%Óí¯…âsÚ@!Ñ¸N.ê?Å{“òo4å«Þ©î:lengthi·:dependencies_digest"%@+¹ZzK]p˜ÄLu™pJ(’ö4—€®b¸Â“9Tð:idI"E8ec076f444a587a9e7de094d4e6df4b50182f0aa22f0b3149f16e64fe6698776;F:
+mtimel+
+Ä*X

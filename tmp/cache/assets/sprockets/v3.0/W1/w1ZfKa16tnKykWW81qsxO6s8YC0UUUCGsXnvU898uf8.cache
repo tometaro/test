@@ -1,0 +1,68 @@
+{:uriI"×file://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/replace-ext/package.json?type=application/json&id=337c0c62b3c07ffcf1d4a82b414538bcf86f96431b384ea9f2088727ff8070ea:ET:load_pathI"app/assets/stylesheets;T:filenameI"{app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/replace-ext/package.json;T:	nameI"_icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/replace-ext/package;T:logical_pathI"dicon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/replace-ext/package.json;T:content_typeI"application/json;T:sourceI"Ê{
+  "name": "replace-ext",
+  "description": "Replaces a file extension with another one",
+  "version": "0.0.1",
+  "homepage": "http://github.com/wearefractal/replace-ext",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wearefractal/replace-ext.git"
+  },
+  "author": {
+    "name": "Fractal",
+    "email": "contact@wearefractal.com",
+    "url": "http://wearefractal.com/"
+  },
+  "main": "./index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.17.0",
+    "should": "~3.1.0",
+    "mocha-lcov-reporter": "~0.0.1",
+    "coveralls": "~2.6.1",
+    "istanbul": "~0.2.3",
+    "rimraf": "~2.2.5",
+    "jshint": "~2.4.1"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec && jshint",
+    "coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+  },
+  "engines": {
+    "node": ">= 0.4"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wearefractal/replace-ext/raw/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/wearefractal/replace-ext/issues"
+  },
+  "_id": "replace-ext@0.0.1",
+  "dist": {
+    "shasum": "29bbd92078a739f0bcce2b4ee41e837953522924",
+    "tarball": "https://registry.npmjs.org/replace-ext/-/replace-ext-0.0.1.tgz"
+  },
+  "_from": "replace-ext@0.0.1",
+  "_npmVersion": "1.4.4",
+  "_npmUser": {
+    "name": "fractal",
+    "email": "contact@wearefractal.com"
+  },
+  "maintainers": [
+    {
+      "name": "fractal",
+      "email": "contact@wearefractal.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "29bbd92078a739f0bcce2b4ee41e837953522924",
+  "_resolved": "https://registry.npmjs.org/replace-ext/-/replace-ext-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"„file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/replace-ext/package.json;TTF:charsetI"
+utf-8;F:digest"%CmòIg bôgëWá	“Ô!ò°»„¯$„”Ä¯‘o:lengthiÊ:dependencies_digest"%6ÿ4ƒg“Ü·²:/.7bŠn¯•'E«7ï n;ÌÒ:idI"E337c0c62b3c07ffcf1d4a82b414538bcf86f96431b384ea9f2088727ff8070ea;F:
+mtimel+?Ä*X

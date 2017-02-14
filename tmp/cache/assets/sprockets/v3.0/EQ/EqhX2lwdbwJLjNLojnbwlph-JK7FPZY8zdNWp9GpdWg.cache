@@ -1,0 +1,102 @@
+{:uriI"!file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/expand-brackets/node_modules/is-posix-bracket/package.json?type=application/json&id=dcb5b163ad46bae0669f73bd6a6c0b3f8e7f3f238b2cb1d9ab49eb6c9c864ce9:ET:load_pathI"app/assets/stylesheets;T:filenameI"Àapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/expand-brackets/node_modules/is-posix-bracket/package.json;T:	nameI"¤icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/expand-brackets/node_modules/is-posix-bracket/package;T:logical_pathI"©icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/expand-brackets/node_modules/is-posix-bracket/package.json;T:content_typeI"application/json;T:sourceI"Ô{
+  "name": "is-posix-bracket",
+  "description": "Returns true if the given string is a POSIX bracket expression (POSIX character class).",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jonschlinkert/is-posix-bracket",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/is-posix-bracket.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-posix-bracket/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.7",
+    "mocha": "^2.4.5"
+  },
+  "keywords": [
+    "braces",
+    "brackets",
+    "character",
+    "character-class",
+    "class",
+    "expression",
+    "posix",
+    "regex",
+    "regexp",
+    "regular"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "braces",
+        "expand-brackets",
+        "is-extglob",
+        "is-glob",
+        "micromatch"
+      ]
+    },
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "43972556cfdbb681a15072da75c97952c4e4deba",
+  "_id": "is-posix-bracket@0.1.1",
+  "_shasum": "3334dc79774368e92f016e6fbc0a88f5cd6e6bc4",
+  "_from": "is-posix-bracket@>=0.1.0 <0.2.0",
+  "_npmVersion": "3.6.0",
+  "_nodeVersion": "5.5.0",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "3334dc79774368e92f016e6fbc0a88f5cd6e6bc4",
+    "tarball": "https://registry.npmjs.org/is-posix-bracket/-/is-posix-bracket-0.1.1.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/is-posix-bracket-0.1.1.tgz_1459834297811_0.5273812564555556"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/is-posix-bracket/-/is-posix-bracket-0.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Îfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/expand-brackets/node_modules/is-posix-bracket/package.json;TTF:charsetI"
+utf-8;F:digest"%‚|!úñÚàTÔü1Š3—ºO‡"@	¯•Jã6=::lengthiÔ:dependencies_digest"%ñ¥m[IÎ¦Ù|»öþ¾ è1ìŸs5iô®rŽ4É:idI"Edcb5b163ad46bae0669f73bd6a6c0b3f8e7f3f238b2cb1d9ab49eb6c9c864ce9;F:
+mtimel+tÃ*X

@@ -1,0 +1,75 @@
+{:uriI"_file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/package.json?type=application/json&id=ae8f6437cec33e71f467ffef4d9d4db3d63ba08e4dbd12e298512301e14cd379:ET:load_pathI"app/assets/stylesheets;T:filenameI"þapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/package.json;T:	nameI"âicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/package;T:logical_pathI"çicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/package.json;T:content_typeI"application/json;T:sourceI"ž{
+  "name": "is-finite",
+  "version": "1.0.2",
+  "description": "ES2015 Number.isFinite() ponyfill",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/is-finite.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "es2015",
+    "ponyfill",
+    "polyfill",
+    "shim",
+    "number",
+    "finite",
+    "is"
+  ],
+  "dependencies": {
+    "number-is-nan": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*"
+  },
+  "gitHead": "43f8bb814834d8573d11ba4a631d19006d0c8897",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/is-finite/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/is-finite#readme",
+  "_id": "is-finite@1.0.2",
+  "_shasum": "cc6677695602be550ef11e8b4aa6305342b6d0aa",
+  "_from": "is-finite@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.15.9",
+  "_nodeVersion": "4.5.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "cc6677695602be550ef11e8b4aa6305342b6d0aa",
+    "tarball": "https://registry.npmjs.org/is-finite/-/is-finite-1.0.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/is-finite-1.0.2.tgz_1475221456713_0.784205764066428"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/is-finite/-/is-finite-1.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/redent/node_modules/indent-string/node_modules/repeating/node_modules/is-finite/package.json;TTF:charsetI"
+utf-8;F:digest"%Ó_~`Ù'$#](c:¦+¤5¦]ý€vªx‚ÆãºÝbæA:lengthiž:dependencies_digest"%|›=¾¯¸4œ±ÔAÈKÔ¯]Ì3ø¶öàÄÚ\GŒ-:idI"Eae8f6437cec33e71f467ffef4d9d4db3d63ba08e4dbd12e298512301e14cd379;F:
+mtimel+	Ä*X

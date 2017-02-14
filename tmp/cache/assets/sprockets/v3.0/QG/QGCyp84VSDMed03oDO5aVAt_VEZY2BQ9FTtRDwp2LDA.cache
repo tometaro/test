@@ -1,0 +1,81 @@
+{:uriI"Ïfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/package.json?type=application/json&id=09c01d099f02722de5263abb8085112e995921947b0acee8ca90bd960fcf9d09:ET:load_pathI"app/assets/stylesheets;T:filenameI"sapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/package.json;T:	nameI"Wicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/package;T:logical_pathI"\icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/package.json;T:content_typeI"application/json;T:sourceI"ì{
+  "name": "glob-stream",
+  "description": "File system globs as a stream",
+  "version": "3.1.18",
+  "homepage": "http://github.com/wearefractal/glob-stream",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wearefractal/glob-stream.git"
+  },
+  "author": {
+    "name": "Fractal",
+    "email": "contact@wearefractal.com",
+    "url": "http://wearefractal.com/"
+  },
+  "main": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "glob": "^4.3.1",
+    "minimatch": "^2.0.1",
+    "ordered-read-streams": "^0.1.0",
+    "glob2base": "^0.0.12",
+    "unique-stream": "^1.0.0",
+    "through2": "^0.6.1"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.0",
+    "istanbul-coveralls": "^1.0.1",
+    "jshint": "^2.5.10",
+    "mocha": "^2.0.0",
+    "mocha-lcov-reporter": "0.0.1",
+    "rimraf": "^2.2.5",
+    "should": "^4.3.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec && jshint",
+    "coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && istanbul-coveralls"
+  },
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wearefractal/glob-stream/raw/master/LICENSE"
+    }
+  ],
+  "gitHead": "472b98e7a0a747a3c72454337def65cebc4fb78e",
+  "bugs": {
+    "url": "https://github.com/wearefractal/glob-stream/issues"
+  },
+  "_id": "glob-stream@3.1.18",
+  "_shasum": "9170a5f12b790306fdfe598f313f8f7954fd143b",
+  "_from": "glob-stream@>=3.1.5 <4.0.0",
+  "_npmVersion": "2.1.6",
+  "_nodeVersion": "0.10.33",
+  "_npmUser": {
+    "name": "fractal",
+    "email": "contact@wearefractal.com"
+  },
+  "maintainers": [
+    {
+      "name": "fractal",
+      "email": "contact@wearefractal.com"
+    }
+  ],
+  "dist": {
+    "shasum": "9170a5f12b790306fdfe598f313f8f7954fd143b",
+    "tarball": "https://registry.npmjs.org/glob-stream/-/glob-stream-3.1.18.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/glob-stream/-/glob-stream-3.1.18.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"|file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/package.json;TTF:charsetI"
+utf-8;F:digest"%`ZS/Á°“&SwÔh ;?!ä§)ÛcrmWå™H:lengthiì:dependencies_digest"%~@Œ™1ö:†±°Š\qYqXuÄ Ú$þ˜ôþž‡-ö:idI"E09c01d099f02722de5263abb8085112e995921947b0acee8ca90bd960fcf9d09;F:
+mtimel+pÃ*X

@@ -1,0 +1,75 @@
+{:uriI"Ifile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/path-exists/package.json?type=application/json&id=185616fa02284bb5a32a5c27c15831e21f439984d7e2b63e57432f8cbdf9eb9c:ET:load_pathI"app/assets/stylesheets;T:filenameI"èapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/path-exists/package.json;T:	nameI"Ìicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/path-exists/package;T:logical_pathI"Ñicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/path-exists/package.json;T:content_typeI"application/json;T:sourceI"F{
+  "name": "path-exists",
+  "version": "2.1.0",
+  "description": "Check if a path exists",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/path-exists.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "path",
+    "exists",
+    "exist",
+    "file",
+    "filepath",
+    "fs",
+    "filesystem",
+    "file-system",
+    "access",
+    "stat"
+  ],
+  "dependencies": {
+    "pinkie-promise": "^2.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "gitHead": "3af423661e78466764f87c5712263c5d7a1ce5b7",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/path-exists/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/path-exists",
+  "_id": "path-exists@2.1.0",
+  "_shasum": "0feb6c64f0fc518d9a754dd5efb62c7022761f4b",
+  "_from": "path-exists@>=2.0.0 <3.0.0",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "0feb6c64f0fc518d9a754dd5efb62c7022761f4b",
+    "tarball": "https://registry.npmjs.org/path-exists/-/path-exists-2.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/path-exists/-/path-exists-2.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"öfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/find-up/node_modules/path-exists/package.json;TTF:charsetI"
+utf-8;F:digest"%Á0ZëØ:Å•	ˆõ–%@XôfËp"vÒØ£4É´Rz:lengthiF:dependencies_digest"%ú†›`ÒV`1"²ôÜU±ªvœ(õLQ3F¯Ë{mh9Ý:idI"E185616fa02284bb5a32a5c27c15831e21f439984d7e2b63e57432f8cbdf9eb9c;F:
+mtimel+	Ä*X

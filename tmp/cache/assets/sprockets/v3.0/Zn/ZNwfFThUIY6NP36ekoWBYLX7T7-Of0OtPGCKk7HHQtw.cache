@@ -1,0 +1,73 @@
+{:uriI"Ûfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/object-assign/package.json?type=application/json&id=9c92afd7099aad53abe101d0f56804820cf9fd96bc34025e21724ddd60a920be:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/object-assign/package.json;T:	nameI"cicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/object-assign/package;T:logical_pathI"hicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/object-assign/package.json;T:content_typeI"application/json;T:sourceI"H{
+  "name": "object-assign",
+  "version": "3.0.0",
+  "description": "ES6 Object.assign() ponyfill",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/object-assign.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "object",
+    "assign",
+    "extend",
+    "properties",
+    "es6",
+    "ecmascript",
+    "harmony",
+    "ponyfill",
+    "prollyfill",
+    "polyfill",
+    "shim",
+    "browser"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "gitHead": "02622dcb0d82bd81a071ed0b04fedf5e5eea7059",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/object-assign/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/object-assign",
+  "_id": "object-assign@3.0.0",
+  "_shasum": "9bedd5ca0897949bca47e7ff408062d549f587f2",
+  "_from": "object-assign@>=3.0.0 <4.0.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "9bedd5ca0897949bca47e7ff408062d549f587f2",
+    "tarball": "https://registry.npmjs.org/object-assign/-/object-assign-3.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/object-assign/-/object-assign-3.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ˆfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/object-assign/package.json;TTF:charsetI"
+utf-8;F:digest"%Iá9§G #¥èğçACÿbÚª4åÑ‹Ö&íÛ	FV:lengthiH:dependencies_digest"%¢>ö¨ôTÕamÇW¼İÍNü‘ñí “ó8Ø@Ø:idI"E9c92afd7099aad53abe101d0f56804820cf9fd96bc34025e21724ddd60a920be;F:
+mtimel+Ä*X

@@ -1,0 +1,71 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/filename-regex/package.json?type=application/json&id=8049b314882d97123e8d6a6edd70cdf878a34414b5111cb9fc8a8fb161f37c48:ET:load_pathI"app/assets/stylesheets;T:filenameI"¡app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/filename-regex/package.json;T:	nameI"…icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/filename-regex/package;T:logical_pathI"Šicon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/filename-regex/package.json;T:content_typeI"application/json;T:sourceI"^{
+  "name": "filename-regex",
+  "description": "Regular expression for matching file names, with or without extension.",
+  "version": "2.0.0",
+  "homepage": "https://github.com/regexps/filename-regex",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/regexps/filename-regex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/regexps/filename-regex/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/regexps/filename-regex/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "keywords": [
+    "basename",
+    "regular expression",
+    "file",
+    "filename",
+    "filepath",
+    "match",
+    "name",
+    "path",
+    "regex",
+    "regexp"
+  ],
+  "gitHead": "aa0f2933322d38cf547ff4c8ced882fbd8422866",
+  "_id": "filename-regex@2.0.0",
+  "_shasum": "996e3e80479b98b9897f15a8a58b3d084e926775",
+  "_from": "filename-regex@>=2.0.0 <3.0.0",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "996e3e80479b98b9897f15a8a58b3d084e926775",
+    "tarball": "https://registry.npmjs.org/filename-regex/-/filename-regex-2.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/filename-regex/-/filename-regex-2.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¯file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/filename-regex/package.json;TTF:charsetI"
+utf-8;F:digest"%ð©"ÞWèsçÙœ1×T½9½ªeQû¿}+G@«é|¢:lengthi^:dependencies_digest"%;žÕíõ³Nºà
+¶žè°Ûx!ûú1,âå¹“È ^:idI"E8049b314882d97123e8d6a6edd70cdf878a34414b5111cb9fc8a8fb161f37c48;F:
+mtimel+rÃ*X

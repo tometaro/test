@@ -1,0 +1,57 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/package.json?type=application/json&id=2b19c5a5dbd9004cc89c5b575aca36cbd288d615305165d8abb592d41c509eb3:ET:load_pathI"app/assets/stylesheets;T:filenameI"¥app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/package.json;T:	nameI"‰icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/package;T:logical_pathI"Žicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/package.json;T:content_typeI"application/json;T:sourceI"t{
+  "name": "sprintf-js",
+  "version": "1.0.3",
+  "description": "JavaScript sprintf implementation",
+  "author": {
+    "name": "Alexandru Marasteanu",
+    "email": "hello@alexei.ro",
+    "url": "http://alexei.ro/"
+  },
+  "main": "src/sprintf.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexei/sprintf.js.git"
+  },
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "mocha": "*",
+    "grunt": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-uglify": "*"
+  },
+  "gitHead": "747b806c2dab5b64d5c9958c42884946a187c3b1",
+  "bugs": {
+    "url": "https://github.com/alexei/sprintf.js/issues"
+  },
+  "homepage": "https://github.com/alexei/sprintf.js#readme",
+  "_id": "sprintf-js@1.0.3",
+  "_shasum": "04e6926f662895354f3dd015203633b857297e2c",
+  "_from": "sprintf-js@>=1.0.2 <1.1.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "alexei",
+    "email": "hello@alexei.ro"
+  },
+  "dist": {
+    "shasum": "04e6926f662895354f3dd015203633b857297e2c",
+    "tarball": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "alexei",
+      "email": "hello@alexei.ro"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"³file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/package.json;TTF:charsetI"
+utf-8;F:digest"%'Wü!Ïf¹G-IÎž$Ž_	[Ëw7N Vóqó:lengthit:dependencies_digest"%=/÷ìäzº¯if²1(¥-¡)Ý OÂFÏo>:idI"E2b19c5a5dbd9004cc89c5b575aca36cbd288d615305165d8abb592d41c509eb3;F:
+mtimel+	Ä*X

@@ -1,0 +1,75 @@
+{:uriI"ìfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/lodash/package.json?type=application/json&id=47b6ae953c2f0aa5b2b7f860f31e41db7a265735660de56187702102c95f35c6:ET:load_pathI"app/assets/stylesheets;T:filenameI"‹app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/lodash/package.json;T:	nameI"ticon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/lodash/package;T:logical_pathI"yicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/lodash/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "lodash",
+  "version": "4.17.1",
+  "description": "Lodash modular utilities.",
+  "keywords": [
+    "modules",
+    "stdlib",
+    "util"
+  ],
+  "homepage": "https://lodash.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "main": "lodash.js",
+  "author": {
+    "name": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/"
+  },
+  "contributors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    {
+      "name": "Mathias Bynens",
+      "email": "mathias@qiwi.be",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "bugs": {
+    "url": "https://github.com/lodash/lodash/issues"
+  },
+  "_id": "lodash@4.17.1",
+  "_shasum": "e75eaf17a34730c6491d9956f4d81f3a044f01bf",
+  "_from": "lodash@>=4.6.1 <5.0.0",
+  "_npmVersion": "2.15.11",
+  "_nodeVersion": "7.1.0",
+  "_npmUser": {
+    "name": "jdalton",
+    "email": "john.david.dalton@gmail.com"
+  },
+  "dist": {
+    "shasum": "e75eaf17a34730c6491d9956f4d81f3a044f01bf",
+    "tarball": "https://registry.npmjs.org/lodash/-/lodash-4.17.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jdalton",
+      "email": "john.david.dalton@gmail.com"
+    },
+    {
+      "name": "mathias",
+      "email": "mathias@qiwi.be"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/lodash-4.17.1.tgz_1479193405702_0.2180279449094087"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.1.tgz"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"™file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/lodash/package.json;TTF:charsetI"
+utf-8;F:digest"%s]×|®Ü•7B.\èfˆ·[ºwtë¡;ÿò@ò:lengthi:dependencies_digest"%õÎœOSùq4¿cP;$5ñy9¼»Èˆº4˜þÐ8Ô¨ü:idI"E47b6ae953c2f0aa5b2b7f860f31e41db7a265735660de56187702102c95f35c6;F:
+mtimel+Ä*X

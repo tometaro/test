@@ -1,0 +1,43 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/request.json?type=application/json&id=f420113985b25e5201f19554faa0488e31b9b6cdeed548bf8375db7540b0957e:ET:load_pathI"app/assets/stylesheets;T:filenameI"»app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/request.json;T:	nameI"Ÿicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/request;T:logical_pathI"¤icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/request.json;T:content_typeI"application/json;T:sourceI"5{
+  "name": "request",
+  "description": "Simplified HTTP request client.",
+  "tags": [
+    "http",
+    "simple",
+    "util",
+    "utility"
+  ],
+  "version": "2.16.7",
+  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/mikeal/request.git"
+  },
+  "bugs": {
+    "url": "http://github.com/mikeal/request/issues"
+  },
+  "engines": [
+    "node >= 0.8.0"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "form-data": "~0.0.3",
+    "mime": "~1.2.7",
+    "hawk": "~0.10.2",
+    "node-uuid": "~1.4.0",
+    "cookie-jar": "~0.2.0",
+    "aws-sign": "~0.2.0",
+    "oauth-sign": "~0.2.0",
+    "forever-agent": "~0.2.0",
+    "tunnel-agent": "~0.2.0",
+    "json-stringify-safe": "~3.0.0",
+    "qs": "~0.5.4"
+  },
+  "scripts": {
+    "test": "node tests/run.js"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Éfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/request.json;TTF:charsetI"
+utf-8;F:digest"%«˜df€¶æè;ª¼=`žáPÒEÒÜ2gõ/$µe!:lengthi5:dependencies_digest"%˜ÌÎé4;L·öµDØ'…e-@+ âO”ÙáU.Ã9\QŸ:idI"Ef420113985b25e5201f19554faa0488e31b9b6cdeed548bf8375db7540b0957e;F:
+mtimel+’%OT

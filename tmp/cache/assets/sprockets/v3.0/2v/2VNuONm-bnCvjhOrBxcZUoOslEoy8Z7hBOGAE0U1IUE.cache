@@ -1,0 +1,57 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/http-server.json?type=application/json&id=d94837f1e52dab3ecc8c2cb838251ddf82e00e66269255e60bccbc9a72aedd06:ET:load_pathI"app/assets/stylesheets;T:filenameI"Ωapp/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/http-server.json;T:	nameI"°icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/http-server;T:logical_pathI"¶icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/http-server.json;T:content_typeI"application/json;T:sourceI"∆{
+  "name": "http-server",
+  "preferGlobal": true,
+  "version": "0.3.0",
+  "author": "Nodejitsu <support@nodejitsu.com>",
+  "description": "a simple zero-configuration command-line http server",
+  "contributors": [ 
+    {
+      "name": "Marak Squires",
+      "email": "marak@nodejitsu.com"
+    } 
+  ],
+  "bin": {
+    "http-server": "./bin/http-server"
+  },
+  "scripts": {
+    "start": "node ./bin/http-server",
+    "test": "vows --spec --isolate",
+    "predeploy": "echo This will be run before deploying the app",
+    "postdeploy": "echo This will be run after deploying the app"
+  },
+  "main": "./lib/http-server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodejitsu/http-server.git"
+  },
+  "keywords": [
+    "cli",
+    "http",
+    "server"
+  ],
+  "dependencies" : {
+    "colors"   :  "*",
+    "flatiron" :  "0.1.x",
+    "optimist" :  "0.2.x",
+    "union"    :  "0.1.x",
+    "ecstatic" :  "0.1.x",
+    "plates"   :  "https://github.com/flatiron/plates/tarball/master"
+  },
+  "analyze": false,
+  "devDependencies": {
+    "vows"    :  "0.5.x",
+    "request" :  "2.1.x"
+  },
+  "bundledDependencies": [
+    "union",
+    "ecstatic"
+  ],  
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.6"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Àfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/http-server.json;TTF:charsetI"
+utf-8;F:digest"%5≈ª"ƒÖ¡oÔ*ÃcùìØƒëöÑÒ,‚ÿ∑Ö˙›:lengthi∆:dependencies_digest"%@lªM?Ê¶ªØ!g˙í#;øˇjV¿Z]z:idI"Ed94837f1e52dab3ecc8c2cb838251ddf82e00e66269255e60bccbc9a72aedd06;F:
+mtimel+í%OT

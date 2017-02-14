@@ -1,0 +1,85 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/object.omit/node_modules/is-extendable/package.json?type=application/json&id=42d406670f08fec91a960a7ab79e7fd9ea19dfff3d402ea5b62267d3c818523b:ET:load_pathI"app/assets/stylesheets;T:filenameI"¹app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/object.omit/node_modules/is-extendable/package.json;T:	nameI"icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/object.omit/node_modules/is-extendable/package;T:logical_pathI"¢icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/object.omit/node_modules/is-extendable/package.json;T:content_typeI"application/json;T:sourceI"®{
+  "name": "is-extendable",
+  "description": "Returns true if a value is any of the object types: array, regexp, plain object, function or date. This is useful for determining if a value can be extended, e.g. \"can the value have keys?\"",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jonschlinkert/is-extendable",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/is-extendable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-extendable/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "array",
+    "assign",
+    "check",
+    "date",
+    "extend",
+    "extensible",
+    "function",
+    "is",
+    "object",
+    "regex",
+    "test"
+  ],
+  "verbiage": {
+    "related": {
+      "list": [
+        "isobject",
+        "is-plain-object",
+        "kind-of",
+        "is-extendable",
+        "is-equal-shallow",
+        "extend-shallow",
+        "assign-deep"
+      ]
+    }
+  },
+  "gitHead": "c36a0732e6a76931c6f66c5931d1f3e54fa44380",
+  "_id": "is-extendable@0.1.1",
+  "_shasum": "62b110e289a471418e3ec36a617d472e301dfc89",
+  "_from": "is-extendable@>=0.1.1 <0.2.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "62b110e289a471418e3ec36a617d472e301dfc89",
+    "tarball": "https://registry.npmjs.org/is-extendable/-/is-extendable-0.1.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/is-extendable/-/is-extendable-0.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Çfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/object.omit/node_modules/is-extendable/package.json;TTF:charsetI"
+utf-8;F:digest"%#¡¢sÔ¨æ|H¡œB[@ÓÑT38ÐY÷Èqû]:lengthi®:dependencies_digest"%SÞî[<1é4à`qÊLuï/¬žC1©›rÛñã:idI"E42d406670f08fec91a960a7ab79e7fd9ea19dfff3d402ea5b62267d3c818523b;F:
+mtimel+tÃ*X

@@ -1,0 +1,79 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/package.json?type=application/json&id=45f1f3e46268295335ce0c98fdf656bed58df2baa1938c9db580055f1b5fd073:ET:load_pathI"app/assets/stylesheets;T:filenameI"£app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/package.json;T:	nameI"‡icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/package;T:logical_pathI"Œicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/package.json;T:content_typeI"application/json;T:sourceI"L{
+  "name": "ansi-styles",
+  "version": "1.1.0",
+  "description": "ANSI escape codes for styling strings in the terminal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sindresorhus/ansi-styles.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ansi",
+    "styles",
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "cli",
+    "string",
+    "tty",
+    "escape",
+    "formatting",
+    "rgb",
+    "256",
+    "shell",
+    "xterm",
+    "log",
+    "logging",
+    "command-line",
+    "text"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/ansi-styles/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/ansi-styles",
+  "_id": "ansi-styles@1.1.0",
+  "_shasum": "eaecbf66cd706882760b2f4691582b8f55d7a7de",
+  "_from": "ansi-styles@>=1.1.0 <2.0.0",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "eaecbf66cd706882760b2f4691582b8f55d7a7de",
+    "tarball": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-1.1.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-1.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"±file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/ansi-styles/package.json;TTF:charsetI"
+utf-8;F:digest"%[l¾$YG°é“¡Øƒ¢WùUî «>t¢òæjFóËpŞ	:lengthiL:dependencies_digest"%5È7³ç;ypæèÀ0\ŠH2rÈ5ßõÿ7h¬A:idI"E45f1f3e46268295335ce0c98fdf656bed58df2baa1938c9db580055f1b5fd073;F:
+mtimel+Ä*X

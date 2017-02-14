@@ -1,0 +1,77 @@
+{:uriI"ºfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/orchestrator/package.json?type=application/json&id=9e766d97cf0f4c8803bcc1f293bf5b44a61b61b3d4e1430e0e16c498f1f6fd5f:ET:load_pathI"app/assets/stylesheets;T:filenameI"^app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/orchestrator/package.json;T:	nameI"Bicon-font/node_modules/gulp/node_modules/orchestrator/package;T:logical_pathI"Gicon-font/node_modules/gulp/node_modules/orchestrator/package.json;T:content_typeI"application/json;T:sourceI"a{
+  "name": "orchestrator",
+  "description": "A module for sequencing and executing tasks and dependencies in maximum concurrency",
+  "version": "0.3.8",
+  "homepage": "https://github.com/robrich/orchestrator",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robrich/orchestrator.git"
+  },
+  "author": {
+    "name": "Rob Richardson",
+    "url": "http://robrich.org/"
+  },
+  "main": "./index.js",
+  "keywords": [
+    "async",
+    "task",
+    "parallel",
+    "compose"
+  ],
+  "dependencies": {
+    "end-of-stream": "~0.1.5",
+    "sequencify": "~0.0.7",
+    "stream-consume": "~0.1.0"
+  },
+  "devDependencies": {
+    "event-stream": "~3.3.4",
+    "gulp-uglify": "^2.0.0",
+    "jshint": "^2.9.4",
+    "map-stream": "~0.0.6",
+    "merge-stream": "~1.0.0",
+    "mocha": "~3.1.2",
+    "q": "~1.4.1",
+    "should": "~11.1.1",
+    "vinyl-fs": "~2.4.4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "gitHead": "8d14e9df94450edf5dae1a16b7a8f051f26670fa",
+  "bugs": {
+    "url": "https://github.com/robrich/orchestrator/issues"
+  },
+  "_id": "orchestrator@0.3.8",
+  "_shasum": "14e7e9e2764f7315fbac184e506c7aa6df94ad7e",
+  "_from": "orchestrator@>=0.3.0 <0.4.0",
+  "_npmVersion": "3.10.8",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "robrich",
+    "email": "robrich@robrich.org"
+  },
+  "maintainers": [
+    {
+      "name": "robrich",
+      "email": "robrich@robrich.org"
+    }
+  ],
+  "dist": {
+    "shasum": "14e7e9e2764f7315fbac184e506c7aa6df94ad7e",
+    "tarball": "https://registry.npmjs.org/orchestrator/-/orchestrator-0.3.8.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/orchestrator-0.3.8.tgz_1478376952393_0.013398072216659784"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/orchestrator/-/orchestrator-0.3.8.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"lfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/orchestrator/package.json;TTF:charsetI"
+utf-8;F:digest"%}äT2ðý9…	¨\Û6š?³¶q¥Y–1gšt¶ËüÑ:lengthia:dependencies_digest"%t
+ß™§ÊqZcs~¬8éüúa»þ)=ÅTGdKóÚSµ:idI"E9e766d97cf0f4c8803bcc1f293bf5b44a61b61b3d4e1430e0e16c498f1f6fd5f;F:
+mtimel+oÃ*X

@@ -1,0 +1,100 @@
+{:uriI"Îfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/package.json?type=application/json&id=37ab94694f46175177264a3653ecc2d289b55b78f9ad19b3b1b74a3844a8639f:ET:load_pathI"app/assets/stylesheets;T:filenameI"rapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/package.json;T:	nameI"Vicon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/package;T:logical_pathI"[icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/package.json;T:content_typeI"application/json;T:sourceI"*	{
+  "name": "findup-sync",
+  "description": "Find the first file matching a given pattern in the current directory or the nearest ancestor directory.",
+  "version": "0.4.3",
+  "homepage": "https://github.com/cowboy/node-findup-sync",
+  "author": {
+    "name": "\"Cowboy\" Ben Alman",
+    "url": "http://benalman.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cowboy/node-findup-sync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cowboy/node-findup-sync/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt && mocha"
+  },
+  "dependencies": {
+    "detect-file": "^0.1.0",
+    "is-glob": "^2.0.1",
+    "micromatch": "^2.3.7",
+    "resolve-dir": "^0.1.0"
+  },
+  "devDependencies": {
+    "fs-exists-sync": "^0.1.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^0.12.0",
+    "is-absolute": "^0.2.3",
+    "minimist": "^1.2.0",
+    "mocha": "^2.4.5",
+    "normalize-path": "^2.0.1",
+    "os-homedir": "^1.0.1",
+    "resolve": "^1.1.7"
+  },
+  "keywords": [
+    "file",
+    "find",
+    "find-up",
+    "findup",
+    "glob",
+    "match",
+    "pattern",
+    "resolve",
+    "search"
+  ],
+  "gitHead": "701fd1044e1e26936aa066a35281ffdfb0b37d43",
+  "_id": "findup-sync@0.4.3",
+  "_shasum": "40043929e7bc60adf0b7f4827c4c6e75a0deca12",
+  "_from": "findup-sync@>=0.4.2 <0.5.0",
+  "_npmVersion": "2.15.2",
+  "_nodeVersion": "0.10.41",
+  "_npmUser": {
+    "name": "phated",
+    "email": "blaine.bublitz@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "cowboy",
+      "email": "cowboy@rj3.net"
+    },
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    },
+    {
+      "name": "phated",
+      "email": "blaine.bublitz@gmail.com"
+    },
+    {
+      "name": "tkellen",
+      "email": "tyler@sleekcode.net"
+    }
+  ],
+  "dist": {
+    "shasum": "40043929e7bc60adf0b7f4827c4c6e75a0deca12",
+    "tarball": "https://registry.npmjs.org/findup-sync/-/findup-sync-0.4.3.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/findup-sync-0.4.3.tgz_1476308790543_0.40729925991036"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/findup-sync/-/findup-sync-0.4.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"{file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/package.json;TTF:charsetI"
+utf-8;F:digest"%ì'@u&s‘Ìe¡@XU»ïúäøÿÂ5t’t]H€ÔÚ›:lengthi*	:dependencies_digest"%ÌLo·Ø³ýj{ÜÍìok½Q©S¶—É-jÔ:idI"E37ab94694f46175177264a3653ecc2d289b55b78f9ad19b3b1b74a3844a8639f;F:
+mtimel+pÃ*X

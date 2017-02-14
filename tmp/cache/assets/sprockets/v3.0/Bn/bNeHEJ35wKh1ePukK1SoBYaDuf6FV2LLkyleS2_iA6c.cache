@@ -1,0 +1,63 @@
+{:uriI"	file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/package.json?type=application/json&id=66e8dac159e891456a9582fd03469dfc1f83b55f790fd44c4efaf073e4cd4599:ET:load_pathI"app/assets/stylesheets;T:filenameI"¨app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/package.json;T:	nameI"Œicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/package;T:logical_pathI"‘icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/package.json;T:content_typeI"application/json;T:sourceI"{
+  "author": {
+    "name": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/"
+  },
+  "name": "glob",
+  "description": "a little globber",
+  "version": "3.1.21",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/node-glob.git"
+  },
+  "main": "glob.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "minimatch": "~0.2.11",
+    "graceful-fs": "~1.2.0",
+    "inherits": "1"
+  },
+  "devDependencies": {
+    "tap": "~0.4.0",
+    "mkdirp": "0",
+    "rimraf": "1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "license": "BSD",
+  "_id": "glob@3.1.21",
+  "dist": {
+    "shasum": "d29e0a055dea5138f4d07ed40e8982e83c2066cd",
+    "tarball": "https://registry.npmjs.org/glob/-/glob-3.1.21.tgz"
+  },
+  "_from": "glob@>=3.1.21 <3.2.0",
+  "_npmVersion": "1.2.12",
+  "_npmUser": {
+    "name": "isaacs",
+    "email": "i@izs.me"
+  },
+  "maintainers": [
+    {
+      "name": "isaacs",
+      "email": "i@izs.me"
+    }
+  ],
+  "directories": {},
+  "_shasum": "d29e0a055dea5138f4d07ed40e8982e83c2066cd",
+  "_resolved": "https://registry.npmjs.org/glob/-/glob-3.1.21.tgz",
+  "bugs": {
+    "url": "https://github.com/isaacs/node-glob/issues"
+  },
+  "readme": "ERROR: No README data found!",
+  "homepage": "https://github.com/isaacs/node-glob#readme"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¶file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/glob/package.json;TTF:charsetI"
+utf-8;F:digest"%Xïgïßµ.D\ÁEÿ¼¦ßEwFk³v>šå::lengthi:dependencies_digest"%ÉüxrróW‡ûÛßÜrüâÒlX{·0øÚ
+[«“Pˆ=:idI"E66e8dac159e891456a9582fd03469dfc1f83b55f790fd44c4efaf073e4cd4599;F:
+mtimel+uÃ*X

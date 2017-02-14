@@ -1,0 +1,75 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/preserve/package.json?type=application/json&id=8b102fe2f74d403c5bdf8267bb780a72e058f24f149d201e81360e2fcb1efbb8:ET:load_pathI"app/assets/stylesheets;T:filenameI"¯app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/preserve/package.json;T:	nameI"“icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/preserve/package;T:logical_pathI"˜icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/preserve/package.json;T:content_typeI"application/json;T:sourceI"ë{
+  "name": "preserve",
+  "description": "Temporarily substitute tokens in the given `string` with placeholders, then put them back after transforming the string.",
+  "version": "0.2.0",
+  "homepage": "https://github.com/jonschlinkert/preserve",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/preserve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/preserve/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/preserve/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "benchmarked": "^0.1.3",
+    "chalk": "^0.5.1",
+    "js-beautify": "^1.5.4",
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "escape",
+    "format",
+    "placeholder",
+    "placeholders",
+    "prettify",
+    "regex",
+    "replace",
+    "template",
+    "templates",
+    "token",
+    "tokens"
+  ],
+  "gitHead": "1bf405d35e4aea06a2ee83db2d34dc54abc0a1f9",
+  "_id": "preserve@0.2.0",
+  "_shasum": "815ed1f6ebc65926f865b310c0713bcb3315ce4b",
+  "_from": "preserve@>=0.2.0 <0.3.0",
+  "_npmVersion": "1.4.23",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "815ed1f6ebc65926f865b310c0713bcb3315ce4b",
+    "tarball": "https://registry.npmjs.org/preserve/-/preserve-0.2.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/preserve/-/preserve-0.2.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"½file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/preserve/package.json;TTF:charsetI"
+utf-8;F:digest"%ü	Ñ~o¦¨œsÜ¡ÙÆ(ÐžÎ'\¦tj	0±Ç:lengthië:dependencies_digest"%[€æÊ¼=–äž«4³FÍdb<ÌÆÔ²ÿÉ¡Rj:½:idI"E8b102fe2f74d403c5bdf8267bb780a72e058f24f149d201e81360e2fcb1efbb8;F:
+mtimel+tÃ*X

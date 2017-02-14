@@ -1,0 +1,74 @@
+{:uriI"Cfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/package.json?type=application/json&id=2791ebd5a1d931411f60699f2e9064ae35f5a8bf5c57b3e61160849341015ef1:ET:load_pathI"app/assets/stylesheets;T:filenameI"âapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/package.json;T:	nameI"Æicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/package;T:logical_pathI"Ëicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "hosted-git-info",
+  "version": "2.1.5",
+  "description": "Provides metadata and conversions from repository urls for Github, Bitbucket and Gitlab",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/hosted-git-info.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "bitbucket",
+    "gitlab"
+  ],
+  "author": {
+    "name": "Rebecca Turner",
+    "email": "me@re-becca.org",
+    "url": "http://re-becca.org"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npm/hosted-git-info/issues"
+  },
+  "homepage": "https://github.com/npm/hosted-git-info",
+  "scripts": {
+    "test": "standard && tap test/*.js"
+  },
+  "devDependencies": {
+    "standard": "^3.3.2",
+    "tap": "^0.4.13"
+  },
+  "gitHead": "4e6bb323a97a57c18e6b4b891527e26154d04fbe",
+  "_id": "hosted-git-info@2.1.5",
+  "_shasum": "0ba81d90da2e25ab34a332e6ec77936e1598118b",
+  "_from": "hosted-git-info@>=2.1.4 <3.0.0",
+  "_npmVersion": "3.9.1",
+  "_nodeVersion": "5.10.1",
+  "_npmUser": {
+    "name": "zkat",
+    "email": "kat@sykosomatic.org"
+  },
+  "dist": {
+    "shasum": "0ba81d90da2e25ab34a332e6ec77936e1598118b",
+    "tarball": "https://registry.npmjs.org/hosted-git-info/-/hosted-git-info-2.1.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "iarna",
+      "email": "me@re-becca.org"
+    },
+    {
+      "name": "othiym23",
+      "email": "ogd@aoaioxxysz.net"
+    },
+    {
+      "name": "zkat",
+      "email": "kat@sykosomatic.org"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/hosted-git-info-2.1.5.tgz_1463518889246_0.20443619322031736"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/hosted-git-info/-/hosted-git-info-2.1.5.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ðfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/hosted-git-info/package.json;TTF:charsetI"
+utf-8;F:digest"%nÒÝ¸ØÏ ÏÇ	dw,’ËUeå¦Òc¬ØºÒ‚’:lengthi:dependencies_digest"%Ó’¥”gÀ¸©â¾Ñµ®ü!]+¡`ä—"È–ï:idI"E2791ebd5a1d931411f60699f2e9064ae35f5a8bf5c57b3e61160849341015ef1;F:
+mtimel+
+Ä*X

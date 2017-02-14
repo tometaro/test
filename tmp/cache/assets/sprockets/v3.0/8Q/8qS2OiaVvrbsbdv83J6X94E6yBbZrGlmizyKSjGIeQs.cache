@@ -1,0 +1,61 @@
+{:uriI"/file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/global-prefix/node_modules/ini/package.json?type=application/json&id=a66a3fc6af489d70216942560e267319f17d58676dd43a24653b4f14881ceee4:ET:load_pathI"app/assets/stylesheets;T:filenameI"Îapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/global-prefix/node_modules/ini/package.json;T:	nameI"²icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/global-prefix/node_modules/ini/package;T:logical_pathI"·icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/global-prefix/node_modules/ini/package.json;T:content_typeI"application/json;T:sourceI"{
+  "author": {
+    "name": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/"
+  },
+  "name": "ini",
+  "description": "An ini encoder/decoder for node",
+  "version": "1.3.4",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/ini.git"
+  },
+  "main": "ini.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^1.2.0"
+  },
+  "license": "ISC",
+  "files": [
+    "ini.js"
+  ],
+  "gitHead": "4a3001abc4c608e51add9f1d2b2cadf02b8e6dea",
+  "bugs": {
+    "url": "https://github.com/isaacs/ini/issues"
+  },
+  "homepage": "https://github.com/isaacs/ini#readme",
+  "_id": "ini@1.3.4",
+  "_shasum": "0537cb79daf59b59a1a517dff706c86ec039162e",
+  "_from": "ini@>=1.3.4 <2.0.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "2.0.1",
+  "_npmUser": {
+    "name": "isaacs",
+    "email": "isaacs@npmjs.com"
+  },
+  "dist": {
+    "shasum": "0537cb79daf59b59a1a517dff706c86ec039162e",
+    "tarball": "https://registry.npmjs.org/ini/-/ini-1.3.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "isaacs",
+      "email": "i@izs.me"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ini/-/ini-1.3.4.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Üfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/global-prefix/node_modules/ini/package.json;TTF:charsetI"
+utf-8;F:digest"%á"Ô+ˆóÓé1ÔÞËÚöËše9RÁqâŽ«‘IÚÎ:lengthi:dependencies_digest"%C”N#Æ@ƒ°N–Ú^ë[EH"(¤“Ó,!E´µ¹âi:idI"Ea66a3fc6af489d70216942560e267319f17d58676dd43a24653b4f14881ceee4;F:
+mtimel+tÃ*X

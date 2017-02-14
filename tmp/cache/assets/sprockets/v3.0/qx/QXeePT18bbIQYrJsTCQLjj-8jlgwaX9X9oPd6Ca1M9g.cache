@@ -1,0 +1,56 @@
+{:uriI";file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/are-we-there-yet/node_modules/delegates/package.json?type=application/json&id=8cd7519f764215e572aac0e808e2f4862a12081786587ff954683977baf255bf:ET:load_pathI"app/assets/stylesheets;T:filenameI"Úapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/are-we-there-yet/node_modules/delegates/package.json;T:	nameI"¾icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/are-we-there-yet/node_modules/delegates/package;T:logical_pathI"Ãicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/are-we-there-yet/node_modules/delegates/package.json;T:content_typeI"application/json;T:sourceI"K{
+  "name": "delegates",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visionmedia/node-delegates.git"
+  },
+  "description": "delegate methods and accessors to another property",
+  "keywords": [
+    "delegate",
+    "delegation"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "license": "MIT",
+  "gitHead": "c4dc07ef1ed51c2b2a63f3585e5ef949ee577a49",
+  "bugs": {
+    "url": "https://github.com/visionmedia/node-delegates/issues"
+  },
+  "homepage": "https://github.com/visionmedia/node-delegates#readme",
+  "_id": "delegates@1.0.0",
+  "scripts": {},
+  "_shasum": "84c6e159b81904fdca59a0ef44cd870d31250f9a",
+  "_from": "delegates@>=1.0.0 <2.0.0",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "tjholowaychuk",
+    "email": "tj@vision-media.ca"
+  },
+  "maintainers": [
+    {
+      "name": "tjholowaychuk",
+      "email": "tj@vision-media.ca"
+    },
+    {
+      "name": "dominicbarnes",
+      "email": "dominic@dbarnes.info"
+    }
+  ],
+  "dist": {
+    "shasum": "84c6e159b81904fdca59a0ef44cd870d31250f9a",
+    "tarball": "https://registry.npmjs.org/delegates/-/delegates-1.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/delegates/-/delegates-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"èfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/npmlog/node_modules/are-we-there-yet/node_modules/delegates/package.json;TTF:charsetI"
+utf-8;F:digest"%ÓWsCj[Æ1š}uã¤¨ºdy/”¨°ß¼Ñ,$–:lengthiK:dependencies_digest"%yGâ½çn`›¦éŠÔJÍÖ»Ü(ÍAZ™³óá:idI"E8cd7519f764215e572aac0e808e2f4862a12081786587ff954683977baf255bf;F:
+mtimel+Ä*X

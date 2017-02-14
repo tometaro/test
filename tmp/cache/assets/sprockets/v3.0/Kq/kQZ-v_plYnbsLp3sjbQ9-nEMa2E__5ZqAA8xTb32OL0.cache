@@ -1,0 +1,77 @@
+{:uriI"æfile://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/gulplog/node_modules/glogg/package.json?type=application/json&id=29ceac9f87862a15ee244558d0257c13857206aa8a1c5ae05ab3e0cdfe1ad7f5:ET:load_pathI"app/assets/stylesheets;T:filenameI"…app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/gulplog/node_modules/glogg/package.json;T:	nameI"nicon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/gulplog/node_modules/glogg/package;T:logical_pathI"sicon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/gulplog/node_modules/glogg/package.json;T:content_typeI"application/json;T:sourceI" {
+  "name": "glogg",
+  "version": "1.0.0",
+  "description": "Global logging utility",
+  "author": {
+    "name": "Blaine Bublitz",
+    "email": "blaine@iceddev.com",
+    "url": "http://iceddev.com/"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undertakerjs/glogg.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "main": "index.js",
+  "files": [
+    "LICENSE",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "lab -cvL --globals store@sparkles"
+  },
+  "dependencies": {
+    "sparkles": "^1.0.0"
+  },
+  "devDependencies": {
+    "@phated/eslint-config-iceddev": "^0.2.1",
+    "code": "^1.5.0",
+    "eslint": "^1.3.1",
+    "eslint-plugin-mocha": "^0.5.1",
+    "eslint-plugin-react": "^3.3.2",
+    "lab": "^5.16.0"
+  },
+  "keywords": [
+    "global",
+    "log",
+    "logger",
+    "logging",
+    "shared"
+  ],
+  "gitHead": "2683314c5bb5473e0d492418974b111f366168db",
+  "bugs": {
+    "url": "https://github.com/undertakerjs/glogg/issues"
+  },
+  "homepage": "https://github.com/undertakerjs/glogg#readme",
+  "_id": "glogg@1.0.0",
+  "_shasum": "7fe0f199f57ac906cf512feead8f90ee4a284fc5",
+  "_from": "glogg@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.8.3",
+  "_nodeVersion": "0.10.36",
+  "_npmUser": {
+    "name": "phated",
+    "email": "blaine@iceddev.com"
+  },
+  "maintainers": [
+    {
+      "name": "phated",
+      "email": "blaine@iceddev.com"
+    }
+  ],
+  "dist": {
+    "shasum": "7fe0f199f57ac906cf512feead8f90ee4a284fc5",
+    "tarball": "https://registry.npmjs.org/glogg/-/glogg-1.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/glogg/-/glogg-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"“file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/gulplog/node_modules/glogg/package.json;TTF:charsetI"
+utf-8;F:digest"%bão	ÀÌÄ?Ï+s FÀ1g™€0jÍe~ú©øùwj:lengthi :dependencies_digest"%gíÛÃß¶Ð»_ì˜*5D%Á­·’³'YÃGò:idI"E29ceac9f87862a15ee244558d0257c13857206aa8a1c5ae05ab3e0cdfe1ad7f5;F:
+mtimel+?Ä*X

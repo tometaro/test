@@ -1,0 +1,102 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/global-prefix/package.json?type=application/json&id=54f7dce62659393edf02eac30304552bb59aaab3740a5676d8c4a5beaf81b6c7:ET:load_pathI"app/assets/stylesheets;T:filenameI"½app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/global-prefix/package.json;T:	nameI"¡icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/global-prefix/package;T:logical_pathI"¦icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/global-prefix/package.json;T:content_typeI"application/json;T:sourceI"|{
+  "name": "global-prefix",
+  "description": "Get the npm global path prefix.",
+  "version": "0.1.4",
+  "homepage": "https://github.com/jonschlinkert/global-prefix",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/global-prefix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/global-prefix/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "ini": "^1.3.4",
+    "is-windows": "^0.2.0",
+    "osenv": "^0.1.3",
+    "which": "^1.2.10"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.9",
+    "mocha": "^2.5.3"
+  },
+  "keywords": [
+    "global",
+    "module",
+    "modules",
+    "npm",
+    "path",
+    "prefix",
+    "resolve"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "global-modules",
+        "global-paths"
+      ]
+    },
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "e436842c55f6a711a1d801e19d5142e58b80a8fd",
+  "_id": "global-prefix@0.1.4",
+  "_shasum": "05158db1cde2dd491b455e290eb3ab8bfc45c6e1",
+  "_from": "global-prefix@>=0.1.4 <0.2.0",
+  "_npmVersion": "3.8.9",
+  "_nodeVersion": "6.2.0",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "05158db1cde2dd491b455e290eb3ab8bfc45c6e1",
+    "tarball": "https://registry.npmjs.org/global-prefix/-/global-prefix-0.1.4.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/global-prefix-0.1.4.tgz_1465117849156_0.5271593367215246"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/global-prefix/-/global-prefix-0.1.4.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ëfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/resolve-dir/node_modules/global-modules/node_modules/global-prefix/package.json;TTF:charsetI"
+utf-8;F:digest"%Y©{¾ë·²º¯Ñ.îá¡fÃ¹RMk;z<oz€wž:lengthi|:dependencies_digest"%K¡äjhŒ ü Ñš›˜ñ¡Rp‚à=N8ÔO0™4:idI"E54f7dce62659393edf02eac30304552bb59aaab3740a5676d8c4a5beaf81b6c7;F:
+mtimel+sÃ*X

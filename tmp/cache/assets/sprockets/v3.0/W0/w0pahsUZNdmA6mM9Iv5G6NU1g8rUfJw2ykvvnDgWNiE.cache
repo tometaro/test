@@ -1,0 +1,88 @@
+{:uriI"ûfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/extglob/package.json?type=application/json&id=a378912eee9247860e37681be8f642b2a1f7041615f3cab98bfa52ffbeab3545:ET:load_pathI"app/assets/stylesheets;T:filenameI"šapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/extglob/package.json;T:	nameI"~icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/extglob/package;T:logical_pathI"ƒicon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/extglob/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "extglob",
+  "description": "Convert extended globs to regex-compatible strings. Add (almost) the expressive power of regular expressions to glob patterns.",
+  "version": "0.3.2",
+  "homepage": "https://github.com/jonschlinkert/extglob",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/extglob.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/extglob/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-extglob": "^1.0.0"
+  },
+  "devDependencies": {
+    "ansi-green": "^0.1.1",
+    "micromatch": "^2.1.6",
+    "minimatch": "^2.0.1",
+    "minimist": "^1.1.0",
+    "mocha": "*",
+    "should": "*",
+    "success-symbol": "^0.1.0"
+  },
+  "keywords": [
+    "bash",
+    "extended",
+    "extglob",
+    "glob",
+    "ksh",
+    "match",
+    "wildcard"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "micromatch",
+        "expand-brackets",
+        "braces",
+        "fill-range",
+        "expand-range"
+      ]
+    }
+  },
+  "gitHead": "8c3f38bbd9e0afaf31a87e411c0d15532434ef41",
+  "_id": "extglob@0.3.2",
+  "_shasum": "2e18ff3d2f49ab2765cec9023f011daa8d8349a1",
+  "_from": "extglob@>=0.3.1 <0.4.0",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.3.0",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "2e18ff3d2f49ab2765cec9023f011daa8d8349a1",
+    "tarball": "https://registry.npmjs.org/extglob/-/extglob-0.3.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/extglob/-/extglob-0.3.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¨file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/extglob/package.json;TTF:charsetI"
+utf-8;F:digest"%É‘Á³gÒêµS:4çV0<Z·¡Ý‡Ž6‘IüB.$*û:lengthi:dependencies_digest"%VäôËÀ}ò„EŒîÃ)%<¯½\Àd$Ê#¥Ä¡ß:idI"Ea378912eee9247860e37681be8f642b2a1f7041615f3cab98bfa52ffbeab3545;F:
+mtimel+rÃ*X

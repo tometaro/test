@@ -1,0 +1,77 @@
+{:uriI"ôfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/package.json?type=application/json&id=10d5207c898eb5389e7b32b4c4111bd2340c0ea3140ef2675ef5b9a30f5b407c:ET:load_pathI"app/assets/stylesheets;T:filenameI"“app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/package.json;T:	nameI"|icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/package;T:logical_pathI"|icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/package.json;T:content_typeI"application/json;T:sourceI"Ü{
+  "name": "lodash._basevalues",
+  "version": "3.0.0",
+  "description": "The modern build of lodashâ€™s internal `baseValues` as a module.",
+  "homepage": "https://lodash.com/",
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "author": {
+    "name": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/"
+  },
+  "contributors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    {
+      "name": "Benjamin Tan",
+      "email": "demoneaux@gmail.com",
+      "url": "https://d10.github.io/"
+    },
+    {
+      "name": "Blaine Bublitz",
+      "email": "blaine@iceddev.com",
+      "url": "http://www.iceddev.com/"
+    },
+    {
+      "name": "Kit Cambridge",
+      "email": "github@kitcambridge.be",
+      "url": "http://kitcambridge.be/"
+    },
+    {
+      "name": "Mathias Bynens",
+      "email": "mathias@qiwi.be",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "bugs": {
+    "url": "https://github.com/lodash/lodash/issues"
+  },
+  "_id": "lodash._basevalues@3.0.0",
+  "_shasum": "5b775762802bde3d3297503e26300820fdf661b7",
+  "_from": "lodash._basevalues@>=3.0.0 <4.0.0",
+  "_npmVersion": "2.3.0",
+  "_nodeVersion": "0.10.35",
+  "_npmUser": {
+    "name": "jdalton",
+    "email": "john.david.dalton@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jdalton",
+      "email": "john.david.dalton@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "5b775762802bde3d3297503e26300820fdf661b7",
+    "tarball": "https://registry.npmjs.org/lodash._basevalues/-/lodash._basevalues-3.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lodash._basevalues/-/lodash._basevalues-3.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¡file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._basevalues/package.json;TTF:charsetI"
+utf-8;F:digest"%\íWçÉ¿P¥éãMœÏYŽÊ+R%\‡çO²_šÎÖ:lengthiÜ:dependencies_digest"%-5U[`¹VÐÍƒïŽ4É rùÈb«Ä˜H•¿ ¦Ž:idI"E10d5207c898eb5389e7b32b4c4111bd2340c0ea3140ef2675ef5b9a30f5b407c;F:
+mtimel+qÃ*X

@@ -1,0 +1,78 @@
+{:uriI"àfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash._reevaluate/package.json?type=application/json&id=bbbe90a31dc6188967633cae4ee5627d3a88e0c7480e03eca428a0ff9349de4e:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash._reevaluate/package.json;T:	nameI"hicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash._reevaluate/package;T:logical_pathI"micon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash._reevaluate/package.json;T:content_typeI"application/json;T:sourceI"Ü{
+  "name": "lodash._reevaluate",
+  "version": "3.0.0",
+  "description": "The modern build of lodashâ€™s internal `reEvaluate` as a module.",
+  "homepage": "https://lodash.com/",
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "author": {
+    "name": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/"
+  },
+  "contributors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    {
+      "name": "Benjamin Tan",
+      "email": "demoneaux@gmail.com",
+      "url": "https://d10.github.io/"
+    },
+    {
+      "name": "Blaine Bublitz",
+      "email": "blaine@iceddev.com",
+      "url": "http://www.iceddev.com/"
+    },
+    {
+      "name": "Kit Cambridge",
+      "email": "github@kitcambridge.be",
+      "url": "http://kitcambridge.be/"
+    },
+    {
+      "name": "Mathias Bynens",
+      "email": "mathias@qiwi.be",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "bugs": {
+    "url": "https://github.com/lodash/lodash/issues"
+  },
+  "_id": "lodash._reevaluate@3.0.0",
+  "_shasum": "58bc74c40664953ae0b124d806996daca431e2ed",
+  "_from": "lodash._reevaluate@>=3.0.0 <4.0.0",
+  "_npmVersion": "2.3.0",
+  "_nodeVersion": "0.10.35",
+  "_npmUser": {
+    "name": "jdalton",
+    "email": "john.david.dalton@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jdalton",
+      "email": "john.david.dalton@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "58bc74c40664953ae0b124d806996daca431e2ed",
+    "tarball": "https://registry.npmjs.org/lodash._reevaluate/-/lodash._reevaluate-3.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lodash._reevaluate/-/lodash._reevaluate-3.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash._reevaluate/package.json;TTF:charsetI"
+utf-8;F:digest"%Lsà/¥ts
+½uüA¶GR‹wáw†ÔÑ¸Ú¢Ÿ[›:lengthiÜ:dependencies_digest"%TÞAÝS÷B¥WÅÍ24.?³—£p©‘°Óaözy:idI"Ebbbe90a31dc6188967633cae4ee5627d3a88e0c7480e03eca428a0ff9349de4e;F:
+mtimel+Ä*X

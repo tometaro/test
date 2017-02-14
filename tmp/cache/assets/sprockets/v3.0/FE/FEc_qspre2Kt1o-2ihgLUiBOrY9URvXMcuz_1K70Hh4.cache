@@ -1,0 +1,53 @@
+{:uriI"Xfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/package.json?type=application/json&id=6e2e76283da18a35578ebbea7c39ef2e05cab4c5c832a77257977676756e0740:ET:load_pathI"app/assets/stylesheets;T:filenameI"÷app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/package.json;T:	nameI"Ûicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/package;T:logical_pathI"àicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "graceful-readlink",
+  "version": "1.0.1",
+  "description": "graceful fs.readlink",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhiyelee/graceful-readlink.git"
+  },
+  "homepage": "https://github.com/zhiyelee/graceful-readlink",
+  "bugs": {
+    "url": "https://github.com/zhiyelee/graceful-readlink/issues"
+  },
+  "keywords": [
+    "fs.readlink",
+    "readlink"
+  ],
+  "author": {
+    "name": "zhiyelee"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "gitHead": "f6655275bebef706fb63fd01b5f062a7052419a5",
+  "_id": "graceful-readlink@1.0.1",
+  "_shasum": "4cafad76bc62f02fa039b2f94e9a3dd3a391a725",
+  "_from": "graceful-readlink@>=1.0.0",
+  "_npmVersion": "2.1.17",
+  "_nodeVersion": "0.11.14",
+  "_npmUser": {
+    "name": "zhiyelee",
+    "email": "zhiyelee@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "zhiyelee",
+      "email": "zhiyelee@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "4cafad76bc62f02fa039b2f94e9a3dd3a391a725",
+    "tarball": "https://registry.npmjs.org/graceful-readlink/-/graceful-readlink-1.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/graceful-readlink/-/graceful-readlink-1.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/commander/node_modules/graceful-readlink/package.json;TTF:charsetI"
+utf-8;F:digest"%•e6ï°¤EÏ‘ôañ¸# Yï*†Î:lengthi:dependencies_digest"%QF®úm°ôË•™¾¯?;ü^¯Is_°iÍÊ\‚b[ù:idI"E6e2e76283da18a35578ebbea7c39ef2e05cab4c5c832a77257977676756e0740;F:
+mtimel+Ä*X

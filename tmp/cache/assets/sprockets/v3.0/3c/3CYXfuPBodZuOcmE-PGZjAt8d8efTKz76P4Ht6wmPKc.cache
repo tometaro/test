@@ -1,0 +1,87 @@
+{:uriI"Ãfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/package.json?type=application/json&id=74a06eef001e33aa26523950774f77ac14d3168f71dc9395208cd7c9d746e3ed:ET:load_pathI"app/assets/stylesheets;T:filenameI"gapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/package.json;T:	nameI"Kicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/package;T:logical_pathI"Picon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/package.json;T:content_typeI"application/json;T:sourceI"1	{
+  "name": "gulp-svg2ttf",
+  "description": "Create a TTF font from an SVG font",
+  "version": "2.0.0",
+  "homepage": "https://github.com/nfroidure/gulp-svg2ttf",
+  "author": {
+    "name": "Nicolas Froidure",
+    "url": "http://www.insertafter.com/blog.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nfroidure/gulp-svg2ttf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nfroidure/gulp-svg2ttf/issues"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "mocha tests/*.mocha.js",
+    "coveralls": "istanbul cover _mocha --report lcovonly -- tests/*.mocha.js -R spec -t 5000 && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage",
+    "cover": "istanbul cover --report html _mocha -- tests/*.mocha.js -R spec -t 5000",
+    "lint": "eslint src/*.js tests/*.js",
+    "preversion": "npm test",
+    "cli": "env NPM_RUN_CLI=1"
+  },
+  "dependencies": {
+    "bufferstreams": "^1.1.0",
+    "gulp-util": "^3.0.7",
+    "readable-stream": "^2.0.4",
+    "svg2ttf": "^4.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.4",
+    "eslint": "^1.10.1",
+    "eslint-config-simplifield": "^1.1.0",
+    "gulp": "^3.9.0",
+    "istanbul": "^0.4.0",
+    "mocha": "^2.3.4",
+    "mocha-lcov-reporter": "^1.0.0",
+    "streamtest": "^1.2.1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "gulp-plugin",
+    "font",
+    "svg",
+    "ttf",
+    "converter"
+  ],
+  "gitHead": "75e5a32b6f1a7cd9ec968fa3434a893a8149731c",
+  "_id": "gulp-svg2ttf@2.0.0",
+  "_shasum": "97d16ffa194ecd034276e1a7a1dc3499e7b6dfae",
+  "_from": "gulp-svg2ttf@>=2.0.0 <3.0.0",
+  "_npmVersion": "3.8.3",
+  "_nodeVersion": "5.10.1",
+  "_npmUser": {
+    "name": "nfroidure",
+    "email": "nfroidure@elitwork.com"
+  },
+  "dist": {
+    "shasum": "97d16ffa194ecd034276e1a7a1dc3499e7b6dfae",
+    "tarball": "https://registry.npmjs.org/gulp-svg2ttf/-/gulp-svg2ttf-2.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "nfroidure",
+      "email": "nfroidure@elitwork.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-svg2ttf-2.0.0.tgz_1462542864056_0.03593858075328171"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gulp-svg2ttf/-/gulp-svg2ttf-2.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ufile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/package.json;TTF:charsetI"
+utf-8;F:digest"%vtzüñt=¢äÿâ½ŠGgQu1Æ¸µ›u…êx:lengthi1	:dependencies_digest"%gNæ<Y!›©”ûW4yDˆ¥SžÝß“à[Whp„«:idI"E74a06eef001e33aa26523950774f77ac14d3168f71dc9395208cd7c9d746e3ed;F:
+mtimel+Ä*X

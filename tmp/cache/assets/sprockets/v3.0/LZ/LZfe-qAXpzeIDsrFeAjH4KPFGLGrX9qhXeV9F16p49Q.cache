@@ -1,0 +1,25 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/movefile.json?type=application/json&id=1c64ddddd22090a344d711d5d94719869b11e263d52ec6ba60a53e1bbb6055c4:ET:load_pathI"app/assets/stylesheets;T:filenameI"≥app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/movefile.json;T:	nameI"óicon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/movefile;T:logical_pathI"úicon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/movefile.json;T:content_typeI"application/json;T:sourceI"8{
+  "name": "movefile",
+  "description": "rename implementation working over devices",
+  "version": "0.2.0",
+  "author": "yazgazan <yazgazan@gmail.com>",
+  "main": "./build/Release/movefile",
+  "keywords": ["move", "file", "rename"],
+  "repository": "git://github.com/yazgazan/movefile.git",
+  "directories": {
+    "lib": "./build/Release/"
+  },
+  "scripts": {
+    "install": "./node_modules/node-gyp/bin/node-gyp.js configure && ./node_modules/node-gyp/bin/node-gyp.js build"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "node-gyp": "~0.9.1"
+  }
+};T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¡file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/test/fixtures/movefile.json;TTF:charsetI"
+utf-8;F:digest"%'å[∏Êu—vÖ∫	…∏ÀH7…8å!ù¨„∏¥F{:lengthi8:dependencies_digest"%°ﬁ”0#®≤®kWA≈òQCãÒW0$€ˇ√ó´ä»®9‹:idI"E1c64ddddd22090a344d711d5d94719869b11e263d52ec6ba60a53e1bbb6055c4;F:
+mtimel+í%OT

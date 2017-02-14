@@ -1,0 +1,58 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/isarray/package.json?type=application/json&id=0b9f3693949354ab95a43f325c62246961e6bd01de8038d0a3053fdbc96d5241:ET:load_pathI"app/assets/stylesheets;T:filenameI"Ωapp/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/isarray/package.json;T:	nameI"°icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/isarray/package;T:logical_pathI"¶icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/isarray/package.json;T:content_typeI"application/json;T:sourceI"	{
+  "name": "isarray",
+  "description": "Array#isArray for older browsers",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/isarray.git"
+  },
+  "homepage": "https://github.com/juliangruber/isarray",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "*"
+  },
+  "keywords": [
+    "browser",
+    "isarray",
+    "array"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT",
+  "_id": "isarray@0.0.1",
+  "dist": {
+    "shasum": "8a18acfca9a8f4177e09abfc6038939b05d1eedf",
+    "tarball": "https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz"
+  },
+  "_from": "isarray@0.0.1",
+  "_npmVersion": "1.2.18",
+  "_npmUser": {
+    "name": "juliangruber",
+    "email": "julian@juliangruber.com"
+  },
+  "maintainers": [
+    {
+      "name": "juliangruber",
+      "email": "julian@juliangruber.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "8a18acfca9a8f4177e09abfc6038939b05d1eedf",
+  "_resolved": "https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz",
+  "bugs": {
+    "url": "https://github.com/juliangruber/isarray/issues"
+  },
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Àfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/multipipe/node_modules/duplexer2/node_modules/readable-stream/node_modules/isarray/package.json;TTF:charsetI"
+utf-8;F:digest"%Œ·¥2*{jêN…7,}∂á<:¬s!Á¯√Ê	Ω∂v‘:lengthi	:dependencies_digest"%≈ f¿zÓ<å&‘eÏSlΩ©8˚{G|yMôÚÃè« ◊=:idI"E0b9f3693949354ab95a43f325c62246961e6bd01de8038d0a3053fdbc96d5241;F:
+mtimel+Aƒ*X

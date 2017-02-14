@@ -1,0 +1,95 @@
+{:uriI"ãfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/is-glob/package.json?type=application/json&id=0605a3efa5374f1d71a0ce12cc9837272366015225b8f22d7cb0803afea33803:ET:load_pathI"app/assets/stylesheets;T:filenameI"‚app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/is-glob/package.json;T:	nameI"kicon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/is-glob/package;T:logical_pathI"picon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/is-glob/package.json;T:content_typeI"application/json;T:sourceI"I{
+  "name": "is-glob",
+  "description": "Returns `true` if the given string looks like a glob pattern or an extglob pattern. This makes it easy to create code that only uses external modules like node-glob when necessary, resulting in much faster code execution and initialization time, and a bet",
+  "version": "2.0.1",
+  "homepage": "https://github.com/jonschlinkert/is-glob",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/is-glob.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-glob/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-extglob": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "bash",
+    "braces",
+    "check",
+    "exec",
+    "extglob",
+    "expression",
+    "glob",
+    "globbing",
+    "globstar",
+    "match",
+    "matches",
+    "pattern",
+    "regex",
+    "regular",
+    "string",
+    "test"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "has-glob",
+        "is-extglob",
+        "is-posix-bracket",
+        "is-valid-glob",
+        "micromatch"
+      ]
+    }
+  },
+  "gitHead": "d7db1b2dd559b3d5a73f89dbe72d9e9f4d6587d7",
+  "_id": "is-glob@2.0.1",
+  "_shasum": "d096f926a3ded5600f3fdfd91198cb0888c2d863",
+  "_from": "is-glob@>=2.0.1 <3.0.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    },
+    {
+      "name": "doowb",
+      "email": "brian.woodward@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "d096f926a3ded5600f3fdfd91198cb0888c2d863",
+    "tarball": "https://registry.npmjs.org/is-glob/-/is-glob-2.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/is-glob/-/is-glob-2.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/is-glob/package.json;TTF:charsetI"
+utf-8;F:digest"%ÑºÊËÄxÈò™±ëýŒ‡(ç¸|üœ¥«ÞdÀ³°È:lengthiI:dependencies_digest"%ìžÞ"ÂBW5†¨134}-ûí|k¤"Ì˜óT:idI"E0605a3efa5374f1d71a0ce12cc9837272366015225b8f22d7cb0803afea33803;F:
+mtimel+qÃ*X

@@ -1,0 +1,85 @@
+{:uriI"Ïfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/chalk/node_modules/supports-color/package.json?type=application/json&id=6f54b783b46e01c058a284659cee9ad4b6533554460e365353376144173cead8:ET:load_pathI"app/assets/stylesheets;T:filenameI"sapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/chalk/node_modules/supports-color/package.json;T:	nameI"Wicon-font/node_modules/gulp/node_modules/chalk/node_modules/supports-color/package;T:logical_pathI"\icon-font/node_modules/gulp/node_modules/chalk/node_modules/supports-color/package.json;T:content_typeI"application/json;T:sourceI"ö{
+  "name": "supports-color",
+  "version": "2.0.0",
+  "description": "Detect whether a terminal supports color",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalk/supports-color.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    },
+    {
+      "name": "jbnicolai",
+      "email": "jappelman@xebia.com"
+    }
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "cli",
+    "ansi",
+    "styles",
+    "tty",
+    "rgb",
+    "256",
+    "shell",
+    "xterm",
+    "command-line",
+    "support",
+    "supports",
+    "capability",
+    "detect"
+  ],
+  "devDependencies": {
+    "mocha": "*",
+    "require-uncached": "^1.0.2"
+  },
+  "gitHead": "8400d98ade32b2adffd50902c06d9e725a5c6588",
+  "bugs": {
+    "url": "https://github.com/chalk/supports-color/issues"
+  },
+  "homepage": "https://github.com/chalk/supports-color",
+  "_id": "supports-color@2.0.0",
+  "_shasum": "535d045ce6b6363fa40117084629995e9df324c7",
+  "_from": "supports-color@>=2.0.0 <3.0.0",
+  "_npmVersion": "2.11.2",
+  "_nodeVersion": "0.12.5",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "535d045ce6b6363fa40117084629995e9df324c7",
+    "tarball": "https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/supports-color/-/supports-color-2.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"|file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/chalk/node_modules/supports-color/package.json;TTF:charsetI"
+utf-8;F:digest"%uÓFÛ±âPJ«¶0¤Úcðâô‹h…A\÷]ÁQU»©:lengthiö:dependencies_digest"%AÒ€Ñ
+&ÅŸ|=i‚|ös(©Ìºª©ÜVt;·sÙa:idI"E6f54b783b46e01c058a284659cee9ad4b6533554460e365353376144173cead8;F:
+mtimel+oÃ*X

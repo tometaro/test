@@ -1,0 +1,98 @@
+{:uriI"âfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/readable-stream/package.json?type=application/json&id=d883d5b823d5b6366409829d10f3622e0c7eec6a329a96960bc5acb2be7efd8e:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/readable-stream/package.json;T:	nameI"jicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/readable-stream/package;T:logical_pathI"oicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/readable-stream/package.json;T:content_typeI"application/json;T:sourceI"ÿ	{
+  "name": "readable-stream",
+  "version": "2.2.2",
+  "description": "Streams3, a user-land copy of the stream library from Node.js",
+  "main": "readable.js",
+  "dependencies": {
+    "buffer-shims": "^1.0.0",
+    "core-util-is": "~1.0.0",
+    "isarray": "~1.0.0",
+    "inherits": "~2.0.1",
+    "process-nextick-args": "~1.0.6",
+    "string_decoder": "~0.10.x",
+    "util-deprecate": "~1.0.1"
+  },
+  "devDependencies": {
+    "assert": "~1.4.0",
+    "babel-polyfill": "^6.9.1",
+    "buffer": "^4.9.0",
+    "nyc": "^6.4.0",
+    "tap": "~0.7.1",
+    "tape": "~4.5.1",
+    "zuul": "~3.10.0"
+  },
+  "scripts": {
+    "test": "tap test/parallel/*.js test/ours/*.js",
+    "browser": "npm run write-zuul && zuul --browser-retries 2 -- test/browser.js",
+    "write-zuul": "printf \"ui: tape\nbrowsers:\n  - name: $BROWSER_NAME\n    version: $BROWSER_VERSION\n\">.zuul.yml",
+    "local": "zuul --local 3000 --no-coverage -- test/browser.js",
+    "cover": "nyc npm test",
+    "report": "nyc report --reporter=lcov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodejs/readable-stream.git"
+  },
+  "keywords": [
+    "readable",
+    "stream",
+    "pipe"
+  ],
+  "browser": {
+    "util": false
+  },
+  "nyc": {
+    "include": [
+      "lib/**.js"
+    ]
+  },
+  "license": "MIT",
+  "gitHead": "f239454e183d2032c0eb7d79a1c08f674fdd8db4",
+  "bugs": {
+    "url": "https://github.com/nodejs/readable-stream/issues"
+  },
+  "homepage": "https://github.com/nodejs/readable-stream#readme",
+  "_id": "readable-stream@2.2.2",
+  "_shasum": "a9e6fec3c7dda85f8bb1b3ba7028604556fc825e",
+  "_from": "readable-stream@>=2.0.4 <3.0.0",
+  "_npmVersion": "3.10.7",
+  "_nodeVersion": "7.1.0",
+  "_npmUser": {
+    "name": "cwmma",
+    "email": "calvin.metcalf@gmail.com"
+  },
+  "dist": {
+    "shasum": "a9e6fec3c7dda85f8bb1b3ba7028604556fc825e",
+    "tarball": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "isaacs",
+      "email": "isaacs@npmjs.com"
+    },
+    {
+      "name": "tootallnate",
+      "email": "nathan@tootallnate.net"
+    },
+    {
+      "name": "rvagg",
+      "email": "rod@vagg.org"
+    },
+    {
+      "name": "cwmma",
+      "email": "calvin.metcalf@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/readable-stream-2.2.2.tgz_1479128709230_0.5291099038440734"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/readable-stream/-/readable-stream-2.2.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/readable-stream/package.json;TTF:charsetI"
+utf-8;F:digest"%šj73[Þ¹Ò]-4’&v;°ÐÁ7u>1	DæÚO:lengthiÿ	:dependencies_digest"%3VÁ}ç‰ˆ•ò]XÝ/5©‚Ÿ¬lˆdí¤‡#:idI"Ed883d5b823d5b6366409829d10f3622e0c7eec6a329a96960bc5acb2be7efd8e;F:
+mtimel+Ä*X

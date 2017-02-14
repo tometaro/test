@@ -1,0 +1,69 @@
+{:uriI"ífile://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/package.json?type=application/json&id=dd48b87c44d625b34961535564db051610655c198ba6c8342c9a97e0c2f05f46:ET:load_pathI"app/assets/stylesheets;T:filenameI"Œapp/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/package.json;T:	nameI"uicon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/package;T:logical_pathI"zicon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "get-stdin",
+  "version": "4.0.1",
+  "description": "Easier stdin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/get-stdin.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js && node test-buffer.js && echo unicorns | node test-real.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "std",
+    "stdin",
+    "stdio",
+    "concat",
+    "buffer",
+    "stream",
+    "process",
+    "stream"
+  ],
+  "devDependencies": {
+    "ava": "0.0.4",
+    "buffer-equal": "0.0.1"
+  },
+  "gitHead": "65c744975229b25d6cc5c7546f49b6ad9099553f",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/get-stdin/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/get-stdin",
+  "_id": "get-stdin@4.0.1",
+  "_shasum": "b968c6b0a04384324902e8bf1a5df32579a450fe",
+  "_from": "get-stdin@>=4.0.1 <5.0.0",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "b968c6b0a04384324902e8bf1a5df32579a450fe",
+    "tarball": "https://registry.npmjs.org/get-stdin/-/get-stdin-4.0.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/get-stdin/-/get-stdin-4.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"šfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/get-stdin/package.json;TTF:charsetI"
+utf-8;F:digest"%z?Ë» J@ÌUÛ(¦s"”£f(N3¿Îôî¶v5:lengthi:dependencies_digest"%Þ¸ï"%ôÍzÍJ:zƒ[÷çávlRµÉŠÃ2:idI"Edd48b87c44d625b34961535564db051610655c198ba6c8342c9a97e0c2f05f46;F:
+mtimel+@Ä*X

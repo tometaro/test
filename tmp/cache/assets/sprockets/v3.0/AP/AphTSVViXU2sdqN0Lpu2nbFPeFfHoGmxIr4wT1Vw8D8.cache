@@ -1,0 +1,77 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/package.json?type=application/json&id=6c4897d515f5106969d41e92d2153637eb4b415083ad3931aea379ffa1879074:ET:load_pathI"app/assets/stylesheets;T:filenameI"¶app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/package.json;T:	nameI"šicon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/package;T:logical_pathI"Ÿicon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/package.json;T:content_typeI"application/json;T:sourceI"c{
+  "name": "read-pkg",
+  "version": "1.1.0",
+  "description": "Read a package.json file",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/read-pkg.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "json",
+    "read",
+    "parse",
+    "file",
+    "fs",
+    "graceful",
+    "load",
+    "pkg",
+    "package",
+    "normalize"
+  ],
+  "dependencies": {
+    "load-json-file": "^1.0.0",
+    "normalize-package-data": "^2.3.2",
+    "path-type": "^1.0.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "gitHead": "9448d32b2ebcd65fc0547def3cfe5b28ef522e68",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/read-pkg/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/read-pkg",
+  "_id": "read-pkg@1.1.0",
+  "_shasum": "f5ffaa5ecd29cb31c0474bca7d756b6bb29e3f28",
+  "_from": "read-pkg@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.13.3",
+  "_nodeVersion": "3.0.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "f5ffaa5ecd29cb31c0474bca7d756b6bb29e3f28",
+    "tarball": "https://registry.npmjs.org/read-pkg/-/read-pkg-1.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/read-pkg/-/read-pkg-1.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Äfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/package.json;TTF:charsetI"
+utf-8;F:digest"%ÿ{§°n=‚·k	ÌÌÀ¤0@~nìÊ>þB¨Â¹[è:lengthic:dependencies_digest"%IZ¤úIÆ:ã5\¼g}þe©t[Ÿ%JöAžx5ØºÇ:idI"E6c4897d515f5106969d41e92d2153637eb4b415083ad3931aea379ffa1879074;F:
+mtimel+AÄ*X

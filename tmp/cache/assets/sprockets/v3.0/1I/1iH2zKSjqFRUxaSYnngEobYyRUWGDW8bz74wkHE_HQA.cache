@@ -1,0 +1,59 @@
+{:uriI"üfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/readable-stream/node_modules/util-deprecate/package.json?type=application/json&id=3595815bd10197b90c6c2dcb1034823c403fd020afd875c145285096732fa0ae:ET:load_pathI"app/assets/stylesheets;T:filenameI"›app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/readable-stream/node_modules/util-deprecate/package.json;T:	nameI"icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/readable-stream/node_modules/util-deprecate/package;T:logical_pathI"„icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/readable-stream/node_modules/util-deprecate/package.json;T:content_typeI"application/json;T:sourceI"Ï{
+  "name": "util-deprecate",
+  "version": "1.0.2",
+  "description": "The Node.js `util.deprecate()` function with browser support",
+  "main": "node.js",
+  "browser": "browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TooTallNate/util-deprecate.git"
+  },
+  "keywords": [
+    "util",
+    "deprecate",
+    "browserify",
+    "browser",
+    "node"
+  ],
+  "author": {
+    "name": "Nathan Rajlich",
+    "email": "nathan@tootallnate.net",
+    "url": "http://n8.io/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TooTallNate/util-deprecate/issues"
+  },
+  "homepage": "https://github.com/TooTallNate/util-deprecate",
+  "gitHead": "475fb6857cd23fafff20c1be846c1350abf8e6d4",
+  "_id": "util-deprecate@1.0.2",
+  "_shasum": "450d4dc9fa70de732762fbd2d4a28981419a0ccf",
+  "_from": "util-deprecate@>=1.0.1 <1.1.0",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.1.2",
+  "_npmUser": {
+    "name": "tootallnate",
+    "email": "nathan@tootallnate.net"
+  },
+  "maintainers": [
+    {
+      "name": "tootallnate",
+      "email": "nathan@tootallnate.net"
+    }
+  ],
+  "dist": {
+    "shasum": "450d4dc9fa70de732762fbd2d4a28981419a0ccf",
+    "tarball": "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"©file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/readable-stream/node_modules/util-deprecate/package.json;TTF:charsetI"
+utf-8;F:digest"%q}B–fyY6ý0vEgiU•Nkƒà«¡2%ñýóûbä:lengthiÏ:dependencies_digest"%fN•Ö›Òfê‹ÁéHò–szp»õ~Ó’ÀÑ:idI"E3595815bd10197b90c6c2dcb1034823c403fd020afd875c145285096732fa0ae;F:
+mtimel+Ä*X

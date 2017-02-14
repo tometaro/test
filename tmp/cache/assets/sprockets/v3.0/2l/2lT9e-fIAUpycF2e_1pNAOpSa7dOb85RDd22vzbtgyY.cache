@@ -1,0 +1,43 @@
+{:uriI"Àfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/core.json?type=application/json&id=a5ce6c14ae4ad77758f3ad4cd570bdd82d07b13d5fc515a22b2c7486dacbb27a:ET:load_pathI"app/assets/stylesheets;T:filenameI"oapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/core.json;T:	nameI"Sicon-font/node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/core;T:logical_pathI"Xicon-font/node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/core.json;T:content_typeI"application/json;T:sourceI"˛[
+    "assert",
+    "buffer_ieee754",
+    "buffer",
+    "child_process",
+    "cluster",
+    "console",
+    "constants",
+    "crypto",
+    "_debugger",
+    "dgram",
+    "dns",
+    "domain",
+    "events",
+    "freelist",
+    "fs",
+    "http",
+    "https",
+    "_linklist",
+    "module",
+    "net",
+    "os",
+    "path",
+    "punycode",
+    "querystring",
+    "readline",
+    "repl",
+    "stream",
+    "string_decoder",
+    "sys",
+    "timers",
+    "tls",
+    "tty",
+    "url",
+    "util",
+    "vm",
+    "zlib"
+]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"}file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/resolve/lib/core.json;TTF:charsetI"
+utf-8;F:digest"%PﬂÍù¸ÏË„ÒáMoÄåRï∏$4[~e5µ$[+È,J:lengthi˛:dependencies_digest"%ˆˇ~%»ﬁ<G|ëÜ§4QU~Ωøùã†AiÕbô"R>:idI"Ea5ce6c14ae4ad77758f3ad4cd570bdd82d07b13d5fc515a22b2c7486dacbb27a;F:
+mtimel+pÊÌU

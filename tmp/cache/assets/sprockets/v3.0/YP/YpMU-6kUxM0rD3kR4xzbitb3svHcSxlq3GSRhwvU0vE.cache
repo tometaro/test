@@ -1,0 +1,72 @@
+{:uriI"öfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/map-obj/package.json?type=application/json&id=054cea5b171e9ff034b14d32973e5ab882bc72a53aa1f6a236c485beb420e125:ET:load_pathI"app/assets/stylesheets;T:filenameI"•app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/map-obj/package.json;T:	nameI"~icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/map-obj/package;T:logical_pathI"~icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/map-obj/package.json;T:content_typeI"application/json;T:sourceI"è{
+  "name": "map-obj",
+  "version": "1.0.1",
+  "description": "Map object keys and values into a new object",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/map-obj.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "map",
+    "obj",
+    "object",
+    "key",
+    "keys",
+    "value",
+    "values",
+    "val",
+    "iterate",
+    "iterator"
+  ],
+  "devDependencies": {
+    "ava": "0.0.4"
+  },
+  "gitHead": "a4f2d49ae6b5f7c0e55130b49ab0412298b797bc",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/map-obj/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/map-obj",
+  "_id": "map-obj@1.0.1",
+  "_shasum": "d933ceb9205d82bdcf4886f6742bdc2b4dea146d",
+  "_from": "map-obj@>=1.0.1 <2.0.0",
+  "_npmVersion": "2.7.4",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "d933ceb9205d82bdcf4886f6742bdc2b4dea146d",
+    "tarball": "https://registry.npmjs.org/map-obj/-/map-obj-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/map-obj/-/map-obj-1.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"£file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/map-obj/package.json;TTF:charsetI"
+utf-8;F:digest"%u„A§‰ 
+¢Ò‰Ï×²!3µBÎf”‡R›G-¥z:lengthiè:dependencies_digest"%Ó#\H¶ºÅËv\ÜŒì\¾º±íØàèX›lµ`QÜ:idI"E054cea5b171e9ff034b14d32973e5ab882bc72a53aa1f6a236c485beb420e125;F:
+mtimel+sÃ*X

@@ -1,0 +1,84 @@
+{:uriI"Ófile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/lodash.mapvalues/package.json?type=application/json&id=755e4eaf32107478d2103137afc3a9e67b83b1fc075dd0f59108684ab17cf113:ET:load_pathI"app/assets/stylesheets;T:filenameI"wapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/lodash.mapvalues/package.json;T:	nameI"[icon-font/node_modules/gulp/node_modules/liftoff/node_modules/lodash.mapvalues/package;T:logical_pathI"`icon-font/node_modules/gulp/node_modules/liftoff/node_modules/lodash.mapvalues/package.json;T:content_typeI"application/json;T:sourceI"K{
+  "name": "lodash.mapvalues",
+  "version": "4.6.0",
+  "description": "The lodash method `_.mapValues` exported as a module.",
+  "homepage": "https://lodash.com/",
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "keywords": [
+    "lodash-modularized",
+    "mapvalues"
+  ],
+  "author": {
+    "name": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/"
+  },
+  "contributors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    {
+      "name": "Blaine Bublitz",
+      "email": "blaine.bublitz@gmail.com",
+      "url": "https://github.com/phated"
+    },
+    {
+      "name": "Mathias Bynens",
+      "email": "mathias@qiwi.be",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "bugs": {
+    "url": "https://github.com/lodash/lodash/issues"
+  },
+  "_id": "lodash.mapvalues@4.6.0",
+  "_shasum": "1bafa5005de9dd6f4f26668c30ca37230cc9689c",
+  "_from": "lodash.mapvalues@>=4.4.0 <5.0.0",
+  "_npmVersion": "2.15.10",
+  "_nodeVersion": "4.4.7",
+  "_npmUser": {
+    "name": "jdalton",
+    "email": "john.david.dalton@gmail.com"
+  },
+  "dist": {
+    "shasum": "1bafa5005de9dd6f4f26668c30ca37230cc9689c",
+    "tarball": "https://registry.npmjs.org/lodash.mapvalues/-/lodash.mapvalues-4.6.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jdalton",
+      "email": "john.david.dalton@gmail.com"
+    },
+    {
+      "name": "mathias",
+      "email": "mathias@qiwi.be"
+    },
+    {
+      "name": "phated",
+      "email": "blaine@iceddev.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/lodash.mapvalues-4.6.0.tgz_1471110117308_0.16050698678009212"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lodash.mapvalues/-/lodash.mapvalues-4.6.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"€file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/lodash.mapvalues/package.json;TTF:charsetI"
+utf-8;F:digest"%[Ãç¥~é[cà†õ‰Þ‘?”
+,¡ï$o™r¦.‘í™:lengthiK:dependencies_digest"%Gç‰r†uÖíc¯¬ó¥ò¥§ß;µ>)‰µîcùš”U:idI"E755e4eaf32107478d2103137afc3a9e67b83b1fc075dd0f59108684ab17cf113;F:
+mtimel+pÃ*X

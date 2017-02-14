@@ -1,0 +1,24 @@
+{:uriI"Yfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject/node_modules/isarray/component.json?type=application/json&id=1477a545060825e004407b32327e740bbbf40f5dbf7e61b8ab0810e981ed1e88:ET:load_pathI"app/assets/stylesheets;T:filenameI"¯app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject/node_modules/isarray/component.json;T:	nameI"‹icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject/node_modules/isarray/component;T:logical_pathI"·icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject/node_modules/isarray/component.json;T:content_typeI"application/json;T:sourceI"÷{
+  "name" : "isarray",
+  "description" : "Array#isArray for older browsers",
+  "version" : "0.0.1",
+  "repository" : "juliangruber/isarray",
+  "homepage": "https://github.com/juliangruber/isarray",
+  "main" : "index.js",
+  "scripts" : [
+    "index.js"
+  ],
+  "dependencies" : {},
+  "keywords": ["browser","isarray","array"],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/expand-range/node_modules/fill-range/node_modules/isobject/node_modules/isarray/component.json;TTF:charsetI"
+utf-8;F:digest"%˘ÂÔïÿËˆZ]Õ: 8Â°4aÌïM¨=êå9◊1:lengthi÷:dependencies_digest"%gà['B3í°•é+⁄Z÷qkÆÁAxœπﬁáÁç™Â˘ñ¿:idI"E1477a545060825e004407b32327e740bbbf40f5dbf7e61b8ab0810e981ed1e88;F:
+mtimel+NiV

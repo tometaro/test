@@ -1,0 +1,24 @@
+{:uriI"ófile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/nan/tools/package.json?type=application/json&id=b53b30cb57c761766bb597e1ca455b66348f91d00aa7392b0a62fde745434741:ET:load_pathI"app/assets/stylesheets;T:filenameI"’app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/nan/tools/package.json;T:	nameI"{icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/nan/tools/package;T:logical_pathI"{icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/nan/tools/package.json;T:content_typeI"application/json;T:sourceI"¹{
+  "name": "1to2",
+  "version": "1.0.0",
+  "description": "NAN 1 -> 2 Migration Script",
+  "main": "1to2.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodejs/nan.git"
+  },
+  "contributors": [
+    "Benjamin Byholm <bbyholm@abo.fi> (https://github.com/kkoopa/)",
+    "Mathias KÃ¼sel (https://github.com/mathiask88/)"
+  ],
+  "dependencies": {
+    "glob": "~5.0.10",
+    "commander": "~2.8.1"
+  },
+  "license": "MIT"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI" file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/nan/tools/package.json;TTF:charsetI"
+utf-8;F:digest"%&Å˜$¢1ªeœrÀ£Yâqˆ˜!‚ììÍK9=şª:lengthi¹:dependencies_digest"%Ò—ÒÈyóZ9‚„¼¹ƒĞoîÓ3´¹Ëğ!Èl×ö’•ÌC:idI"Eb53b30cb57c761766bb597e1ca455b66348f91d00aa7392b0a62fde745434741;F:
+mtimel+<gV

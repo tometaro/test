@@ -1,0 +1,73 @@
+{:uriI"Ðfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/package.json?type=application/json&id=6ab7a0765cf912ffe818828d7916462659fbbf6b5067799eccec1bfd1ba0b6a2:ET:load_pathI"app/assets/stylesheets;T:filenameI"tapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/package.json;T:	nameI"Xicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/package;T:logical_pathI"]icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/package.json;T:content_typeI"application/json;T:sourceI"î{
+  "name": "glob-watcher",
+  "description": "Watch globs",
+  "version": "0.0.6",
+  "homepage": "http://github.com/wearefractal/glob-watcher",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wearefractal/glob-watcher.git"
+  },
+  "author": {
+    "name": "Fractal",
+    "email": "contact@wearefractal.com",
+    "url": "http://wearefractal.com/"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "gaze": "^0.5.1"
+  },
+  "devDependencies": {
+    "mocha": "^1.17.0",
+    "should": "^2.1.1",
+    "mocha-lcov-reporter": "0.0.1",
+    "coveralls": "^2.6.1",
+    "istanbul": "^0.2.3",
+    "rimraf": "^2.2.5",
+    "jshint": "^2.4.1",
+    "mkdirp": "^0.3.5"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec && jshint",
+    "coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+  },
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wearefractal/glob-watcher/raw/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/wearefractal/glob-watcher/issues"
+  },
+  "_id": "glob-watcher@0.0.6",
+  "_shasum": "b95b4a8df74b39c83298b0c05c978b4d9a3b710b",
+  "_from": "glob-watcher@>=0.0.6 <0.0.7",
+  "_npmVersion": "1.4.7",
+  "_npmUser": {
+    "name": "fractal",
+    "email": "contact@wearefractal.com"
+  },
+  "maintainers": [
+    {
+      "name": "fractal",
+      "email": "contact@wearefractal.com"
+    }
+  ],
+  "dist": {
+    "shasum": "b95b4a8df74b39c83298b0c05c978b4d9a3b710b",
+    "tarball": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.6.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/glob-watcher/-/glob-watcher-0.0.6.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"}file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/package.json;TTF:charsetI"
+utf-8;F:digest"%1Ú(Ï†'VóqŽ
+
+ú[Ž5#³—æËT]Ó 9ß›2t:lengthiî:dependencies_digest"%ß¼U7¶\~f¤™…Ú/[†;õâ¡×jCZµ„&ëjvÒi:idI"E6ab7a0765cf912ffe818828d7916462659fbbf6b5067799eccec1bfd1ba0b6a2;F:
+mtimel+pÃ*X

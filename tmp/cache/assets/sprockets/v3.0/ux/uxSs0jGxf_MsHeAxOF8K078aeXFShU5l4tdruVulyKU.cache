@@ -1,0 +1,91 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/package.json?type=application/json&id=de9b7a10a81f14c48331091c14aaa288f0cad9770005b4a0528db27da33f7363:ET:load_pathI"app/assets/stylesheets;T:filenameI" app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/package.json;T:	nameI"„icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/package;T:logical_pathI"‰icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/package.json;T:content_typeI"application/json;T:sourceI"¸{
+  "name": "has-ansi",
+  "version": "0.1.0",
+  "description": "Check if a string has ANSI escape codes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sindresorhus/has-ansi.git"
+  },
+  "bin": {
+    "has-ansi": "cli.js"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "keywords": [
+    "cli",
+    "bin",
+    "ansi",
+    "styles",
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "string",
+    "tty",
+    "escape",
+    "shell",
+    "xterm",
+    "command-line",
+    "text",
+    "regex",
+    "regexp",
+    "re",
+    "match",
+    "test",
+    "find",
+    "pattern",
+    "has"
+  ],
+  "dependencies": {
+    "ansi-regex": "^0.2.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/has-ansi/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/has-ansi",
+  "_id": "has-ansi@0.1.0",
+  "_shasum": "84f265aae8c0e6a88a12d7022894b7568894c62e",
+  "_from": "has-ansi@>=0.1.0 <0.2.0",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "84f265aae8c0e6a88a12d7022894b7568894c62e",
+    "tarball": "https://registry.npmjs.org/has-ansi/-/has-ansi-0.1.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/has-ansi/-/has-ansi-0.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"®file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/package.json;TTF:charsetI"
+utf-8;F:digest"%<e]À~9fV¼P÷à”7D³˜m«×OÑÄŸ¿š:lengthi¸:dependencies_digest"%Sò:
+Ju{¸‘#ÏÖHæŠƒr"–I&ÖÀúäs9":idI"Ede9b7a10a81f14c48331091c14aaa288f0cad9770005b4a0528db27da33f7363;F:
+mtimel+Ä*X

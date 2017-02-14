@@ -1,0 +1,40 @@
+{:uriI"Ifile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/builtin-modules.json?type=application/json&id=bff36c9ff015ea3f9532ecd900bf45eea84deaaadbd9bcbe6f10e3362cfee599:ET:load_pathI"app/assets/stylesheets;T:filenameI"Ëapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/builtin-modules.json;T:	nameI"Ãicon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/builtin-modules;T:logical_pathI"—icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/builtin-modules.json;T:content_typeI"application/json;T:sourceI"a[
+	"assert",
+	"buffer",
+	"child_process",
+	"cluster",
+	"console",
+	"constants",
+	"crypto",
+	"dgram",
+	"dns",
+	"domain",
+	"events",
+	"fs",
+	"http",
+	"https",
+	"module",
+	"net",
+	"os",
+	"path",
+	"process",
+	"punycode",
+	"querystring",
+	"readline",
+	"repl",
+	"stream",
+	"string_decoder",
+	"timers",
+	"tls",
+	"tty",
+	"url",
+	"util",
+	"v8",
+	"vm",
+	"zlib"
+]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ˆfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/normalize-package-data/node_modules/is-builtin-module/node_modules/builtin-modules/builtin-modules.json;TTF:charsetI"
+utf-8;F:digest"%ínÆCôŸÆöcyﬂ«~ﬁaåÕ—8\/Ñ°t`Ω€Õ:lengthia:dependencies_digest"%zbì˝„L9(Uh9∑"ò©o„® &ûI—j`FLy:idI"Ebff36c9ff015ea3f9532ecd900bf45eea84deaaadbd9bcbe6f10e3362cfee599;F:
+mtimel+yÅÜV

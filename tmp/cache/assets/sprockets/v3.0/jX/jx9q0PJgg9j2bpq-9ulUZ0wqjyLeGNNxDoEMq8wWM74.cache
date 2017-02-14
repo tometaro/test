@@ -1,0 +1,61 @@
+{:uriI"âfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/package.json?type=application/json&id=7fa076b2b81497b83c834e39eea720b4d9d2e6973b4d1b49dab29266b85961cb:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/package.json;T:	nameI"jicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/package;T:logical_pathI"oicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/package.json;T:content_typeI"application/json;T:sourceI"n{
+  "name": "clone-stats",
+  "description": "Safely clone node's fs.Stats instances without losing their class methods",
+  "version": "0.0.1",
+  "main": "index.js",
+  "browser": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~2.3.2"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/clone-stats.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/clone-stats/issues"
+  },
+  "homepage": "https://github.com/hughsk/clone-stats",
+  "keywords": [
+    "stats",
+    "fs",
+    "clone",
+    "copy",
+    "prototype"
+  ],
+  "_id": "clone-stats@0.0.1",
+  "dist": {
+    "shasum": "b88f94a82cf38b8791d58046ea4029ad88ca99d1",
+    "tarball": "https://registry.npmjs.org/clone-stats/-/clone-stats-0.0.1.tgz"
+  },
+  "_from": "clone-stats@>=0.0.1 <0.0.2",
+  "_npmVersion": "1.3.22",
+  "_npmUser": {
+    "name": "hughsk",
+    "email": "hughskennedy@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "hughsk",
+      "email": "hughskennedy@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "b88f94a82cf38b8791d58046ea4029ad88ca99d1",
+  "_resolved": "https://registry.npmjs.org/clone-stats/-/clone-stats-0.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/node_modules/clone-stats/package.json;TTF:charsetI"
+utf-8;F:digest"%•nÕÜõTž›»Òö¡âdÄÚgˆÏÚÓºu«¥óc;`D:lengthin:dependencies_digest"%R‚seÛCûÁe¡Pß%vÁR»ôÚUGház”N¦8:idI"E7fa076b2b81497b83c834e39eea720b4d9d2e6973b4d1b49dab29266b85961cb;F:
+mtimel+qÃ*X

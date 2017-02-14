@@ -1,0 +1,56 @@
+{:uriI"ñfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/package.json?type=application/json&id=c1d0a6f6ba73c604858719583123f7a7fc3374b27f30b4d9c69aaad52dc018ce:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/package.json;T:	nameI"yicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/package;T:logical_pathI"~icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/package.json;T:content_typeI"application/json;T:sourceI"å{
+  "name": "ordered-read-streams",
+  "version": "0.1.0",
+  "description": "Combines array of streams into one read stream in strict order",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint *.js test/*.js && mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/armed/ordered-read-streams.git"
+  },
+  "author": {
+    "name": "Artem Medeusheyev",
+    "email": "artem.medeusheyev@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "should": "~3.0.1",
+    "mocha": "~1.17.0",
+    "through2": "~0.4.0",
+    "jshint": "~2.4.1",
+    "pre-commit": "0.0.4"
+  },
+  "gitHead": "0a7e487d8734978c0cc29d4dc3bfbdb8e82f865b",
+  "bugs": {
+    "url": "https://github.com/armed/ordered-read-streams/issues"
+  },
+  "homepage": "https://github.com/armed/ordered-read-streams",
+  "_id": "ordered-read-streams@0.1.0",
+  "_shasum": "fd565a9af8eb4473ba69b6ed8a34352cb552f126",
+  "_from": "ordered-read-streams@>=0.1.0 <0.2.0",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "armed",
+    "email": "artem.medeusheyev@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "armed",
+      "email": "artem.medeusheyev@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "fd565a9af8eb4473ba69b6ed8a34352cb552f126",
+    "tarball": "https://registry.npmjs.org/ordered-read-streams/-/ordered-read-streams-0.1.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ordered-read-streams/-/ordered-read-streams-0.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"žfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/ordered-read-streams/package.json;TTF:charsetI"
+utf-8;F:digest"%$mÇÖ-ˆÛ†Ýa‡¤ÆøÀ!ÇÓ‰9R³ây :lengthiå:dependencies_digest"%WÅ/cúf‚»zéB˜3ì7fJÐ¢ƒ¬g*w8b:idI"Ec1d0a6f6ba73c604858719583123f7a7fc3374b27f30b4d9c69aaad52dc018ce;F:
+mtimel+qÃ*X

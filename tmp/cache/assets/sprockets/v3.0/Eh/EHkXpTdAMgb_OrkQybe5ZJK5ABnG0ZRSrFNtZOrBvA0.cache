@@ -1,0 +1,89 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/is-absolute/node_modules/is-relative/package.json?type=application/json&id=b95373e6f5063af95fc2408222add400f32c56b3325399dadf23c22407414488:ET:load_pathI"app/assets/stylesheets;T:filenameI"µapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/is-absolute/node_modules/is-relative/package.json;T:	nameI"™icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/is-absolute/node_modules/is-relative/package;T:logical_pathI"žicon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/is-absolute/node_modules/is-relative/package.json;T:content_typeI"application/json;T:sourceI"5{
+  "name": "is-relative",
+  "description": "Returns `true` if the path appears to be relative.",
+  "version": "0.2.1",
+  "homepage": "https://github.com/jonschlinkert/is-relative",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/is-relative.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/is-relative/issues"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "is-unc-path": "^0.1.1"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "absolute",
+    "check",
+    "file",
+    "filepath",
+    "is",
+    "normalize",
+    "path",
+    "path.relative",
+    "relative",
+    "resolve",
+    "slash",
+    "slashes",
+    "uri",
+    "url"
+  ],
+  "verb": {
+    "related": {
+      "list": [
+        "is-absolute",
+        "is-relative",
+        "is-dotfile",
+        "is-glob",
+        "is-unc-path"
+      ]
+    }
+  },
+  "gitHead": "5f2fcd8ae42e43e10f2ac1b7b11f1b43ea1844ac",
+  "_id": "is-relative@0.2.1",
+  "_shasum": "d27f4c7d516d175fb610db84bbeef23c3bc97aa5",
+  "_from": "is-relative@>=0.2.1 <0.3.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "d27f4c7d516d175fb610db84bbeef23c3bc97aa5",
+    "tarball": "https://registry.npmjs.org/is-relative/-/is-relative-0.2.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/is-relative/-/is-relative-0.2.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ãfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/is-absolute/node_modules/is-relative/package.json;TTF:charsetI"
+utf-8;F:digest"%þëçM™¡@áçó¡[r™úÈ9îAÔUÔ*r}}D e:lengthi5:dependencies_digest"%wÑ¸²’T×þbBÂÏÃ-ŠB|-ß¥T—íý:idI"Eb95373e6f5063af95fc2408222add400f32c56b3325399dadf23c22407414488;F:
+mtimel+sÃ*X

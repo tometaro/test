@@ -1,0 +1,65 @@
+{:uriI"#file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/package.json?type=application/json&id=2483faa0da8d6c4db8b4f95abdc8e7581a2d2db3a8c160d8f86a40c8b0545fc6:ET:load_pathI"app/assets/stylesheets;T:filenameI"Âapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/package.json;T:	nameI"¦icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/package;T:logical_pathI"«icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "sigmund",
+  "version": "1.0.1",
+  "description": "Quick and dirty signatures for Objects.",
+  "main": "sigmund.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.3.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js",
+    "bench": "node bench.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/sigmund.git"
+  },
+  "keywords": [
+    "object",
+    "signature",
+    "key",
+    "data",
+    "psychoanalysis"
+  ],
+  "author": {
+    "name": "Isaac Z. Schlueter",
+    "email": "i@izs.me",
+    "url": "http://blog.izs.me/"
+  },
+  "license": "ISC",
+  "gitHead": "527f97aa5bb253d927348698c0cd3bb267d098c6",
+  "bugs": {
+    "url": "https://github.com/isaacs/sigmund/issues"
+  },
+  "homepage": "https://github.com/isaacs/sigmund#readme",
+  "_id": "sigmund@1.0.1",
+  "_shasum": "3ff21f198cad2175f9f3b781853fd94d0d19b590",
+  "_from": "sigmund@>=1.0.0 <1.1.0",
+  "_npmVersion": "2.10.0",
+  "_nodeVersion": "2.0.1",
+  "_npmUser": {
+    "name": "isaacs",
+    "email": "isaacs@npmjs.com"
+  },
+  "dist": {
+    "shasum": "3ff21f198cad2175f9f3b781853fd94d0d19b590",
+    "tarball": "https://registry.npmjs.org/sigmund/-/sigmund-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "isaacs",
+      "email": "i@izs.me"
+    }
+  ],
+  "_resolved": "https://registry.npmjs.org/sigmund/-/sigmund-1.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ðfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/minimatch/node_modules/sigmund/package.json;TTF:charsetI"
+utf-8;F:digest"%°‰N8öo0v˜ÝfRòÑ`’Õ€‰À^…‰Š-Qm4–:lengthi:dependencies_digest"%ˆ4hŠŽý4·Zæ¡)¢RHT¢«’œ¨Ž#':idI"E2483faa0da8d6c4db8b4f95abdc8e7581a2d2db3a8c160d8f86a40c8b0545fc6;F:
+mtimel+vÃ*X

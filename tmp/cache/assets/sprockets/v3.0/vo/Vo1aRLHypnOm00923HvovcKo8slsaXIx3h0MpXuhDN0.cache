@@ -1,0 +1,77 @@
+{:uriI"Þfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash._reescape/package.json?type=application/json&id=0a1122f776bcbdbbbcd7c679550ef9806d1b23c41ee64cc14569fffe12e95450:ET:load_pathI"app/assets/stylesheets;T:filenameI"}app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash._reescape/package.json;T:	nameI"ficon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash._reescape/package;T:logical_pathI"kicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash._reescape/package.json;T:content_typeI"application/json;T:sourceI"Ì{
+  "name": "lodash._reescape",
+  "version": "3.0.0",
+  "description": "The modern build of lodashâ€™s internal `reEscape` as a module.",
+  "homepage": "https://lodash.com/",
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "author": {
+    "name": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/"
+  },
+  "contributors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    {
+      "name": "Benjamin Tan",
+      "email": "demoneaux@gmail.com",
+      "url": "https://d10.github.io/"
+    },
+    {
+      "name": "Blaine Bublitz",
+      "email": "blaine@iceddev.com",
+      "url": "http://www.iceddev.com/"
+    },
+    {
+      "name": "Kit Cambridge",
+      "email": "github@kitcambridge.be",
+      "url": "http://kitcambridge.be/"
+    },
+    {
+      "name": "Mathias Bynens",
+      "email": "mathias@qiwi.be",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "bugs": {
+    "url": "https://github.com/lodash/lodash/issues"
+  },
+  "_id": "lodash._reescape@3.0.0",
+  "_shasum": "2b1d6f5dfe07c8a355753e5f27fac7f1cde1616a",
+  "_from": "lodash._reescape@>=3.0.0 <4.0.0",
+  "_npmVersion": "2.3.0",
+  "_nodeVersion": "0.10.35",
+  "_npmUser": {
+    "name": "jdalton",
+    "email": "john.david.dalton@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jdalton",
+      "email": "john.david.dalton@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "2b1d6f5dfe07c8a355753e5f27fac7f1cde1616a",
+    "tarball": "https://registry.npmjs.org/lodash._reescape/-/lodash._reescape-3.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lodash._reescape/-/lodash._reescape-3.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"‹file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/lodash._reescape/package.json;TTF:charsetI"
+utf-8;F:digest"%–?eÿÅô~†1UR¬ bÝû¼“ìÄ‚}Šî’:lengthiÌ:dependencies_digest"%Ü È2ýíq	­Õ"ÅœýájÚˆúÏjt’^:idI"E0a1122f776bcbdbbbcd7c679550ef9806d1b23c41ee64cc14569fffe12e95450;F:
+mtimel+Ä*X

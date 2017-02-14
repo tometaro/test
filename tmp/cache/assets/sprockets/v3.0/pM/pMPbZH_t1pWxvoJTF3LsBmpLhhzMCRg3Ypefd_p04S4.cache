@@ -1,0 +1,72 @@
+{:uriI"$file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/combined-stream/package.json?type=application/json&id=926ba9a872bc01a57012762419d58a0ebebc6ec70e480ea2ad71f0144a05dc67:ET:load_pathI"app/assets/stylesheets;T:filenameI"Ãapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/combined-stream/package.json;T:	nameI"§icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/combined-stream/package;T:logical_pathI"¬icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/combined-stream/package.json;T:content_typeI"application/json;T:sourceI"Ë{
+  "author": {
+    "name": "Felix GeisendÃ¶rfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/"
+  },
+  "name": "combined-stream",
+  "description": "A stream that emits multiple other streams one after another.",
+  "version": "1.0.5",
+  "homepage": "https://github.com/felixge/node-combined-stream",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felixge/node-combined-stream.git"
+  },
+  "main": "./lib/combined_stream",
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "dependencies": {
+    "delayed-stream": "~1.0.0"
+  },
+  "devDependencies": {
+    "far": "~0.0.7"
+  },
+  "license": "MIT",
+  "gitHead": "cfc7b815d090a109bcedb5bb0f6713148d55a6b7",
+  "bugs": {
+    "url": "https://github.com/felixge/node-combined-stream/issues"
+  },
+  "_id": "combined-stream@1.0.5",
+  "_shasum": "938370a57b4a51dea2c77c15d5c5fdf895164009",
+  "_from": "combined-stream@>=1.0.5 <1.1.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "0.12.4",
+  "_npmUser": {
+    "name": "alexindigo",
+    "email": "iam@alexindigo.com"
+  },
+  "dist": {
+    "shasum": "938370a57b4a51dea2c77c15d5c5fdf895164009",
+    "tarball": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "felixge",
+      "email": "felix@debuggable.com"
+    },
+    {
+      "name": "celer",
+      "email": "dtyree77@gmail.com"
+    },
+    {
+      "name": "alexindigo",
+      "email": "iam@alexindigo.com"
+    },
+    {
+      "name": "apechimp",
+      "email": "apeherder@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.5.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ñfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/combined-stream/package.json;TTF:charsetI"
+utf-8;F:digest"%C5k›‰îâ¿¥ Ã€·ŠÚö+‡é[f;J,¬è:lengthiË:dependencies_digest"%l¼ýyºÞ4”Ÿ)¼‘žƒé@$¬Aè…c…ZœËNc:idI"E926ba9a872bc01a57012762419d58a0ebebc6ec70e480ea2ad71f0144a05dc67;F:
+mtimel+Ä*X

@@ -1,0 +1,108 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/detect-file/node_modules/fs-exists-sync/package.json?type=application/json&id=52335af13c2c629e820b338f3a63032653caa88dc6b137628278ced3cfc74720:ET:load_pathI"app/assets/stylesheets;T:filenameI"¢app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/detect-file/node_modules/fs-exists-sync/package.json;T:	nameI"†icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/detect-file/node_modules/fs-exists-sync/package;T:logical_pathI"‹icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/detect-file/node_modules/fs-exists-sync/package.json;T:content_typeI"application/json;T:sourceI"s	{
+  "name": "fs-exists-sync",
+  "description": "Drop-in replacement for `fs.existsSync` with zero dependencies. Other libs I found either have crucial differences from fs.existsSync, or unnecessary dependencies. See README.md for more info.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/fs-exists-sync",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/fs-exists-sync.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/fs-exists-sync/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.7",
+    "mocha": "^2.4.5"
+  },
+  "keywords": [
+    "access",
+    "check",
+    "exist",
+    "exists",
+    "file",
+    "file-system",
+    "filepath",
+    "filesystem",
+    "fs",
+    "is-file",
+    "isfile",
+    "path",
+    "stat",
+    "sync"
+  ],
+  "verb": {
+    "layout": "default",
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "reflinks": [
+      "verb",
+      "path-exists",
+      "fs-exists",
+      "file-exists",
+      "exists"
+    ],
+    "related": {
+      "list": [
+        "try-open",
+        "parse-filepath",
+        "is-absolute"
+      ]
+    },
+    "run": true,
+    "toc": false,
+    "tasks": [
+      "readme"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "3b44654977775bac2d1151520c9b6257249a6374",
+  "_id": "fs-exists-sync@0.1.0",
+  "_shasum": "982d6893af918e72d08dec9e8673ff2b5a8d6add",
+  "_from": "fs-exists-sync@>=0.1.0 <0.2.0",
+  "_npmVersion": "3.6.0",
+  "_nodeVersion": "5.5.0",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "982d6893af918e72d08dec9e8673ff2b5a8d6add",
+    "tarball": "https://registry.npmjs.org/fs-exists-sync/-/fs-exists-sync-0.1.0.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/fs-exists-sync-0.1.0.tgz_1460202025245_0.6282676137052476"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/fs-exists-sync/-/fs-exists-sync-0.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"°file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/detect-file/node_modules/fs-exists-sync/package.json;TTF:charsetI"
+utf-8;F:digest"%N‚˜øe¬Þ¸-…FHÒZÚòlÆaJWnI»]þ½g:lengthis	:dependencies_digest"%Äwã¦õì¯è/ÖŽ.3×búùÙ7svàØ™ Dß°:idI"E52335af13c2c629e820b338f3a63032653caa88dc6b137628278ced3cfc74720;F:
+mtimel+rÃ*X

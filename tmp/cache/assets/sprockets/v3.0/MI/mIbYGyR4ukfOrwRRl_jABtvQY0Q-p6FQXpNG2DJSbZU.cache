@@ -1,0 +1,82 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json?type=application/json&id=b25865494037051e4d5a5b7e8ea6e2e2f338238c52dc48634cc9633862289f33:ET:load_pathI"app/assets/stylesheets;T:filenameI"¾app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json;T:	nameI"¢icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package;T:logical_pathI"§icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json;T:content_typeI"application/json;T:sourceI"å{
+  "name": "balanced-match",
+  "description": "Match balanced character pairs, like \"{\" and \"}\"",
+  "version": "0.4.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/juliangruber/balanced-match.git"
+  },
+  "homepage": "https://github.com/juliangruber/balanced-match",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.6.0"
+  },
+  "keywords": [
+    "match",
+    "regexp",
+    "test",
+    "balanced",
+    "parse"
+  ],
+  "author": {
+    "name": "Julian Gruber",
+    "email": "mail@juliangruber.com",
+    "url": "http://juliangruber.com"
+  },
+  "license": "MIT",
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "ie/8..latest",
+      "firefox/20..latest",
+      "firefox/nightly",
+      "chrome/25..latest",
+      "chrome/canary",
+      "opera/12..latest",
+      "opera/next",
+      "safari/5.1..latest",
+      "ipad/6.0..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  },
+  "gitHead": "57c2ea29d89a2844ae3bdcc637c6e2cbb73725e2",
+  "bugs": {
+    "url": "https://github.com/juliangruber/balanced-match/issues"
+  },
+  "_id": "balanced-match@0.4.2",
+  "_shasum": "cb3f3e3c732dc0f01ee70b403f302e61d7709838",
+  "_from": "balanced-match@>=0.4.1 <0.5.0",
+  "_npmVersion": "2.15.8",
+  "_nodeVersion": "4.4.7",
+  "_npmUser": {
+    "name": "juliangruber",
+    "email": "julian@juliangruber.com"
+  },
+  "dist": {
+    "shasum": "cb3f3e3c732dc0f01ee70b403f302e61d7709838",
+    "tarball": "https://registry.npmjs.org/balanced-match/-/balanced-match-0.4.2.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "juliangruber",
+      "email": "julian@juliangruber.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/balanced-match-0.4.2.tgz_1468834991581_0.6590619895141572"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/balanced-match/-/balanced-match-0.4.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ìfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/package.json;TTF:charsetI"
+utf-8;F:digest"%Å×¾µ¶ú[âaçÉX‡Áðs‘¡@Öí¢WK²Ñ:lengthiå:dependencies_digest"%Oñ2á÷c—–«ž4Æ#dÔ<”*fZ^Výš:idI"Eb25865494037051e4d5a5b7e8ea6e2e2f338238c52dc48634cc9633862289f33;F:
+mtimel+tÃ*X

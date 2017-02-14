@@ -1,0 +1,64 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/neatequal/package.json?type=application/json&id=771a79bfec00d5962a1a899eef42fd6c02e02adc1f5ddef75b6c6fe7d65cfe1d:ET:load_pathI"app/assets/stylesheets;T:filenameI" app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/neatequal/package.json;T:	nameI"„icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/neatequal/package;T:logical_pathI"‰icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/neatequal/package.json;T:content_typeI"application/json;T:sourceI"Ü{
+  "name": "neatequal",
+  "version": "1.0.0",
+  "description": "Neat deep equal.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha tests/*.mocha.js",
+    "coveralls": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha --report lcovonly -- tests/*.mocha.js -R spec -t 5000 && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage",
+    "cover": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha --report html -- tests/*.mocha.js -R spec -t 5000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nfroidure/neatequal.git"
+  },
+  "keywords": [
+    "assert",
+    "deepEqual",
+    "neat"
+  ],
+  "author": {
+    "name": "Nicolas Froidure"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nfroidure/neatequal/issues"
+  },
+  "homepage": "https://github.com/nfroidure/neatequal",
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.5",
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "varstream": "^0.3.2"
+  },
+  "gitHead": "5f3d6f153d7848fcb96429ff06a4966d52a3cf51",
+  "_id": "neatequal@1.0.0",
+  "_shasum": "2ee1211bc9fa6e4c55715fd210bb05602eb1ae3b",
+  "_from": "neatequal@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.1.18",
+  "_nodeVersion": "0.10.32",
+  "_npmUser": {
+    "name": "nfroidure",
+    "email": "nfroidure@elitwork.com"
+  },
+  "maintainers": [
+    {
+      "name": "nfroidure",
+      "email": "nfroidure@elitwork.com"
+    }
+  ],
+  "dist": {
+    "shasum": "2ee1211bc9fa6e4c55715fd210bb05602eb1ae3b",
+    "tarball": "https://registry.npmjs.org/neatequal/-/neatequal-1.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/neatequal/-/neatequal-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"®file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/neatequal/package.json;TTF:charsetI"
+utf-8;F:digest"%ƒLô~IÅÅÛ ¿çb.ê×¶%k¼]Óø:By~GRÊ:lengthiÜ:dependencies_digest"%ó¨â5\_mœ;©á±x87×Z 16,kõÄµ5ÖìÅ¾:idI"E771a79bfec00d5962a1a899eef42fd6c02e02adc1f5ddef75b6c6fe7d65cfe1d;F:
+mtimel+Ä*X

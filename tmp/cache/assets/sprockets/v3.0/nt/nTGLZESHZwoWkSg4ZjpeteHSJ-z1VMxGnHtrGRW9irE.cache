@@ -1,0 +1,55 @@
+{:uriI"ñfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/microbuffer/package.json?type=application/json&id=d86a8d3b4f21d27ba93892abe82e5f870311f8768766c640d46a0039d736533f:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/microbuffer/package.json;T:	nameI"yicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/microbuffer/package;T:logical_pathI"~icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/microbuffer/package.json;T:content_typeI"application/json;T:sourceI"
+{
+  "name": "microbuffer",
+  "version": "1.0.0",
+  "description": "Light implementation of binary buffer with helpers for easy access.",
+  "keywords": [
+    "buffer"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontello/microbuffer.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "0.18.0",
+    "eslint-plugin-nodeca": "^1.0.3",
+    "lodash": "*",
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "gitHead": "7bc8aa466dfcd4779921709c64f4a5122ec4b4f0",
+  "bugs": {
+    "url": "https://github.com/fontello/microbuffer/issues"
+  },
+  "homepage": "https://github.com/fontello/microbuffer",
+  "_id": "microbuffer@1.0.0",
+  "_shasum": "8b3832ed40c87d51f47bb234913a698a756d19d2",
+  "_from": "microbuffer@>=1.0.0 <2.0.0",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "vitaly",
+    "email": "vitaly@rcdesign.ru"
+  },
+  "maintainers": [
+    {
+      "name": "vitaly",
+      "email": "vitaly@rcdesign.ru"
+    }
+  ],
+  "dist": {
+    "shasum": "8b3832ed40c87d51f47bb234913a698a756d19d2",
+    "tarball": "https://registry.npmjs.org/microbuffer/-/microbuffer-1.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/microbuffer/-/microbuffer-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"žfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/microbuffer/package.json;TTF:charsetI"
+utf-8;F:digest"%…{±USG¯€üµ?~È¦Šô–Ž…_–ŠjD¸Öc:lengthi
+:dependencies_digest"%â‰ø3âË8,˜„ó3E5Ù[1òÿ½‰ÿ–~aIhmÞw :idI"Ed86a8d3b4f21d27ba93892abe82e5f870311f8768766c640d46a0039d736533f;F:
+mtimel+Ä*X

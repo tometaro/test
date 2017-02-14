@@ -1,0 +1,91 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/svg-pathdata/package.json?type=application/json&id=2d0f8b16835a687017077a41f654cf141ab86bf36629ab435cdf0867101aca4a:ET:load_pathI"app/assets/stylesheets;T:filenameI"£app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/svg-pathdata/package.json;T:	nameI"‡icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/svg-pathdata/package;T:logical_pathI"Œicon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/svg-pathdata/package.json;T:content_typeI"application/json;T:sourceI"•	{
+  "name": "svg-pathdata",
+  "version": "1.0.4",
+  "description": "Parse, transform and encode SVG Path Data.",
+  "main": "src/SVGPathData.js",
+  "scripts": {
+    "test": "mocha tests/*.mocha.js",
+    "coveralls": "istanbul cover _mocha --report lcovonly -- tests/*.mocha.js -R spec -t 5000 && coveralls < ./coverage/lcov.info && rimraf ./coverage",
+    "cover": "istanbul cover --report html _mocha -- tests/*.mocha.js -R spec -t 5000",
+    "build": "browserify src/SVGPathData.js -o dist/SVGPathData.js -s SVGPathData",
+    "lint": "eslint src/*.js tests/*.js",
+    "preversion": "npm test",
+    "cli": "env NPM_RUN_CLI=1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfroidure/SVGPathData.git"
+  },
+  "keywords": [
+    "svg",
+    "path",
+    "data",
+    "parser",
+    "encoder",
+    "transformer",
+    "reader",
+    "writer",
+    "stream"
+  ],
+  "author": {
+    "name": "Nicolas Froidure"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nfroidure/SVGPathData/issues"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "readable-stream": "~2.0.4"
+  },
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "chai": "^3.4.1",
+    "coveralls": "^2.11.4",
+    "eslint": "^1.10.0",
+    "eslint-config-simplifield": "^1.1.0",
+    "istanbul": "^0.4.0",
+    "mocha": "^2.3.4",
+    "mocha-lcov-reporter": "^1.0.0",
+    "rimraf": "^2.4.4"
+  },
+  "gitHead": "bb3beb7fe18cf933254dd02ca22677bc95e4c993",
+  "homepage": "https://github.com/nfroidure/SVGPathData#readme",
+  "_id": "svg-pathdata@1.0.4",
+  "_shasum": "7a681342aac7effd8d52afba7999910c9da3b959",
+  "_from": "svg-pathdata@>=1.0.3 <2.0.0",
+  "_npmVersion": "3.10.5",
+  "_nodeVersion": "6.9.1",
+  "_npmUser": {
+    "name": "huerlisi",
+    "email": "simon.huerlimann@cyt.ch"
+  },
+  "dist": {
+    "shasum": "7a681342aac7effd8d52afba7999910c9da3b959",
+    "tarball": "https://registry.npmjs.org/svg-pathdata/-/svg-pathdata-1.0.4.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "huerlisi",
+      "email": "simon.huerlimann@cyt.ch"
+    },
+    {
+      "name": "nfroidure",
+      "email": "nfroidure@elitwork.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/svg-pathdata-1.0.4.tgz_1478531956899_0.05541544244624674"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/svg-pathdata/-/svg-pathdata-1.0.4.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"±file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/svg-pathdata/package.json;TTF:charsetI"
+utf-8;F:digest"%ëégòFwý{ªÐ¡(§4ª(ÆÂ‚a?¢â;¼â(º¯R:lengthi•	:dependencies_digest"%Ùï !8•‰Ñ ºø¹Î5ûb¾.’ ?Œœ/(Ët;«:idI"E2d0f8b16835a687017077a41f654cf141ab86bf36629ab435cdf0867101aca4a;F:
+mtimel+Ä*X

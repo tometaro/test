@@ -1,0 +1,85 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json?type=application/json&id=d2f9a1e676410f3efd1aabf9fcf7b9e1f86f8e0b01378f56be6eae5869497eb1:ET:load_pathI"app/assets/stylesheets;T:filenameI"¸app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json;T:	nameI"œicon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package;T:logical_pathI"¡icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json;T:content_typeI"application/json;T:sourceI"}{
+  "name": "ansi-regex",
+  "version": "0.2.1",
+  "description": "Regular expression for matching ANSI escape codes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sindresorhus/ansi-regex.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "http://sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ansi",
+    "styles",
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "cli",
+    "string",
+    "tty",
+    "escape",
+    "formatting",
+    "rgb",
+    "256",
+    "shell",
+    "xterm",
+    "command-line",
+    "text",
+    "regex",
+    "regexp",
+    "re",
+    "match",
+    "test",
+    "find",
+    "pattern"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/sindresorhus/ansi-regex/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/ansi-regex",
+  "_id": "ansi-regex@0.2.1",
+  "_shasum": "0d8e946967a3d8143f93e24e298525fc1b2235f9",
+  "_from": "ansi-regex@>=0.2.0 <0.3.0",
+  "_npmVersion": "1.4.9",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "0d8e946967a3d8143f93e24e298525fc1b2235f9",
+    "tarball": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ansi-regex/-/ansi-regex-0.2.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Æfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json;TTF:charsetI"
+utf-8;F:digest"%Ç«!ñ<»tÁ¿|Ä„ý§X~æd´¡3°ï.@¹«Ý{Ó:lengthi}:dependencies_digest"% ¸­ßu>ÿ`w´Œî¢Ž$]À
+‹Ò÷Õ…,^E ç©e:idI"Ed2f9a1e676410f3efd1aabf9fcf7b9e1f86f8e0b01378f56be6eae5869497eb1;F:
+mtimel+Ä*X

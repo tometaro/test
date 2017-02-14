@@ -1,0 +1,64 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/package.json?type=application/json&id=441ce8f25461fcf1373a5c7ef4708d705164b5774e78f96edb226f5cb1c68169:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/package.json;T:	nameI"icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/package;T:logical_pathI"icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/package.json;T:content_typeI"application/json;T:sourceI"ª{
+  "name": "is-property",
+  "version": "1.0.2",
+  "description": "Tests if a JSON property can be accessed using . syntax",
+  "main": "is-property.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "~1.0.4"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/is-property.git"
+  },
+  "keywords": [
+    "is",
+    "property",
+    "json",
+    "dot",
+    "bracket",
+    ".",
+    "[]"
+  ],
+  "author": {
+    "name": "Mikola Lysenko"
+  },
+  "license": "MIT",
+  "gitHead": "0a85ea5b6b1264ea1cdecc6e5cf186adbb3ffc50",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/is-property/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/is-property",
+  "_id": "is-property@1.0.2",
+  "_shasum": "57fe1c4e48474edd65b09911f26b1cd4095dda84",
+  "_from": "is-property@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.1.4",
+  "_nodeVersion": "0.10.26",
+  "_npmUser": {
+    "name": "mikolalysenko",
+    "email": "mikolalysenko@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "mikolalysenko",
+      "email": "mikolalysenko@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "57fe1c4e48474edd65b09911f26b1cd4095dda84",
+    "tarball": "https://registry.npmjs.org/is-property/-/is-property-1.0.2.tgz"
+  },
+  "_resolved": "https://registry.npmjs.org/is-property/-/is-property-1.0.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI",file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/node_modules/generate-object-property/node_modules/is-property/package.json;TTF:charsetI"
+utf-8;F:digest"%ñÆyœÌ“=s;»³ª>	û"ÊØŒ+Š{¯ª†Q):lengthiª:dependencies_digest"%~ãÆ¦!ÃÑ¹&,ÌÚš	By7‹Bc–]M4£¸(CÎ:idI"E441ce8f25461fcf1373a5c7ef4708d705164b5774e78f96edb226f5cb1c68169;F:
+mtimel+Ä*X

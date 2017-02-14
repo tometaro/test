@@ -1,0 +1,80 @@
+{:uriI"Øfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/package.json?type=application/json&id=0d120aef4dc869603949f5a4ac060a8a758cf2ca0f51d59e5efe7e9df1f0576b:ET:load_pathI"app/assets/stylesheets;T:filenameI"|app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/package.json;T:	nameI"`icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/package;T:logical_pathI"eicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/package.json;T:content_typeI"application/json;T:sourceI"ð{
+  "name": "dateformat",
+  "description": "A node.js package for Steven Levithan's excellent dateFormat() function.",
+  "maintainers": [
+    {
+      "name": "felixge",
+      "email": "felix@debuggable.com"
+    },
+    {
+      "name": "ctavan",
+      "email": "dev@tavan.de"
+    }
+  ],
+  "homepage": "https://github.com/felixge/node-dateformat",
+  "author": {
+    "name": "Steven Levithan"
+  },
+  "contributors": [
+    {
+      "name": "Steven Levithan"
+    },
+    {
+      "name": "Felix GeisendÃ¶rfer",
+      "email": "felix@debuggable.com"
+    },
+    {
+      "name": "Christoph Tavan",
+      "email": "dev@tavan.de"
+    }
+  ],
+  "version": "1.0.12",
+  "license": "MIT",
+  "main": "lib/dateformat",
+  "bin": {
+    "dateformat": "bin/cli.js"
+  },
+  "dependencies": {
+    "get-stdin": "^4.0.1",
+    "meow": "^3.3.0"
+  },
+  "devDependencies": {
+    "underscore": "1.7.0",
+    "mocha": "2.0.1"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixge/node-dateformat.git"
+  },
+  "gitHead": "17364d40e61c06f6de228ab94f3660a27f357f01",
+  "bugs": {
+    "url": "https://github.com/felixge/node-dateformat/issues"
+  },
+  "_id": "dateformat@1.0.12",
+  "_shasum": "9f124b67594c937ff706932e4a642cca8dbbfee9",
+  "_from": "dateformat@>=1.0.11 <2.0.0",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "felixge",
+    "email": "felix@debuggable.com"
+  },
+  "dist": {
+    "shasum": "9f124b67594c937ff706932e4a642cca8dbbfee9",
+    "tarball": "https://registry.npmjs.org/dateformat/-/dateformat-1.0.12.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/dateformat/-/dateformat-1.0.12.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"…file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/package.json;TTF:charsetI"
+utf-8;F:digest"%¸›u£è}=!M†¬ÔAÖÄ¨ÄÙ'——D „·7#¶4:lengthið:dependencies_digest"%á-Þ4ƒÓ{?`{®KkƒÇ!xW”sÂþŒ–]ö¯„:idI"E0d120aef4dc869603949f5a4ac060a8a758cf2ca0f51d59e5efe7e9df1f0576b;F:
+mtimel+Ä*X

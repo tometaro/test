@@ -1,0 +1,67 @@
+{:uriI"ðfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/node_modules/argparse/package.json?type=application/json&id=288283d6b1dd107f5860c0aee0403924e89d3740fe5887816353b116318c7ab2:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/node_modules/argparse/package.json;T:	nameI"xicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/node_modules/argparse/package;T:logical_pathI"}icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/node_modules/argparse/package.json;T:content_typeI"application/json;T:sourceI"¿{
+  "name": "argparse",
+  "description": "Very powerful CLI arguments parser. Native port of argparse - python's options parsing library",
+  "version": "0.1.16",
+  "keywords": [
+    "cli",
+    "parser",
+    "argparse",
+    "option",
+    "args"
+  ],
+  "homepage": "https://github.com/nodeca/argparse",
+  "contributors": [
+    {
+      "name": "Eugene Shkuropat"
+    },
+    {
+      "name": "Paul Jacobson"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/nodeca/argparse/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nodeca/argparse.git"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "underscore.string": "~2.4.0"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "gitHead": "9c32eb1405d5d4b5686087d95bac010774979659",
+  "_id": "argparse@0.1.16",
+  "_shasum": "cfd01e0fbba3d6caed049fbd758d40f65196f57c",
+  "_from": "argparse@>=0.1.15 <0.2.0",
+  "_npmVersion": "1.4.28",
+  "_npmUser": {
+    "name": "vitaly",
+    "email": "vitaly@rcdesign.ru"
+  },
+  "maintainers": [
+    {
+      "name": "vitaly",
+      "email": "vitaly@rcdesign.ru"
+    }
+  ],
+  "dist": {
+    "shasum": "cfd01e0fbba3d6caed049fbd758d40f65196f57c",
+    "tarball": "https://registry.npmjs.org/argparse/-/argparse-0.1.16.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/argparse/-/argparse-0.1.16.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/node_modules/argparse/package.json;TTF:charsetI"
+utf-8;F:digest"%õ·ößc§j8È’±²ÍKÁz€p³QAó2Ãp›Mæ:lengthi¿:dependencies_digest"%z°TŸt4­!B³QSiSÊ”)a1Hª§=öÔyöAîa:idI"E288283d6b1dd107f5860c0aee0403924e89d3740fe5887816353b116318c7ab2;F:
+mtimel+Ä*X

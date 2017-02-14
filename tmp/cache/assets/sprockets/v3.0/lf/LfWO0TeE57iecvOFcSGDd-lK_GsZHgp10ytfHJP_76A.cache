@@ -1,0 +1,81 @@
+{:uriI"Mfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/package.json?type=application/json&id=5fcd58c951e8b35b640eb5d70e17586bad6f17712ebbda1758f74cfc400fbd23:ET:load_pathI"app/assets/stylesheets;T:filenameI"ìapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/package.json;T:	nameI"Ðicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/package;T:logical_pathI"Õicon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/package.json;T:content_typeI"application/json;T:sourceI"˜{
+  "name": "parse-json",
+  "version": "2.2.0",
+  "description": "Parse JSON with more helpful errors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/parse-json.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && node test.js"
+  },
+  "files": [
+    "index.js",
+    "vendor"
+  ],
+  "keywords": [
+    "parse",
+    "json",
+    "graceful",
+    "error",
+    "message",
+    "humanize",
+    "friendly",
+    "helpful",
+    "string",
+    "str"
+  ],
+  "dependencies": {
+    "error-ex": "^1.2.0"
+  },
+  "devDependencies": {
+    "ava": "0.0.4",
+    "xo": "*"
+  },
+  "xo": {
+    "ignores": [
+      "vendor/**"
+    ]
+  },
+  "gitHead": "419b0cbb83e67af53f9fd3f7ff98605ea2020eb6",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/parse-json/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/parse-json",
+  "_id": "parse-json@2.2.0",
+  "_shasum": "f480f40434ef80741f8469099f8dea18f55a4dc9",
+  "_from": "parse-json@>=2.2.0 <3.0.0",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "f480f40434ef80741f8469099f8dea18f55a4dc9",
+    "tarball": "https://registry.npmjs.org/parse-json/-/parse-json-2.2.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/parse-json/-/parse-json-2.2.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"úfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/read-pkg-up/node_modules/read-pkg/node_modules/load-json-file/node_modules/parse-json/package.json;TTF:charsetI"
+utf-8;F:digest"%ª5fý&× ëGÍµú‡ùH‘Z¶¤¸pj9cnárúã®:lengthi˜:dependencies_digest"%Í”a–~6ˆd›ñÁQ¢…2öc5œ"á-]m¬6ñ¬`:idI"E5fcd58c951e8b35b640eb5d70e17586bad6f17712ebbda1758f74cfc400fbd23;F:
+mtimel+Ä*X

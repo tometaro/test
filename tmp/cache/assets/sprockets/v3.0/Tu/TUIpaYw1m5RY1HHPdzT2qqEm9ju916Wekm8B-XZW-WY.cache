@@ -1,0 +1,79 @@
+{:uriI"Àfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-cond/package.json?type=application/json&id=c977631628ab75a752b3bfe0d2e8fd03ca818651ab1a98b7de67e571a4e41f49:ET:load_pathI"app/assets/stylesheets;T:filenameI"dapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-cond/package.json;T:	nameI"Hicon-font/node_modules/gulp-iconfont/node_modules/gulp-cond/package;T:logical_pathI"Micon-font/node_modules/gulp-iconfont/node_modules/gulp-cond/package.json;T:content_typeI"application/json;T:sourceI"[{
+  "name": "gulp-cond",
+  "description": "Ternary operator for Gulp.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/nfroidure/gulp-cond",
+  "author": {
+    "name": "Nicolas Froidure",
+    "url": "http://www.insertafter.com/blog.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nfroidure/gulp-cond.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nfroidure/gulp-cond/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nfroidure/gulp-cond/blob/master/LICENSE"
+    }
+  ],
+  "main": "src/index.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "mocha tests/*.mocha.js",
+    "coveralls": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha --report lcovonly -- tests/*.mocha.js -R spec -t 5000 && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage",
+    "cover": "./node_modules/istanbul/lib/cli.js cover --report html ./node_modules/mocha/bin/_mocha -- tests/*.mocha.js -R spec -t 5000"
+  },
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "gulp-plugin",
+    "condition",
+    "operator",
+    "ternary"
+  ],
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "istanbul": "^0.3.16",
+    "mocha": "^2.2.5",
+    "mocha-lcov-reporter": "0.0.2",
+    "streamtest": "^1.2.1",
+    "vinyl": "^0.5.0"
+  },
+  "dependencies": {
+    "readable-stream": "^2.0.1"
+  },
+  "gitHead": "a6094f46a7cdb20afe51dc5299d3519e3d8bc1fe",
+  "_id": "gulp-cond@1.0.0",
+  "_shasum": "9980c3cdcafa9bc4cd30ab871087ac135955b558",
+  "_from": "gulp-cond@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "nfroidure",
+    "email": "nfroidure@elitwork.com"
+  },
+  "maintainers": [
+    {
+      "name": "nfroidure",
+      "email": "nfroidure@elitwork.com"
+    }
+  ],
+  "dist": {
+    "shasum": "9980c3cdcafa9bc4cd30ab871087ac135955b558",
+    "tarball": "https://registry.npmjs.org/gulp-cond/-/gulp-cond-1.0.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gulp-cond/-/gulp-cond-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"rfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-cond/package.json;TTF:charsetI"
+utf-8;F:digest"%Õ ê$bnÂ×ÆJû#–H¢—ódÀ9ÒõËúwi8ùm:lengthi[:dependencies_digest"%ËYUWß{N?Þ°"‹³¢÷ŠÉmÊ9Þ½qMŒ?:idI"Ec977631628ab75a752b3bfe0d2e8fd03ca818651ab1a98b7de67e571a4e41f49;F:
+mtimel+Ä*X

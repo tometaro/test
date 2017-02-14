@@ -1,0 +1,54 @@
+{:uriI"Xfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/default.json?type=application/json&id=fa7743ceacb5856238a89215dcd3e7994898aaccc9bdb73fcac5568f5c2ea259:ET:load_pathI"app/assets/stylesheets;T:filenameI"÷app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/default.json;T:	nameI"Ûicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/default;T:logical_pathI"àicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/default.json;T:content_typeI"application/json;T:sourceI"ù[
+    {
+        "description": "invalid type for default",
+        "schema": {
+            "properties": {
+                "foo": {
+                    "type": "integer",
+                    "default": []
+                }
+            }
+        },
+        "tests": [
+            {
+                "description": "valid when property is specified",
+                "data": {"foo": 13},
+                "valid": true
+            },
+            {
+                "description": "still valid when the invalid default is used",
+                "data": {},
+                "valid": true
+            }
+        ]
+    },
+    {
+        "description": "invalid string value for default",
+        "schema": {
+            "properties": {
+                "bar": {
+                    "type": "string",
+                    "minLength": 4,
+                    "default": "bad"
+                }
+            }
+        },
+        "tests": [
+            {
+                "description": "valid when property is specified",
+                "data": {"bar": "good"},
+                "valid": true
+            },
+            {
+                "description": "still valid when the invalid default is used",
+                "data": {},
+                "valid": true
+            }
+        ]
+    }
+]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/default.json;TTF:charsetI"
+utf-8;F:digest"%7à5ÄÔÖÅðÞ<¨)Ïñä®MN'Ýó¸Ë€z€øá˜v:lengthiù:dependencies_digest"%CJeœPô+áCÆFÌÇDÈ€äS‰ž8;ï¦o:idI"Efa7743ceacb5856238a89215dcd3e7994898aaccc9bdb73fcac5568f5c2ea259;F:
+mtimel+•yU

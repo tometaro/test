@@ -1,0 +1,81 @@
+{:uriI"Éfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/package.json?type=application/json&id=929a7b9c40165dc027320b652124ff18df15eec2322343d30baa35126afb589e:ET:load_pathI"app/assets/stylesheets;T:filenameI"mapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/package.json;T:	nameI"Qicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/package;T:logical_pathI"Vicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/package.json;T:content_typeI"application/json;T:sourceI"‰{
+  "name": "vinyl",
+  "description": "A virtual file format",
+  "version": "0.4.6",
+  "homepage": "http://github.com/wearefractal/vinyl",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wearefractal/vinyl.git"
+  },
+  "author": {
+    "name": "Fractal",
+    "email": "contact@wearefractal.com",
+    "url": "http://wearefractal.com/"
+  },
+  "main": "./index.js",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "dependencies": {
+    "clone": "^0.2.0",
+    "clone-stats": "^0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.0.0",
+    "should": "^4.0.4",
+    "mocha-lcov-reporter": "^0.0.1",
+    "coveralls": "^2.6.1",
+    "istanbul": "^0.3.0",
+    "rimraf": "^2.2.5",
+    "jshint": "^2.4.1",
+    "buffer-equal": "0.0.1",
+    "lodash.templatesettings": "^2.4.1",
+    "event-stream": "^3.1.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec && jshint lib",
+    "coveralls": "istanbul cover _mocha -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+  },
+  "engines": {
+    "node": ">= 0.9"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/wearefractal/vinyl/raw/master/LICENSE"
+    }
+  ],
+  "gitHead": "8255a5f1de7fecb1cd5e7ba7ac1ec997395f6be1",
+  "bugs": {
+    "url": "https://github.com/wearefractal/vinyl/issues"
+  },
+  "_id": "vinyl@0.4.6",
+  "_shasum": "2f356c87a550a255461f36bbeb2a5ba8bf784847",
+  "_from": "vinyl@>=0.4.0 <0.5.0",
+  "_npmVersion": "2.1.6",
+  "_nodeVersion": "0.10.33",
+  "_npmUser": {
+    "name": "fractal",
+    "email": "contact@wearefractal.com"
+  },
+  "maintainers": [
+    {
+      "name": "fractal",
+      "email": "contact@wearefractal.com"
+    }
+  ],
+  "dist": {
+    "shasum": "2f356c87a550a255461f36bbeb2a5ba8bf784847",
+    "tarball": "https://registry.npmjs.org/vinyl/-/vinyl-0.4.6.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/vinyl/-/vinyl-0.4.6.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"{file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/vinyl/package.json;TTF:charsetI"
+utf-8;F:digest"%WJnHblÑåùÖnµGß0R£–¡h
+€€	ŸÌ):lengthi‰:dependencies_digest"%Àà<½ìÏˆÌ‰~ÞþQVÝÃ'%pj\2!¤:idI"E929a7b9c40165dc027320b652124ff18df15eec2322343d30baa35126afb589e;F:
+mtimel+pÃ*X

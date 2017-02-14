@@ -1,0 +1,68 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/string.fromcodepoint/package.json?type=application/json&id=2113b0a2fa37d765e3f3444021aad265a501258201c0d361af85113a8b60e53c:ET:load_pathI"app/assets/stylesheets;T:filenameI"«app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/string.fromcodepoint/package.json;T:	nameI"icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/string.fromcodepoint/package;T:logical_pathI"”icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/string.fromcodepoint/package.json;T:content_typeI"application/json;T:sourceI"™{
+  "name": "string.fromcodepoint",
+  "version": "0.2.1",
+  "description": "A robust & optimized `String.fromCodePoint` polyfill, based on the ECMAScript 6 specification.",
+  "homepage": "http://mths.be/fromcodepoint",
+  "main": "fromcodepoint.js",
+  "keywords": [
+    "string",
+    "unicode",
+    "es6",
+    "ecmascript",
+    "polyfill"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://mths.be/mit"
+    }
+  ],
+  "author": {
+    "name": "Mathias Bynens",
+    "url": "http://mathiasbynens.be/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mathiasbynens/String.fromCodePoint.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mathiasbynens/String.fromCodePoint/issues"
+  },
+  "files": [
+    "LICENSE-MIT.txt",
+    "fromcodepoint.js"
+  ],
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/tests.js",
+    "cover": "istanbul cover --report html --verbose --dir coverage tests/tests.js"
+  },
+  "gitHead": "c2c857025aca29aeebab66caedf4a56dac58ba52",
+  "_id": "string.fromcodepoint@0.2.1",
+  "_shasum": "8d978333c0bc92538f50f383e4888f3e5619d653",
+  "_from": "string.fromcodepoint@>=0.2.1 <0.3.0",
+  "_npmVersion": "1.4.15",
+  "_npmUser": {
+    "name": "mathias",
+    "email": "mathias@qiwi.be"
+  },
+  "maintainers": [
+    {
+      "name": "mathias",
+      "email": "mathias@qiwi.be"
+    }
+  ],
+  "dist": {
+    "shasum": "8d978333c0bc92538f50f383e4888f3e5619d653",
+    "tarball": "https://registry.npmjs.org/string.fromcodepoint/-/string.fromcodepoint-0.2.1.tgz"
+  },
+  "_resolved": "https://registry.npmjs.org/string.fromcodepoint/-/string.fromcodepoint-0.2.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¹file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/node_modules/svgicons2svgfont/node_modules/string.fromcodepoint/package.json;TTF:charsetI"
+utf-8;F:digest"%”)/•uiÒÀWbíê7¤¯í%…ó‰¯%·YX†«¤i:lengthi™:dependencies_digest"%Ö×ågÙ•í£.›ì ×ÄH×DþDüÙ–@ëÔò:idI"E2113b0a2fa37d765e3f3444021aad265a501258201c0d361af85113a8b60e53c;F:
+mtimel+Ä*X

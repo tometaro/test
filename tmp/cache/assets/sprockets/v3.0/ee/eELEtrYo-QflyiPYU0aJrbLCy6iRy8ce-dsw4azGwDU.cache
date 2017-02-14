@@ -1,0 +1,72 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/repeat-element/package.json?type=application/json&id=e1845263bf6257be40d23e8db7b368fc9a59c4723aba5124204eebe6ede72402:ET:load_pathI"app/assets/stylesheets;T:filenameI"µapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/repeat-element/package.json;T:	nameI"™icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/repeat-element/package;T:logical_pathI"žicon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/repeat-element/package.json;T:content_typeI"application/json;T:sourceI"¬{
+  "name": "repeat-element",
+  "description": "Create an array by repeating the given value n times.",
+  "version": "1.1.2",
+  "homepage": "https://github.com/jonschlinkert/repeat-element",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/repeat-element.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/repeat-element/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/repeat-element/blob/master/LICENSE"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "array",
+    "element",
+    "repeat",
+    "string"
+  ],
+  "devDependencies": {
+    "benchmarked": "^0.1.4",
+    "chalk": "^1.0.0",
+    "glob": "^5.0.5",
+    "minimist": "^1.1.1",
+    "mocha": "^2.2.4"
+  },
+  "gitHead": "7a6b21d58eafcc44fc8de133c70a8398ee9fdd8d",
+  "_id": "repeat-element@1.1.2",
+  "_shasum": "ef089a178d1483baae4d93eb98b4f9e4e11d990a",
+  "_from": "repeat-element@>=1.1.2 <2.0.0",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "ef089a178d1483baae4d93eb98b4f9e4e11d990a",
+    "tarball": "https://registry.npmjs.org/repeat-element/-/repeat-element-1.1.2.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/repeat-element/-/repeat-element-1.1.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Ãfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/findup-sync/node_modules/micromatch/node_modules/braces/node_modules/repeat-element/package.json;TTF:charsetI"
+utf-8;F:digest"%Ôµ7%×`lq1ö–…ÂñÚà?œà+dš\e×ô^:lengthi¬:dependencies_digest"%ÿÎ;¼úè¢aÿ¥¤qËU! ZÁüâCBSß:idI"Ee1845263bf6257be40d23e8db7b368fc9a59c4723aba5124204eebe6ede72402;F:
+mtimel+tÃ*X

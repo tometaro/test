@@ -1,0 +1,54 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/readable-stream/node_modules/process-nextick-args/package.json?type=application/json&id=48ed8245b315ebae1e26ba222d66ad8a014329d675eac98ee12bf5207daa9bd7:ET:load_pathI"app/assets/stylesheets;T:filenameI"¢app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/readable-stream/node_modules/process-nextick-args/package.json;T:	nameI"†icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/readable-stream/node_modules/process-nextick-args/package;T:logical_pathI"‹icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/readable-stream/node_modules/process-nextick-args/package.json;T:content_typeI"application/json;T:sourceI"×{
+  "name": "process-nextick-args",
+  "version": "1.0.7",
+  "description": "process.nextTick but always with args",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinmetcalf/process-nextick-args.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/process-nextick-args/issues"
+  },
+  "homepage": "https://github.com/calvinmetcalf/process-nextick-args",
+  "devDependencies": {
+    "tap": "~0.2.6"
+  },
+  "gitHead": "5c00899ab01dd32f93ad4b5743da33da91404f39",
+  "_id": "process-nextick-args@1.0.7",
+  "_shasum": "150e20b756590ad3f91093f25a4f2ad8bff30ba3",
+  "_from": "process-nextick-args@>=1.0.6 <1.1.0",
+  "_npmVersion": "3.8.6",
+  "_nodeVersion": "5.11.0",
+  "_npmUser": {
+    "name": "cwmma",
+    "email": "calvin.metcalf@gmail.com"
+  },
+  "dist": {
+    "shasum": "150e20b756590ad3f91093f25a4f2ad8bff30ba3",
+    "tarball": "https://registry.npmjs.org/process-nextick-args/-/process-nextick-args-1.0.7.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "cwmma",
+      "email": "calvin.metcalf@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/process-nextick-args-1.0.7.tgz_1462394251778_0.36989671061746776"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/process-nextick-args/-/process-nextick-args-1.0.7.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"°file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/readable-stream/node_modules/process-nextick-args/package.json;TTF:charsetI"
+utf-8;F:digest"%®À^Ý·¢ƒ€óoÞÖ2ïxò!ñûnÀi¹²ðû¨í:lengthi×:dependencies_digest"%ÿ7‚$‚ÀeEPèÓ&Ž˜¤Nä&Uã;±Ü~JŠúæì:idI"E48ed8245b315ebae1e26ba222d66ad8a014329d675eac98ee12bf5207daa9bd7;F:
+mtimel+Ä*X

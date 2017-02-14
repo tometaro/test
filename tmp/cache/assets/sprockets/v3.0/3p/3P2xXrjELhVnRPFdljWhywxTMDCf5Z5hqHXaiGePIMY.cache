@@ -1,0 +1,74 @@
+{:uriI"ífile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/svgpath/package.json?type=application/json&id=be76e39160bfe5eecb7e67584ef08ffd4ca23e20396be79b08a7e7f189531375:ET:load_pathI"app/assets/stylesheets;T:filenameI"Œapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/svgpath/package.json;T:	nameI"uicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/svgpath/package;T:logical_pathI"zicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/svgpath/package.json;T:content_typeI"application/json;T:sourceI"9{
+  "name": "svgpath",
+  "version": "2.2.0",
+  "description": "Low level toolkit for SVG paths transformations.",
+  "keywords": [
+    "svg",
+    "path",
+    "transform",
+    "scale",
+    "translate",
+    "rotate",
+    "matrix"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fontello/svgpath.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint && mocha",
+    "coverage": "rm -rf coverage && istanbul cover _mocha",
+    "report-coveralls": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "lib/"
+  ],
+  "devDependencies": {
+    "ansi": "^0.3.1",
+    "benchmark": "^2.1.1",
+    "coveralls": "^2.11.2",
+    "eslint": "^3.5.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.0.2"
+  },
+  "gitHead": "8de3794c5b9be85aaa9eb692c6835143cdde7d95",
+  "bugs": {
+    "url": "https://github.com/fontello/svgpath/issues"
+  },
+  "homepage": "https://github.com/fontello/svgpath#readme",
+  "_id": "svgpath@2.2.0",
+  "_shasum": "6bbe4c4cad9170e3f338cc746cc2e0c0fc7a5064",
+  "_from": "svgpath@>=2.1.5 <3.0.0",
+  "_npmVersion": "3.10.3",
+  "_nodeVersion": "6.5.0",
+  "_npmUser": {
+    "name": "vitaly",
+    "email": "vitaly@rcdesign.ru"
+  },
+  "maintainers": [
+    {
+      "name": "vitaly",
+      "email": "vitaly@rcdesign.ru"
+    }
+  ],
+  "dist": {
+    "shasum": "6bbe4c4cad9170e3f338cc746cc2e0c0fc7a5064",
+    "tarball": "https://registry.npmjs.org/svgpath/-/svgpath-2.2.0.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/svgpath-2.2.0.tgz_1473602050297_0.31714537227526307"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/svgpath/-/svgpath-2.2.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"šfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/svgpath/package.json;TTF:charsetI"
+utf-8;F:digest"%ø<A¬>ÎÛàøÉ#2}#\+½äÒyJ¡³ò)LŠ:lengthi9:dependencies_digest"%Î‰ylz+şhçtÕÊÒ‡úÌÆÍó^ 6Á9Œ6¬õ ¢:idI"Ebe76e39160bfe5eecb7e67584ef08ffd4ca23e20396be79b08a7e7f189531375;F:
+mtimel+Ä*X

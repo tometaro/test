@@ -1,0 +1,65 @@
+{:uriI"Êfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/package.json?type=application/json&id=25e8b5d63cb5300a4f4694611b7589b6f43b5e7ef95a60f0b2b16134bcb614a5:ET:load_pathI"app/assets/stylesheets;T:filenameI"napp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/package.json;T:	nameI"Ricon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/package;T:logical_pathI"Wicon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/package.json;T:content_typeI"application/json;T:sourceI"¨{
+  "name": "mkdirp",
+  "description": "Recursively mkdir, like `mkdir -p`",
+  "version": "0.5.1",
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "main": "index.js",
+  "keywords": [
+    "mkdir",
+    "directory"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/substack/node-mkdirp.git"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "dependencies": {
+    "minimist": "0.0.8"
+  },
+  "devDependencies": {
+    "tap": "1",
+    "mock-fs": "2 >=2.7.0"
+  },
+  "bin": {
+    "mkdirp": "bin/cmd.js"
+  },
+  "license": "MIT",
+  "gitHead": "d4eff0f06093aed4f387e88e9fc301cb76beedc7",
+  "bugs": {
+    "url": "https://github.com/substack/node-mkdirp/issues"
+  },
+  "homepage": "https://github.com/substack/node-mkdirp#readme",
+  "_id": "mkdirp@0.5.1",
+  "_shasum": "30057438eac6cf7f8c4767f38648d6697d75c903",
+  "_from": "mkdirp@>=0.5.0 <0.6.0",
+  "_npmVersion": "2.9.0",
+  "_nodeVersion": "2.0.0",
+  "_npmUser": {
+    "name": "substack",
+    "email": "substack@gmail.com"
+  },
+  "dist": {
+    "shasum": "30057438eac6cf7f8c4767f38648d6697d75c903",
+    "tarball": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "substack",
+      "email": "mail@substack.net"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/mkdirp/-/mkdirp-0.5.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"|file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/mkdirp/package.json;TTF:charsetI"
+utf-8;F:digest"%˜;É«‘\kOY¬µÐïØg¸e¦Ÿî”›Z‰õ:lengthi¨:dependencies_digest"%o}÷7ƒ %,kª£†©ÂMX–ÿPŠGŒûùrf#:idI"E25e8b5d63cb5300a4f4694611b7589b6f43b5e7ef95a60f0b2b16134bcb614a5;F:
+mtimel+rÃ*X

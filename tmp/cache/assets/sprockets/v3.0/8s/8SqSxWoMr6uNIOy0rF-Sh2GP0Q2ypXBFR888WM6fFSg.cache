@@ -1,0 +1,69 @@
+{:uriI"¾file://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/npm-which/package.json?type=application/json&id=4fe0d76d5a4c1a4bb049501a847600293cc1579dc9d39fed03402033a25a160c:ET:load_pathI"app/assets/stylesheets;T:filenameI"bapp/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/npm-which/package.json;T:	nameI"Ficon-font/node_modules/gulp-sketch/node_modules/npm-which/package;T:logical_pathI"Kicon-font/node_modules/gulp-sketch/node_modules/npm-which/package.json;T:content_typeI"application/json;T:sourceI"ÿ{
+  "name": "npm-which",
+  "version": "2.0.0",
+  "description": "Locate a program or locally installed node module's executable",
+  "main": "index.js",
+  "bin": {
+    "npm-which": "bin/npm-which.js"
+  },
+  "scripts": {
+    "test": "node test/index.js | tap-spec"
+  },
+  "author": {
+    "name": "Tim Oxley"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.2.0",
+    "npm-path": "^1.0.0",
+    "which": "^1.0.5"
+  },
+  "devDependencies": {
+    "tap-spec": "^2.1.0",
+    "tape": "^3.0.3"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timoxley/npm-which.git"
+  },
+  "keywords": [
+    "npm",
+    "path",
+    "executable",
+    "run"
+  ],
+  "bugs": {
+    "url": "https://github.com/timoxley/npm-which/issues"
+  },
+  "homepage": "https://github.com/timoxley/npm-which",
+  "gitHead": "d386f8761c36ed5fedc55a50e14d5599f4ae4395",
+  "_id": "npm-which@2.0.0",
+  "_shasum": "0c46982160b783093661d1d01bd4496d2feabbac",
+  "_from": "npm-which@>=2.0.0 <3.0.0",
+  "_npmVersion": "2.1.10",
+  "_nodeVersion": "0.10.33",
+  "_npmUser": {
+    "name": "timoxley",
+    "email": "secoif@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "timoxley",
+      "email": "secoif@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "0c46982160b783093661d1d01bd4496d2feabbac",
+    "tarball": "https://registry.npmjs.org/npm-which/-/npm-which-2.0.0.tgz"
+  },
+  "_resolved": "https://registry.npmjs.org/npm-which/-/npm-which-2.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"pfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/npm-which/package.json;TTF:charsetI"
+utf-8;F:digest"%Uºt²)ŒíöíÁä£úíæ›Œé'ñ`{âÔë3M:lengthiÿ:dependencies_digest"%#·*´‡âëæøH)Þð¨”ìäQò&^±õ¯â^‘>$â:idI"E4fe0d76d5a4c1a4bb049501a847600293cc1579dc9d39fed03402033a25a160c;F:
+mtimel+>Ä*X

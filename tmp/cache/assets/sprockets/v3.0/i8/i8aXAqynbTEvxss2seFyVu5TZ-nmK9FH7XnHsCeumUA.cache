@@ -1,0 +1,74 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/node_modules/argparse/node_modules/underscore/package.json?type=application/json&id=5ad86b325f3ce5b6301e4037f3f2e480f3d97f0afee9a0f6694b55076c4abc3f:ET:load_pathI"app/assets/stylesheets;T:filenameI"§app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/node_modules/argparse/node_modules/underscore/package.json;T:	nameI"‹icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/node_modules/argparse/node_modules/underscore/package;T:logical_pathI"icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/node_modules/argparse/node_modules/underscore/package.json;T:content_typeI"application/json;T:sourceI"f{
+  "name": "underscore",
+  "description": "JavaScript's functional programming helper library.",
+  "homepage": "http://underscorejs.org",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": {
+    "name": "Jeremy Ashkenas",
+    "email": "jeremy@documentcloud.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jashkenas/underscore.git"
+  },
+  "main": "underscore.js",
+  "version": "1.7.0",
+  "devDependencies": {
+    "docco": "0.6.x",
+    "phantomjs": "1.9.7-1",
+    "uglify-js": "2.4.x",
+    "eslint": "0.6.x"
+  },
+  "scripts": {
+    "test": "phantomjs test/vendor/runner.js test/index.html?noglobals=true && eslint underscore.js test/*.js test/vendor/runner.js",
+    "build": "uglifyjs underscore.js -c \"evaluate=false\" --comments \"/    .*/\" -m --source-map underscore-min.map -o underscore-min.js",
+    "doc": "docco underscore.js"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/jashkenas/underscore/master/LICENSE"
+    }
+  ],
+  "files": [
+    "underscore.js",
+    "underscore-min.js",
+    "LICENSE"
+  ],
+  "gitHead": "da996e665deb0b69b257e80e3e257c04fde4191c",
+  "bugs": {
+    "url": "https://github.com/jashkenas/underscore/issues"
+  },
+  "_id": "underscore@1.7.0",
+  "_shasum": "6bbaf0877500d36be34ecaa584e0db9fef035209",
+  "_from": "underscore@>=1.7.0 <1.8.0",
+  "_npmVersion": "1.4.24",
+  "_npmUser": {
+    "name": "jashkenas",
+    "email": "jashkenas@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jashkenas",
+      "email": "jashkenas@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "6bbaf0877500d36be34ecaa584e0db9fef035209",
+    "tarball": "https://registry.npmjs.org/underscore/-/underscore-1.7.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/underscore/-/underscore-1.7.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"µfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff/node_modules/ttf2woff/node_modules/argparse/node_modules/underscore/package.json;TTF:charsetI"
+utf-8;F:digest"%ªÖåj}„æ)r#F Óç,!ŠgX"c©rR°èrI@:lengthif:dependencies_digest"%-ØÌIrçLc5S·s^5ç]æà²×’%z%ÉHŠº×:idI"E5ad86b325f3ce5b6301e4037f3f2e480f3d97f0afee9a0f6694b55076c4abc3f;F:
+mtimel+Ä*X

@@ -1,0 +1,44 @@
+{:uriI"„file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/tests/expected/test-codepoints.json?type=application/json&id=afb1c3ea8502dd928c30c3fd5a79bb7b9348c9df13cf9fac6cf650bb89fdc12c:ET:load_pathI"app/assets/stylesheets;T:filenameI"Çapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/tests/expected/test-codepoints.json;T:	nameI"kicon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/tests/expected/test-codepoints;T:logical_pathI"picon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/tests/expected/test-codepoints.json;T:content_typeI"application/json;T:sourceI"J[{
+  "name":"account",
+  "unicode": ["\uE001"],
+  "color": "#F00"
+},{
+  "name":"arrow-down",
+  "unicode": ["\uE002"],
+   "color": "#0F0"
+},{
+  "name":"arrow-left",
+  "unicode": ["\uE003"]
+},{
+  "name":"arrow-right",
+  "unicode": ["\uE004"],
+  "color": "#0F0"
+},{
+  "name":"arrow-up",
+  "unicode": ["\uE005"]
+},{
+  "name":"basket",
+  "unicode": ["\uE006"]
+},{
+  "name":"close",
+  "unicode": ["\uE007"]
+},{
+  "name":"minus",
+  "unicode": ["\uE008"],
+  "color": "#0F0F0F"
+},{
+  "name":"plus",
+  "unicode": ["\uE009"]
+},{
+  "name":"search",
+  "unicode": ["\uE00A"],
+  "color": "#F7C9F8"
+}]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"êfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svgicons2svgfont/tests/expected/test-codepoints.json;TTF:charsetI"
+utf-8;F:digest"%#∑
+Ù‚ItÈh|R£úﬁ≤ˇXú∂
+∞†ò˛¥:lengthiJ:dependencies_digest"%F‚.éÂø¨«S_ÖÇR,‹Ç/ 
+èÍ8[(¨¡:pÓ:idI"Eafb1c3ea8502dd928c30c3fd5a79bb7b9348c9df13cf9fac6cf650bb89fdc12c;F:
+mtimel+BøV

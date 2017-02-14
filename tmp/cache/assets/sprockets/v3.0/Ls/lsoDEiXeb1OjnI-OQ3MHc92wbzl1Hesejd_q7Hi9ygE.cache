@@ -1,0 +1,103 @@
+{:uriI"Àfile://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/es6-promise/package.json?type=application/json&id=1fb9bc1eb38c8ca296fcf62e093ceb23f8e975b4faad838fe9d61567676768a9:ET:load_pathI"app/assets/stylesheets;T:filenameI"dapp/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/es6-promise/package.json;T:	nameI"Hicon-font/node_modules/gulp-sketch/node_modules/es6-promise/package;T:logical_pathI"Micon-font/node_modules/gulp-sketch/node_modules/es6-promise/package.json;T:content_typeI"application/json;T:sourceI"F{
+  "name": "es6-promise",
+  "namespace": "es6-promise",
+  "version": "3.3.1",
+  "description": "A lightweight library that provides tools for organizing asynchronous code",
+  "main": "dist/es6-promise.js",
+  "typings": "es6-promise.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "dist",
+    "lib",
+    "es6-promise.d.ts",
+    "!dist/test"
+  ],
+  "devDependencies": {
+    "broccoli-babel-transpiler": "^5.6.1",
+    "broccoli-concat": "^3.0.2",
+    "broccoli-merge-trees": "^1.1.1",
+    "broccoli-rollup": "^1.0.2",
+    "broccoli-stew": "^1.2.0",
+    "broccoli-uglify-js": "^0.2.0",
+    "broccoli-watchify": "v1.0.0",
+    "ember-cli": "^2.7.0",
+    "ember-cli-dependency-checker": "^1.3.0",
+    "ember-publisher": "0.0.7",
+    "git-repo-version": "0.4.0",
+    "json3": "^3.3.2",
+    "mocha": "^1.20.1",
+    "promises-aplus-tests-phantom": "^2.1.0-revise",
+    "release-it": "0.0.10"
+  },
+  "scripts": {
+    "build": "ember build --environment production",
+    "build:production": "ember build --env production",
+    "start": "ember s",
+    "test": "ember test",
+    "test:server": "ember test --server",
+    "test:node": "ember build && mocha ./dist/test/browserify",
+    "prepublish": "ember build --environment production",
+    "lint": "jshint lib",
+    "dry-run-release": "ember build --environment production && release-it --dry-run --non-interactive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stefanpenner/es6-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanpenner/es6-promise/issues"
+  },
+  "browser": {
+    "vertx": false
+  },
+  "keywords": [
+    "promises",
+    "futures"
+  ],
+  "author": {
+    "name": "Yehuda Katz, Tom Dale, Stefan Penner and contributors",
+    "url": "Conversion to ES6 API by Jake Archibald"
+  },
+  "license": "MIT",
+  "spm": {
+    "main": "dist/es6-promise.js"
+  },
+  "gitHead": "00ad48b202aab74683b440868c20ad12106d0437",
+  "homepage": "https://github.com/stefanpenner/es6-promise#readme",
+  "_id": "es6-promise@3.3.1",
+  "_shasum": "a08cdde84ccdbf34d027a1451bc91d4bcd28a613",
+  "_from": "es6-promise@>=3.1.2 <4.0.0",
+  "_npmVersion": "3.10.5",
+  "_nodeVersion": "6.3.0",
+  "_npmUser": {
+    "name": "stefanpenner",
+    "email": "stefan.penner@gmail.com"
+  },
+  "dist": {
+    "shasum": "a08cdde84ccdbf34d027a1451bc91d4bcd28a613",
+    "tarball": "https://registry.npmjs.org/es6-promise/-/es6-promise-3.3.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "jaffathecake",
+      "email": "jaffathecake@gmail.com"
+    },
+    {
+      "name": "stefanpenner",
+      "email": "stefan.penner@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/es6-promise-3.3.1.tgz_1473876184124_0.4918641895055771"
+  },
+  "_resolved": "https://registry.npmjs.org/es6-promise/-/es6-promise-3.3.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"rfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/es6-promise/package.json;TTF:charsetI"
+utf-8;F:digest"%©ö±äîÇyÝ*AS_ãñ÷í¿þ·[üKC·kL‚k¾u:lengthiF:dependencies_digest"%`×ÑFWD+ÛÿzÄžnÜ–¢åLÁÜÔ–D°É½:idI"E1fb9bc1eb38c8ca296fcf62e093ceb23f8e975b4faad838fe9d61567676768a9;F:
+mtimel+>Ä*X

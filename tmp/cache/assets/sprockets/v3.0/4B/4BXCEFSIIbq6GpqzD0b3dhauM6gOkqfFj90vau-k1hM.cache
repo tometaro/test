@@ -1,0 +1,87 @@
+{:uriI"½file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/plexer/package.json?type=application/json&id=21e71980d26ed146c0c19a07dc5d181d30dbde6fe4695d829d3845178928621e:ET:load_pathI"app/assets/stylesheets;T:filenameI"aapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/plexer/package.json;T:	nameI"Eicon-font/node_modules/gulp-iconfont/node_modules/plexer/package;T:logical_pathI"Jicon-font/node_modules/gulp-iconfont/node_modules/plexer/package.json;T:content_typeI"application/json;T:sourceI"u{
+  "name": "plexer",
+  "version": "1.0.1",
+  "description": "Streams2 duplexer.",
+  "homepage": "https://github.com/nfroidure/plexer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha tests/*.mocha.js",
+    "coveralls": "istanbul cover _mocha --report lcovonly -- tests/*.mocha.js -R spec -t 5000 && cat ./coverage/lcov.info | coveralls && rm -rf ./coverage",
+    "cover": "istanbul cover --report html _mocha -- tests/*.mocha.js -R spec -t 5000",
+    "lint": "eslint **/*.js",
+    "cli": "env NPM_RUN_CLI=1",
+    "prepublish": "npm test && npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nfroidure/plexer.git"
+  },
+  "keywords": [
+    "duplexer",
+    "streaming",
+    "stream2",
+    "stream",
+    "readable",
+    "writable",
+    "async",
+    "pipe"
+  ],
+  "devDependencies": {
+    "coveralls": "^2.11.4",
+    "eslint": "^1.3.1",
+    "eslint-config-simplifield": "^1.1.0",
+    "istanbul": "^0.3.19",
+    "mocha": "^2.3.1",
+    "mocha-lcov-reporter": "^0.0.2",
+    "streamtest": "^1.2.1"
+  },
+  "author": {
+    "name": "Nicolas Froidure",
+    "url": "http://www.insertafter.com/blog.html"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/nfroidure/plexer/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/nfroidure/plexer/issues"
+  },
+  "dependencies": {
+    "isstream": "^0.1.2",
+    "readable-stream": "^2.0.2"
+  },
+  "gitHead": "50bb4a32c3aced96348fc989ffd5d7041723319e",
+  "_id": "plexer@1.0.1",
+  "_shasum": "a801b652bf8145739795ea4d3bf0af946c30c0dd",
+  "_from": "plexer@>=1.0.1 <2.0.0",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "nfroidure",
+    "email": "nfroidure@elitwork.com"
+  },
+  "dist": {
+    "shasum": "a801b652bf8145739795ea4d3bf0af946c30c0dd",
+    "tarball": "https://registry.npmjs.org/plexer/-/plexer-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "nfroidure",
+      "email": "nfroidure@elitwork.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/plexer/-/plexer-1.0.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ofile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/plexer/package.json;TTF:charsetI"
+utf-8;F:digest"%tqcéäl€4^ô¥5s`Y;
+ß9©	‰ßÙl}cð§ÂO:lengthiu:dependencies_digest"%ºbÕèFSGr1|¦O^ý>!·àl¶â¼¶èPxV™:idI"E21e71980d26ed146c0c19a07dc5d181d30dbde6fe4695d829d3845178928621e;F:
+mtimel+Ä*X

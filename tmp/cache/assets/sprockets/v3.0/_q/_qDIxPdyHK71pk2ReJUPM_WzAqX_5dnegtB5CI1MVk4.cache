@@ -1,0 +1,77 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/trim-newlines/package.json?type=application/json&id=cf0acb788bbb4f6a010b40072b49fcf2c56c07b9c672350cea5a2bcb76b75e64:ET:load_pathI"app/assets/stylesheets;T:filenameI"¼app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/trim-newlines/package.json;T:	nameI" icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/trim-newlines/package;T:logical_pathI"¥icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/trim-newlines/package.json;T:content_typeI"application/json;T:sourceI"x{
+  "name": "trim-newlines",
+  "version": "1.0.0",
+  "description": "Trim newlines from the start and/or end of a string",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindresorhus/trim-newlines.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "trim",
+    "newline",
+    "newlines",
+    "linebreak",
+    "lf",
+    "crlf",
+    "left",
+    "right",
+    "start",
+    "end",
+    "string",
+    "str",
+    "remove",
+    "delete",
+    "strip"
+  ],
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  },
+  "gitHead": "f651a2d4cbf382c2936e6e53edee9316602e4ce7",
+  "bugs": {
+    "url": "https://github.com/sindresorhus/trim-newlines/issues"
+  },
+  "homepage": "https://github.com/sindresorhus/trim-newlines",
+  "_id": "trim-newlines@1.0.0",
+  "_shasum": "5887966bb582a4503a41eb524f7d35011815a613",
+  "_from": "trim-newlines@>=1.0.0 <2.0.0",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.1.1",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "5887966bb582a4503a41eb524f7d35011815a613",
+    "tarball": "https://registry.npmjs.org/trim-newlines/-/trim-newlines-1.0.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/trim-newlines/-/trim-newlines-1.0.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Êfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-spawn/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/trim-newlines/package.json;TTF:charsetI"
+utf-8;F:digest"%²Â}àÙL’ÃÉÑÔ8“Ëœ‘S©A¸¸ˆÒáôÁ2Â(:lengthix:dependencies_digest"%'¨ËÒ„Þ\ûÛe*€n_Ç&1pjßN'¼Làì:idI"Ecf0acb788bbb4f6a010b40072b49fcf2c56c07b9c672350cea5a2bcb76b75e64;F:
+mtimel+Ä*X

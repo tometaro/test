@@ -1,0 +1,73 @@
+{:uriI"Vfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/anyOf.json?type=application/json&id=527b99335279bedba7657666e11b234fb1026062423662df46f138815690535f:ET:load_pathI"app/assets/stylesheets;T:filenameI"ıapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/anyOf.json;T:	nameI"Ÿicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/anyOf;T:logical_pathI"ﬁicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/anyOf.json;T:content_typeI"application/json;T:sourceI"H[
+    {
+        "description": "anyOf",
+        "schema": {
+            "anyOf": [
+                {
+                    "type": "integer"
+                },
+                {
+                    "minimum": 2
+                }
+            ]
+        },
+        "tests": [
+            {
+                "description": "first anyOf valid",
+                "data": 1,
+                "valid": true
+            },
+            {
+                "description": "second anyOf valid",
+                "data": 2.5,
+                "valid": true
+            },
+            {
+                "description": "both anyOf valid",
+                "data": 3,
+                "valid": true
+            },
+            {
+                "description": "neither anyOf valid",
+                "data": 1.5,
+                "valid": false
+            }
+        ]
+    },
+    {
+        "description": "anyOf with base schema",
+        "schema": {
+            "type": "string",
+            "anyOf" : [
+                {
+                    "maxLength": 2
+                },
+                {
+                    "minLength": 4
+                }
+            ]
+        },
+        "tests": [
+            {
+                "description": "mismatch base schema",
+                "data": 3,
+                "valid": false
+            },
+            {
+                "description": "one anyOf valid",
+                "data": "foobar",
+                "valid": true
+            },
+            {
+                "description": "both anyOf invalid",
+                "data": "foo",
+                "valid": false
+            }
+        ]
+    }
+]
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/is-my-json-valid/test/json-schema-draft4/anyOf.json;TTF:charsetI"
+utf-8;F:digest"%–—$‡·JB{àe“.ª§s)Ï∆¿ÒQäìÍÜò	£:lengthiH:dependencies_digest"%°ÀxΩ ˙WÅ≤ó≥c(<¨¯ÿßﬁ»≠π‚5¡:idI"E527b99335279bedba7657666e11b234fb1026062423662df46f138815690535f;F:
+mtimel+ïyU

@@ -1,0 +1,72 @@
+{:uriI"Ðfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/has-gulplog/package.json?type=application/json&id=8d33536ae8b84328970a4424c8df9eea4c30fa46db12840334a9648b1b50f2b3:ET:load_pathI"app/assets/stylesheets;T:filenameI"tapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/has-gulplog/package.json;T:	nameI"Xicon-font/node_modules/gulp/node_modules/gulp-util/node_modules/has-gulplog/package;T:logical_pathI"]icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/has-gulplog/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "has-gulplog",
+  "version": "0.1.0",
+  "description": "Check if gulplog is available before attempting to use it",
+  "author": {
+    "name": "Blaine Bublitz",
+    "email": "blaine@iceddev.com",
+    "url": "http://iceddev.com"
+  },
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gulpjs/has-gulplog.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "eslint *.js"
+  },
+  "dependencies": {
+    "sparkles": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^1.3.1"
+  },
+  "keywords": [
+    "gulp-util",
+    "gulplog",
+    "logging"
+  ],
+  "gitHead": "16ef7af9911ec91838b2762bf1ba38b4578e6f6f",
+  "bugs": {
+    "url": "https://github.com/gulpjs/has-gulplog/issues"
+  },
+  "homepage": "https://github.com/gulpjs/has-gulplog#readme",
+  "_id": "has-gulplog@0.1.0",
+  "_shasum": "6414c82913697da51590397dafb12f22967811ce",
+  "_from": "has-gulplog@>=0.1.0 <0.2.0",
+  "_npmVersion": "2.8.3",
+  "_nodeVersion": "0.10.36",
+  "_npmUser": {
+    "name": "phated",
+    "email": "blaine@iceddev.com"
+  },
+  "maintainers": [
+    {
+      "name": "phated",
+      "email": "blaine@iceddev.com"
+    }
+  ],
+  "dist": {
+    "shasum": "6414c82913697da51590397dafb12f22967811ce",
+    "tarball": "https://registry.npmjs.org/has-gulplog/-/has-gulplog-0.1.0.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/has-gulplog/-/has-gulplog-0.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"}file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/gulp-util/node_modules/has-gulplog/package.json;TTF:charsetI"
+utf-8;F:digest"%L2ªáyâ~gÈzŒÇã‘
+r8ã
+‹%bÿ­Ÿ1½:lengthi:dependencies_digest"%;AÞ&6T÷·äöèÃ…DÿêïÅe¬/ðÈO+ìó;¢h:idI"E8d33536ae8b84328970a4424c8df9eea4c30fa46db12840334a9648b1b50f2b3;F:
+mtimel+pÃ*X

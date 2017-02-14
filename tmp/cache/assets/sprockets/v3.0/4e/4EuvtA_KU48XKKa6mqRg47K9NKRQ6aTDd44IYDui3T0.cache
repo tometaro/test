@@ -1,0 +1,85 @@
+{:uriI"Nfile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/package.json?type=application/json&id=56dbfaba170b3a5986c727f7c921cecb781da87823cba6a91f44172315d161f5:ET:load_pathI"app/assets/stylesheets;T:filenameI"íapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/package.json;T:	nameI"Ñicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/package;T:logical_pathI"Öicon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/package.json;T:content_typeI"application/json;T:sourceI"0{
+  "name": "ansi-styles",
+  "version": "2.2.1",
+  "description": "ANSI escape codes for styling strings in the terminal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chalk/ansi-styles.git"
+  },
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "maintainers": [
+    {
+      "name": "sindresorhus",
+      "email": "sindresorhus@gmail.com"
+    }
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "ansi",
+    "styles",
+    "color",
+    "colour",
+    "colors",
+    "terminal",
+    "console",
+    "cli",
+    "string",
+    "tty",
+    "escape",
+    "formatting",
+    "rgb",
+    "256",
+    "shell",
+    "xterm",
+    "log",
+    "logging",
+    "command-line",
+    "text"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "gitHead": "95c59b23be760108b6530ca1c89477c21b258032",
+  "bugs": {
+    "url": "https://github.com/chalk/ansi-styles/issues"
+  },
+  "homepage": "https://github.com/chalk/ansi-styles#readme",
+  "_id": "ansi-styles@2.2.1",
+  "_shasum": "b432dd3358b634cf75e1e4664368240533c1ddbe",
+  "_from": "ansi-styles@>=2.2.1 <3.0.0",
+  "_npmVersion": "3.8.3",
+  "_nodeVersion": "4.3.0",
+  "_npmUser": {
+    "name": "sindresorhus",
+    "email": "sindresorhus@gmail.com"
+  },
+  "dist": {
+    "shasum": "b432dd3358b634cf75e1e4664368240533c1ddbe",
+    "tarball": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/ansi-styles-2.2.1.tgz_1459197317833_0.9694824463222176"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/ansi-styles/-/ansi-styles-2.2.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"ûfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-ttf2woff2/node_modules/ttf2woff2/node_modules/node-gyp/node_modules/request/node_modules/har-validator/node_modules/chalk/node_modules/ansi-styles/package.json;TTF:charsetI"
+utf-8;F:digest"%ªäB¹$rÎôe	…ÛÐöÐQur:_‰22Š¯tá:lengthi0:dependencies_digest"%e£	£*˜FqnÇÄ©_+vJ€OÆ_Ë†QÕ:idI"E56dbfaba170b3a5986c727f7c921cecb781da87823cba6a91f44172315d161f5;F:
+mtimel+Ä*X

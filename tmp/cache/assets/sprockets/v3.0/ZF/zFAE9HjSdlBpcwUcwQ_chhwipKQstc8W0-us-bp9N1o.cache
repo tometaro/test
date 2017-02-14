@@ -1,0 +1,80 @@
+{:uriI"ßfile://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/package.json?type=application/json&id=d142cd9bc691a48b81c0c5775df4dd9f84e04dac465e0ca94d1b11b8fcac2b53:ET:load_pathI"app/assets/stylesheets;T:filenameI"Kapp/assets/stylesheets/icon-font/node_modules/gulp-sketch/package.json;T:	nameI"/icon-font/node_modules/gulp-sketch/package;T:logical_pathI"4icon-font/node_modules/gulp-sketch/package.json;T:content_typeI"application/json;T:sourceI"æ{
+  "name": "gulp-sketch",
+  "description": "SketchTool plugin for gulp",
+  "version": "1.0.3",
+  "homepage": "https://github.com/cognitom/gulp-sketch",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cognitom/gulp-sketch.git"
+  },
+  "author": {
+    "name": "Tsutomu Kawamura",
+    "url": "http://librize.com/"
+  },
+  "main": "index.js",
+  "keywords": [
+    "gulpplugin",
+    "sketch"
+  ],
+  "dependencies": {
+    "clean-sketch": "^1.0.1",
+    "es6-promise": "^3.1.2",
+    "gulp-util": "^3.0.7",
+    "npm-which": "^2.0.0",
+    "recursive-readdir": "^1.3.0",
+    "rimraf": "^2.4.3",
+    "temporary": "0.0.8",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "coffee-script": "^1.10.0",
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "mocha": "^2.3.3",
+    "should": "^7.1.1"
+  },
+  "scripts": {
+    "install-sketchtool": "sudo sh ./install-sketchtool.sh",
+    "prepublish": "gulp",
+    "test": "mocha --compilers coffee:coffee-script --require coffee-script/register -R spec"
+  },
+  "license": "MIT",
+  "gitHead": "c914977a2d1ab9b2cf677b0b2cd8920c41489c2b",
+  "bugs": {
+    "url": "https://github.com/cognitom/gulp-sketch/issues"
+  },
+  "_id": "gulp-sketch@1.0.3",
+  "_shasum": "1b180941d4a719aae5f08ccbb323f948d148efbf",
+  "_from": "gulp-sketch@latest",
+  "_npmVersion": "3.5.2",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "name": "cognitom",
+    "email": "kawamura@cognitom.com"
+  },
+  "dist": {
+    "shasum": "1b180941d4a719aae5f08ccbb323f948d148efbf",
+    "tarball": "https://registry.npmjs.org/gulp-sketch/-/gulp-sketch-1.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "cognitom",
+      "email": "cognitom@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-5-east.internal.npmjs.com",
+    "tmp": "tmp/gulp-sketch-1.0.3.tgz_1456573892456_0.08714282745495439"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/gulp-sketch/-/gulp-sketch-1.0.3.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"Yfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/package.json;TTF:charsetI"
+utf-8;F:digest"%*åçMf\π*Z’êqg‚∏z
+j≥˘OH
+jö:lengthiæ:dependencies_digest"%y ±2ˇ˝V∫”ÊiÆ˚
+jÆìK®dû˛Aoj˜^!^:idI"Ed142cd9bc691a48b81c0c5775df4dd9f84e04dac465e0ca94d1b11b8fcac2b53;F:
+mtimel+=ƒ*X

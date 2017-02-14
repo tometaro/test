@@ -1,0 +1,15 @@
+{:uriI"Ófile://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/xmldom/component.json?type=application/json&id=442108f37c973ca68b93ed36c2d11fbfeee1e572030dbb04ffb6fa911d019341:ET:load_pathI"app/assets/stylesheets;T:filenameI"çapp/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/xmldom/component.json;T:	nameI"vicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/xmldom/component;T:logical_pathI"{icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/xmldom/component.json;T:content_typeI"application/json;T:sourceI"é{
+  "name": "xmldom",
+  "version": "0.1.15",
+  "main": "dom-parser.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"õfile-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/xmldom/component.json;TTF:charsetI"
+utf-8;F:digest"%‚Ω_^Ûœ±]d ¯©Z1Æã∫`œñæ%!/±h&˘LS:lengthié:dependencies_digest"%P1Í˚æñﬁÓ_’˝‰¥Ç…ÎWΩx?a	1\ ?§:idI"E442108f37c973ca68b93ed36c2d11fbfeee1e572030dbb04ffb6fa911d019341;F:
+mtimel+ˇÌùV

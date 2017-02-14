@@ -1,0 +1,97 @@
+{:uriI"ûfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/map-cache/package.json?type=application/json&id=430bfe445f4d92f74ce2f4f1973ae1448a12d9aac15390a713321c9b52ec1b12:ET:load_pathI"app/assets/stylesheets;T:filenameI"šapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/map-cache/package.json;T:	nameI"~icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/map-cache/package;T:logical_pathI"ƒicon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/map-cache/package.json;T:content_typeI"application/json;T:sourceI"÷{
+  "name": "map-cache",
+  "description": "Basic cache object for storing key-value pairs.",
+  "version": "0.2.2",
+  "homepage": "https://github.com/jonschlinkert/map-cache",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonschlinkert/map-cache.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/map-cache/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.9",
+    "should": "^8.3.1"
+  },
+  "keywords": [
+    "cache",
+    "get",
+    "has",
+    "object",
+    "set",
+    "storage",
+    "store"
+  ],
+  "verb": {
+    "run": true,
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": [
+        "config-cache",
+        "option-cache",
+        "cache-base"
+      ]
+    },
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "gitHead": "f36c7567cb85b50824db25a2a588c5f7b858823b",
+  "_id": "map-cache@0.2.2",
+  "_shasum": "c32abd0bd6525d9b051645bb4f26ac5dc98a0dbf",
+  "_from": "map-cache@>=0.2.0 <0.3.0",
+  "_npmVersion": "3.6.0",
+  "_nodeVersion": "5.5.0",
+  "_npmUser": {
+    "name": "jonschlinkert",
+    "email": "github@sellside.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonschlinkert",
+      "email": "github@sellside.com"
+    }
+  ],
+  "dist": {
+    "shasum": "c32abd0bd6525d9b051645bb4f26ac5dc98a0dbf",
+    "tarball": "https://registry.npmjs.org/map-cache/-/map-cache-0.2.2.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/map-cache-0.2.2.tgz_1462877475232_0.17523240111768246"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/map-cache/-/map-cache-0.2.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¨file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/fined/node_modules/parse-filepath/node_modules/map-cache/package.json;TTF:charsetI"
+utf-8;F:digest"%¶Äƒ‚´xS—J:HQ¨&IÎåzOm%Ê¹Þd7ÅDƒ:lengthi÷:dependencies_digest"%kSÙsÿó·Ðýe}û=ÕˆØ><e»ãtùg<þË:idI"E430bfe445f4d92f74ce2f4f1973ae1448a12d9aac15390a713321c9b52ec1b12;F:
+mtimel+rÃ*X

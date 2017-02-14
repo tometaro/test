@@ -1,0 +1,93 @@
+{:uriI"ÿfile://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/package.json?type=application/json&id=e8a3a82ec87d4daf1c6f26d52aad6dedbef46b80fdaf842bd6bfc41db27afbd4:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/package.json;T:	nameI"‚icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/package;T:logical_pathI"‡icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/package.json;T:content_typeI"application/json;T:sourceI"%	{
+  "name": "lodash._isiterateecall",
+  "version": "3.0.9",
+  "description": "The modern build of lodashâ€™s internal `isIterateeCall` as a module.",
+  "homepage": "https://lodash.com/",
+  "icon": "https://lodash.com/icon.svg",
+  "license": "MIT",
+  "author": {
+    "name": "John-David Dalton",
+    "email": "john.david.dalton@gmail.com",
+    "url": "http://allyoucanleet.com/"
+  },
+  "contributors": [
+    {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    {
+      "name": "Benjamin Tan",
+      "email": "demoneaux@gmail.com",
+      "url": "https://d10.github.io/"
+    },
+    {
+      "name": "Blaine Bublitz",
+      "email": "blaine@iceddev.com",
+      "url": "http://www.iceddev.com/"
+    },
+    {
+      "name": "Kit Cambridge",
+      "email": "github@kitcambridge.be",
+      "url": "http://kitcambridge.be/"
+    },
+    {
+      "name": "Mathias Bynens",
+      "email": "mathias@qiwi.be",
+      "url": "https://mathiasbynens.be/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lodash/lodash.git"
+  },
+  "scripts": {
+    "test": "echo \"See https://travis-ci.org/lodash/lodash-cli for testing details.\""
+  },
+  "bugs": {
+    "url": "https://github.com/lodash/lodash/issues"
+  },
+  "_id": "lodash._isiterateecall@3.0.9",
+  "_shasum": "5203ad7ba425fae842460e696db9cf3e6aac057c",
+  "_from": "lodash._isiterateecall@>=3.0.0 <4.0.0",
+  "_npmVersion": "2.10.1",
+  "_nodeVersion": "2.0.2",
+  "_npmUser": {
+    "name": "jdalton",
+    "email": "john.david.dalton@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jdalton",
+      "email": "john.david.dalton@gmail.com"
+    },
+    {
+      "name": "d10",
+      "email": "demoneaux@gmail.com"
+    },
+    {
+      "name": "kitcambridge",
+      "email": "github@kitcambridge.be"
+    },
+    {
+      "name": "mathias",
+      "email": "mathias@qiwi.be"
+    },
+    {
+      "name": "phated",
+      "email": "blaine@iceddev.com"
+    }
+  ],
+  "dist": {
+    "shasum": "5203ad7ba425fae842460e696db9cf3e6aac057c",
+    "tarball": "https://registry.npmjs.org/lodash._isiterateecall/-/lodash._isiterateecall-3.0.9.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/lodash._isiterateecall/-/lodash._isiterateecall-3.0.9.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"¬file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-sketch/node_modules/gulp-util/node_modules/lodash.template/node_modules/lodash._isiterateecall/package.json;TTF:charsetI"
+utf-8;F:digest"%(í(@|s·†›³>øÓ§ø`¶¯elØõ“6IÍQEãó:lengthi%	:dependencies_digest"%Ğl›6&tıüÌøí/Æ‚òõ€ä³zÀnÏæéîä\:idI"Ee8a3a82ec87d4daf1c6f26d52aad6dedbef46b80fdaf842bd6bfc41db27afbd4;F:
+mtimel+?Ä*X

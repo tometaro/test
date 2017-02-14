@@ -1,0 +1,77 @@
+{:uriI"Òfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/package.json?type=application/json&id=e13138f882bd2bf45322980499f604a4e65db6906bb37c22e4e7b580e89725b4:ET:load_pathI"app/assets/stylesheets;T:filenameI"vapp/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/package.json;T:	nameI"Zicon-font/node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/package;T:logical_pathI"_icon-font/node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/package.json;T:content_typeI"application/json;T:sourceI"{
+  "name": "flagged-respawn",
+  "description": "A tool for respawning node binaries when special flags are present.",
+  "version": "0.3.2",
+  "homepage": "https://github.com/js-cli/js-flagged-respawn",
+  "author": {
+    "name": "Tyler Kellen",
+    "url": "http://goingslowly.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/js-cli/js-flagged-respawn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/js-cli/js-flagged-respawn/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/js-cli/js-flagged-respawn/blob/master/LICENSE"
+    }
+  ],
+  "scripts": {
+    "respawn": "node test/bin/respawner --harmony test",
+    "nospawn": "node test/bin/respawner test",
+    "test": "mocha -R spec test"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "respawn flags"
+  ],
+  "devDependencies": {
+    "chai": "~1.9.1",
+    "mocha": "~1.21.4",
+    "v8flags": "~1.0.1"
+  },
+  "gitHead": "5467529adb5512292c8dd341691ba75b2293ed7e",
+  "_id": "flagged-respawn@0.3.2",
+  "_shasum": "ff191eddcd7088a675b2610fffc976be9b8074b5",
+  "_from": "flagged-respawn@>=0.3.2 <0.4.0",
+  "_npmVersion": "2.14.9",
+  "_nodeVersion": "0.12.12",
+  "_npmUser": {
+    "name": "tusbar",
+    "email": "b@pk.am"
+  },
+  "maintainers": [
+    {
+      "name": "tkellen",
+      "email": "tyler@sleekcode.net"
+    },
+    {
+      "name": "tusbar",
+      "email": "b@pk.am"
+    }
+  ],
+  "dist": {
+    "shasum": "ff191eddcd7088a675b2610fffc976be9b8074b5",
+    "tarball": "https://registry.npmjs.org/flagged-respawn/-/flagged-respawn-0.3.2.tgz"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/flagged-respawn-0.3.2.tgz_1458638775261_0.252670707879588"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/flagged-respawn/-/flagged-respawn-0.3.2.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/liftoff/node_modules/flagged-respawn/package.json;TTF:charsetI"
+utf-8;F:digest"%ðdë[ñ|«¡|@%=BImHKU¿…~NyKÍ©i†ˆ±ýë:lengthi:dependencies_digest"%ÂÐ¢“‚ø´wi/¤¿fø·þT
+j4ÔëuMvZž_lÍ:idI"Ee13138f882bd2bf45322980499f604a4e65db6906bb37c22e4e7b580e89725b4;F:
+mtimel+qÃ*X

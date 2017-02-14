@@ -1,0 +1,19 @@
+{:uriI"file://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/bower.json?type=application/json&id=e6a289bb431bd6b82cd343a3d555b3f77858734a0e892e015a44b051c766c531:ET:load_pathI"app/assets/stylesheets;T:filenameI"£app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/bower.json;T:	nameI"áicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/bower;T:logical_pathI"åicon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/bower.json;T:content_typeI"application/json;T:sourceI"∑{
+  "name": "sprintf",
+  "description": "JavaScript sprintf implementation",
+  "version": "1.0.3",
+  "main": "src/sprintf.js",
+  "license": "BSD-3-Clause-Clear",
+  "keywords": ["sprintf", "string", "formatting"],
+  "authors": ["Alexandru Marasteanu <hello@alexei.ro> (http://alexei.ro/)"],
+  "homepage": "https://github.com/alexei/sprintf.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexei/sprintf.js.git"
+  }
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"±file-digest://app/assets/stylesheets/icon-font/node_modules/gulp-iconfont/node_modules/gulp-svg2ttf/node_modules/svg2ttf/node_modules/argparse/node_modules/sprintf-js/bower.json;TTF:charsetI"
+utf-8;F:digest"%ã>íˆ˛6é¡UGÙ	Ô¸Ü›ì5	‡Ê˝IZ∂ÄõºÉ:lengthi∑:dependencies_digest"%UÒb¬Yº:Ò¸Ñˇ3ÏÂTØÛ†:‹æ1BRΩ‚[êº:idI"Ee6a289bb431bd6b82cd343a3d555b3f77858734a0e892e015a44b051c766c531;F:
+mtimel+∑…üU

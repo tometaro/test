@@ -1,0 +1,57 @@
+{:uriI"þfile://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/node_modules/find-index/package.json?type=application/json&id=a8eab7f77493690c089cebed28a6f1356599a21cc333bb4b9469e1547f0297a5:ET:load_pathI"app/assets/stylesheets;T:filenameI"app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/node_modules/find-index/package.json;T:	nameI"icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/node_modules/find-index/package;T:logical_pathI"†icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/node_modules/find-index/package.json;T:content_typeI"application/json;T:sourceI"ó{
+  "name": "find-index",
+  "version": "0.1.1",
+  "description": "finds an item in an array matching a predicate function, and returns its index",
+  "main": "index.js",
+  "keywords": [
+    "array",
+    "findindex"
+  ],
+  "files": [
+    "index.js",
+    "last.js"
+  ],
+  "scripts": {
+    "test": "node test/test"
+  },
+  "homepage": "https://github.com/jsdf/find-index",
+  "bugs": {
+    "url": "https://github.com/jsdf/find-index/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jsdf/find-index.git"
+  },
+  "author": {
+    "name": "James Friend",
+    "email": "james@jsdf.co",
+    "url": "http://jsdf.co/"
+  },
+  "license": "MIT",
+  "_id": "find-index@0.1.1",
+  "dist": {
+    "shasum": "675d358b2ca3892d795a1ab47232f8b6e2e0dde4",
+    "tarball": "https://registry.npmjs.org/find-index/-/find-index-0.1.1.tgz"
+  },
+  "_from": "find-index@>=0.1.1 <0.2.0",
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "jsdf",
+    "email": "james@jsdf.co"
+  },
+  "maintainers": [
+    {
+      "name": "jsdf",
+      "email": "james@jsdf.co"
+    }
+  ],
+  "directories": {},
+  "_shasum": "675d358b2ca3892d795a1ab47232f8b6e2e0dde4",
+  "_resolved": "https://registry.npmjs.org/find-index/-/find-index-0.1.1.tgz",
+  "readme": "ERROR: No README data found!"
+}
+;T:metadata{	:dependencieso:Set:
+@hash}
+I"environment-version;TTI"environment-paths;TTI"rails-env;TTI"@processors:type=application/json&file_type=application/json;TTI"«file-digest://app/assets/stylesheets/icon-font/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-stream/node_modules/glob2base/node_modules/find-index/package.json;TTF:charsetI"
+utf-8;F:digest"%wð¼­hl×µ ëšYèM–à—öüÿ)8–ÏOì:lengthió:dependencies_digest"%àzDú¡Ç›„D|ŒCdó¢º/(WÁ´-0 Äd©ÍÚI©:idI"Ea8eab7f77493690c089cebed28a6f1356599a21cc333bb4b9469e1547f0297a5;F:
+mtimel+rÃ*X
