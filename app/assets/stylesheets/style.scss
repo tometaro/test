@@ -15,22 +15,25 @@ body {
     font-size: 28px;
     margin-bottom: 60px;
     text-align: center;
-    color: $White;
+    color: $darkGray;
 
   }
 
   p,li,dt,dd,a {
     font-size: 14px;
-    color: $White;
+    color: $darkGray;
   }
   a {
     text-decoration: none;
   }
 }
-
+@import "component/SiteHeader";
+@import "component/SiteNavi";
+@import "component/hero";
 @import "component/section";
 @import "component/articleList";
 @import "component/tab";
 @import "component/header";
+@import "component/footer";
 @import "icon-font/dist/css/symbols.css";
 @import "component/accordion";

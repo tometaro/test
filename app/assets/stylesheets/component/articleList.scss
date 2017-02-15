@@ -7,6 +7,19 @@
   border: 0;
   box-sizing: border-box;
 
+  &__image {
+    background-image: url("https://demo.gavick.com/wordpress/portfolio/wp-content/uploads/2014/07/img8.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    left: 0;
+    top: 0;
+    height:200px;
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+
+  }
+
   li {
     display: inline-block;
     position: relative;
@@ -19,7 +32,10 @@
     background: 0 0;
     border-radius: 5px;
     z-index: 0;
-    background :$BlueGrey-600;
+    background :$white;
+    border: 1px solid #ddd;
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,0.1);
+
   }
 
   header {

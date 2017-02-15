@@ -1,0 +1,21 @@
+.footer {
+  padding: 20px;
+  background-color: $BlueGrey-800;
+  overflow: hidden;
+  color: $white;
+
+  a {
+    color: $white;
+  }
+
+  &__logo {
+    float: left;
+  }
+  &__list {
+    float: right;
+      li{
+      display: inline-block;
+      padding-left: 20px;
+    }
+  }
+}

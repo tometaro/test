@@ -1,4 +1,23 @@
 $(function(){
+
+  $(window).scroll(function() {
+                if ($(window).scrollTop() > 100) {
+                    $('.SiteHeader').addClass('SiteHeader-bg');
+                } else {
+                    $('.SiteHeader').removeClass('SiteHeader-bg');
+                }
+            });
+
+            $('.SiteNavi-toggle').on("click", function() {
+                $('.SiteHeader').toggleClass('SiteNavi-open');
+                return false;
+            });
+
+            $(".SiteNavi-shadow").click(function() {
+                $('.SiteHeader').removeClass('SiteNavi-open');
+                return false;
+            });
+
  //  背景色
  //  $('.section:odd').css('background-color','#eee');
 

@@ -1,9 +1,9 @@
 .section {
-  background-color: $BlueGrey-800;
+  background-color: $whiteGray;
   padding: 100px 0;
 
   &:nth-child(even){
-    background-color:$BlueGrey-700;
+    background-color: $white;
   }
 
   &__inner {
