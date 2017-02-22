@@ -1,12 +1,12 @@
-.section {
-  background-color: $whiteGray;
+.Section {
+  background-color: $WhiteGray;
   padding: 100px 0;
 
   &:nth-child(even){
-    background-color: $white;
+    background-color: $White;
   }
 
-  &__inner {
+  &__Inner {
     margin: 0 auto;
     width: 1000px;
   }

@@ -6,21 +6,21 @@
   script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"
 
 body
-  header.SiteHeader
-        .SiteHeader-inner
-            .SiteHeader-logo
+  header.Header
+        .Header__Inner
+            .Header__Logo
               a href="index.html"
-                p.SiteHeader-logokuroshiba
-                  img src="img/logo-kuroshiba.svg"
+                p.Header__Logokuroshiba
+                  img src="◊"
                 h1 text
 
-            .SiteNavi-toggle
+            .Navi__Toggle
               span
               span
               span
 
-            nav.SiteNavi
-                .SiteNavi-inner
+            nav.Navi
+                .Navi__Inner
                     ul
                         li
                           a href=""
@@ -38,35 +38,31 @@ body
                           a href=""
                           |テキスト
 
-                div.SiteNavi-shadow
-
-
-  section.hero
-      div.hero-wrapper
-          div.hero-visual
+                div.Navi__Shadow
+  section.Hero
+      div.Hero__Wrapper
+          div.Hero__Visual
               img src="img/kuroshiba.svg"
-          div.hero-title
+          div.Hero__Title
               h1 text
               p text
-
-  .container
-
-    section.section
+  .Container
+    section.Section
       h2
         i.s.s-glyph01
         | からむ
 
-      ul.articleList
+      ul.ArticleList
         li.
           article
-            .articleList__image
+            .ArticleList__Image
             header
               h1 テキスト
               p
                 | テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
         li.
           article
-            .articleList__image
+            .ArticleList__Image
             header
               h1
                 a href="/hoge"
@@ -76,7 +72,7 @@ body
                   | テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
         li.
           article
-            .articleList__image
+            .ArticleList__Image
             header
               h1
                 a href=""
@@ -84,12 +80,50 @@ body
               p
                 a href=""
                   | テキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキストテキスト
+    section.Section
+      .Section__Inner
+        h2
+          i.s.s-glyph01
+          | あこーでぃおん
+        dl.Accordion
+          dt
+            |アコーディオンメニュー1
+          dd
+            |アコーディオンメニューが開く。
+          dt
+            |アコーディオンメニュー2
+          dd
+            |アコーディオンメニューが開く。
+          dt
+            |アコーディオンメニュー3
+          dd
+            |アコーディオンメニューが開く。
+    section.Section
+      .Section__Inner
+        h2
+          i.s.s-glyph01
+          | たぶ
+      .Tab
+        ul.Tab__Menu
+          li.Tab__Btn.Tab__Btn--Active
+            |NEWS
+          li.Tab__Btn
+            |INFO
+          li.Tab__Btn
+            |INFO
+        ul.Tab__Content
+          li.Tab__Inner.Tab__Inner--Active
+            |Lorem
+          li.Tab__Inner
+            |aaaa
+          li.Tab__Inner
+            |eee€
 
 
-  footer.footer
-    .footer__logo
+  footer.Footer
+    .Footer__Logo
       |logologo
-    ul.footer__list
+    ul.Footer__List
       li
         a href="/"
           | テキスト

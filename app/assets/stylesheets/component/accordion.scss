@@ -1,19 +1,19 @@
-.accordion {
+.Accordion {
     dt,dd {
         height:50px;
         line-height:50px;
         text-align:center;
-        border-bottom: $BlueGrey-700 1px solid;
+        border-bottom: $White 1px solid;
     }
 
     dt {
         display:block;
-        background: $BlueGrey-600;
+        background: $WhiteGray;
         cursor:pointer;
     }
 
     dd  {
-        background: $BlueGrey-500;
+        background: #ddd;
         display:none;
 
     }

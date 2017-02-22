@@ -1,17 +1,17 @@
-.footer {
+.Footer {
   padding: 20px;
   background-color: $BlueGrey-800;
   overflow: hidden;
-  color: $white;
+  color: $White;
 
   a {
-    color: $white;
+    color: $White;
   }
 
-  &__logo {
+  &__Logo {
     float: left;
   }
-  &__list {
+  &__List {
     float: right;
       li{
       display: inline-block;

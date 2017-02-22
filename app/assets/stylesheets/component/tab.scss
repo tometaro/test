@@ -1,56 +1,60 @@
-.tab-selector {
-    padding: 0px;
-    list-style: none;
-    z-index: 1;
-    position: relative;
+.Tab {
+  width: 1000px;
+  margin: 0 auto;
 
+  &__Menu {
+    overflow: hidden;
+  }
 
-    li  {
-        padding: 10px;
-        border-radius: 5px 5px 0px 0px;
-        text-align: center;
-        width : calc(100% / 3) ;
-        box-sizing: border-box;
-        display: inline-block;
-        cursor: pointer;
+  &__Btn {
+    float: left;
+    width: 33.333%;
+    height: 50px;
+    line-height: 50px;
+    cursor: pointer;
+    text-align: center;
+    background: $White;
+    box-sizing: border-box;
+    border-right: #eee solid 1px;
+          transition: ease-in-out;
 
-        a {
-            text-decoration: none;
-        }
+    &:hover {
+      background: #ddd;
+      transition: ease-in-out;
     }
-}
 
+    &:last-child {
+      border: none;
+    }
 
-// .tab-selector li.selected {
-//     border-bottom: solid 1px transparent;
-// }
+    &--Active {
+      background: #ddd;
+    }
+  }
 
-.tab-container {
-    padding: 0px;
-    list-style: none;
-    margin-top: -1px;
-    position: relative;
-}
+  &__Content {
+    height: 200px;
+    background: #ddd;
+    padding: 30px;
+  }
 
-.tab-container li {
-    padding: 10px;
-    text-align: left;
-    display: inline-block;
+  &__Inner {
     display: none;
+
+    &--Active {
+      display: block;
+    }
+  }
+}
+@media #{$small} {
+  .Tab {
+    width: 100%;
+  }
 }
 
-.tab-container li.selected {
-    display: block;
+@media #{middle} {
+    //641px〜959pxまで
 }
-
-.selector1, #container1 {
-    background-color: $BlueGrey-200;
-}
-
-.selector2, #container2 {
-    background-color: $BlueGrey-300;
-}
-
-.selector3, #container3 {
-    background-color: $BlueGrey-300;
+@media #{large} {
+    //960px以上
 }

@@ -1,53 +1,36 @@
 $(function(){
-
+  //スクロールヘッダー
   $(window).scroll(function() {
-                if ($(window).scrollTop() > 100) {
-                    $('.SiteHeader').addClass('SiteHeader-bg');
-                } else {
-                    $('.SiteHeader').removeClass('SiteHeader-bg');
-                }
-            });
-
-            $('.SiteNavi-toggle').on("click", function() {
-                $('.SiteHeader').toggleClass('SiteNavi-open');
-                return false;
-            });
-
-            $(".SiteNavi-shadow").click(function() {
-                $('.SiteHeader').removeClass('SiteNavi-open');
-                return false;
-            });
-
- //  背景色
- //  $('.section:odd').css('background-color','#eee');
-
-  $('.selector1,.selector2,.selector3').on('click', function(event){
-    event.preventDefault();
+    if ($(window).scrollTop() > 100) {
+      $('.Header').addClass('Header__Bg');
+    } else {
+      $('.Header').removeClass('Header__Bg');
+    }
   });
 
-    // 左タブをクリック
-  $('.selector1').click(function() {
-    $('#container1').css({'display' : 'block'});
-    $('#container2').css({'display' : 'none'});
-    $('#container3').css({'display' : 'none'});
+  //ハンバーガーメニュー
+  $('.Navi__Toggle').on("click", function() {
+    $('.Header').toggleClass('Navi__Open');
+    return false;
   });
 
-  // 右タブをクリック
-  $('.selector2').click(function() {
-    $('#container1').css({'display' : 'none'});
-    $('#container2').css({'display' : 'block'});
-    $('#container3').css({'display' : 'none'});
+  //ナビゲーション外タッチで閉じる
+  $(".Navi__Shadow").click(function() {
+    $('.Header').removeClass('Navi__Open');
+    return false;
   });
 
- // 右タブをクリック
-  $('.selector3').click(function() {
-    $('#container1').css({'display' : 'none'});
-    $('#container2').css({'display' : 'none'});
-    $('#container3').css({'display' : 'block'});
+  //タブ
+  $('.Tab__Btn').on('click',function(){
+    var index = $('.Tab__Btn').index(this);
+    $('.Tab__Inner').css('display','none');
+    $('.Tab__Inner').eq(index).css('display','block');
+    $('.Tab__Btn').removeClass('Tab__Btn--Active');
+    $(this).addClass('Tab__Btn--Active');
   });
 
-  //
-  $(".accordion dt").on("click", function() {
+  //アコーディオン
+  $(".Accordion dt").on("click", function() {
     $(this).next().slideToggle();
   });
 
