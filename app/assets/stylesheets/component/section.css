@@ -11,3 +11,19 @@
     width: 1000px;
   }
 }
+
+@media #{$small} {
+  .Section {
+
+    &__Inner {
+      width: 100%;
+    }
+  }
+}
+
+@media #{middle} {
+    //641px〜959pxまで
+}
+@media #{large} {
+    //960px以上
+}
